@@ -1,0 +1,1101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultilanguageLaravelApplication\n"
+"POT-Creation-Date: 2019-10-12 14:33-0700\n"
+<<<<<<< HEAD
+"PO-Revision-Date: 2019-10-12 14:34-0700\n"
+=======
+"PO-Revision-Date: 2019-10-12 14:54-0700\n"
+>>>>>>> d89b3e74528ef104eb1b46d6badf31f87ef7a230
+"Last-Translator: James Translator <james@translations.colm>\n"
+"Language-Team: James Translator <james@translations.colm>\n"
+"Language: po\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: _;__;_i;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http/Controllers/web\n"
+"X-Poedit-SearchPath-1: ../resources/views/web\n"
+"X-Poedit-SearchPath-2: ../storage/framework/front\n"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:6
+#: ../storage/framework/front/08da9ac082d48e1801567d2714311eb74297417f.php.php:6
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:6
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:8
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:6
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:6
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:7
+#: ../storage/framework/front/43ef5c2f6ba108cd296f47e25c3aa4ce0f3bbe89.php.php:35
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:7
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:6
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:7
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:6
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:5
+#: ../storage/framework/front/c37326561756b11ae22285d8c2dd1ee4d8f975ed.php.php:14
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:7
+#: ../storage/framework/front/f6d69681f369139d6a8b564dbffebd30f3b01e4a.php.php:14
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:88
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:153
+msgid "Home"
+msgstr "Judgment"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:7
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:7
+msgid "Search result"
+msgstr "Rezultati pretraživanja"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:33
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:63
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:33
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:62
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:68
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:62
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:91
+msgid "Send massges"
+msgstr "Pošalji poruku"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:42
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:72
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:42
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:71
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:77
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:71
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:100
+msgid "close"
+msgstr "zatvoriti"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:44
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:74
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:44
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:73
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:79
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:73
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:102
+msgid "send massege"
+msgstr "Pošalji poruku"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:46
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:76
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:46
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:75
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:81
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:75
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:104
+msgid "To login"
+msgstr "Za prijavu"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:83
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:83
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:141
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:145
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:141
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:141
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:941
+msgid "Sorry you should Login"
+msgstr "Izvinite što bi trebalo da se prijavite"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:107
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:107
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:166
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:169
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:166
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:180
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:165
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:211
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:966
+msgid "You should login in the web to send the like"
+msgstr "Treba da se prijavite na web kako biste poslali slično"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:128
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:128
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:187
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:190
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:187
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:186
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:987
+msgid "done like !!"
+msgstr "kao !!"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:137
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:137
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:196
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:199
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:196
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:195
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:996
+msgid "done dislike !!"
+msgstr "uradio ne volim !!"
+
+#: ../storage/framework/front/08da9ac082d48e1801567d2714311eb74297417f.php.php:7
+msgid "Zawage Article"
+msgstr "Članak Zawage"
+
+#: ../storage/framework/front/0aad5b69a82263076937bf936a125ddede2d58bd.php.php:84
+msgid "Sorry dont Found"
+msgstr "Žao mi je što nisam pronađen"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:62
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:64
+msgid "profile"
+msgstr "profil"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:65
+msgid "like"
+msgstr "kao"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:66
+msgid "blocked"
+msgstr "blokiran"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:67
+msgid "disliked"
+msgstr "ne volim"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:72
+msgid "login in web"
+msgstr "prijavite se na web"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:81
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:31
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:29
+msgid "Email"
+msgstr "Email"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:90
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:49
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:38
+msgid "Password"
+msgstr "Lozinka"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:100
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:48
+msgid "Remember Me"
+msgstr "Zapamti me"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:110
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:242
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:6
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:52
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:131
+msgid "Login"
+msgstr "Ulogovati se"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:115
+msgid "Forgot your password"
+msgstr "Zaboravili ste šifru"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:7
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:236
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:112
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:132
+msgid "Register"
+msgstr "Registrirajte se"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:43
+msgid "I have taken the oath, and I will stick to it"
+msgstr "Položio sam zakletvu i pridržavat ću se je"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:47
+msgid "Department"
+msgstr "Odeljenje"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:56
+msgid "female"
+msgstr "žensko"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:59
+msgid "male"
+msgstr "muško"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:62
+msgid "Register now"
+msgstr "Registrirajte se sada"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:104
+msgid "In the name of God I trusted in God God bless me good wife"
+msgstr "U ime Boga vjerovao sam u Boga, blagoslovi me dobra žena"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:110
+msgid "memberShip"
+msgstr "memberShip"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:113
+msgid " All member ship"
+msgstr "Sve članstvo"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:122
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:150
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:72
+msgid "username"
+msgstr "korisničko ime"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:128
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:47
+msgid "password"
+msgstr "lozinku"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:134
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:53
+msgid "password_confirmation"
+msgstr "potvrda lozinke"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:141
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:60
+msgid "email"
+msgstr "email"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:152
+msgid ""
+"The nickname that appears to all members must be decent and respectable must "
+"not exceed 15 characters"
+msgstr ""
+"Nadimak koji se pojavljuje svim članovima mora biti pristojan i "
+"respektabilan, ne smije biti veći od 15 znakova"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:164
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:56
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:35
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:56
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:44
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:31
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:67
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:103
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:39
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:74
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:40
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:56
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:39
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:461
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:528
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:595
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:85
+msgid "country"
+msgstr "država"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:177
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:75
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:98
+msgid "city"
+msgstr "grad"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:186
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:108
+msgid "Address"
+msgstr "Adresa"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:201
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:59
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:73
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:460
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:527
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:594
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:126
+msgid "nationalty"
+msgstr "nacionalnost"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:213
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:139
+msgid "material_status"
+msgstr "materijalni status"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:230
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:55
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:22
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:55
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:43
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:102
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:148
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:197
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:314
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:27
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:76
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:39
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:55
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:26
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:459
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:526
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:593
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:158
+msgid "age"
+msgstr "starost"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:306
+msgid "about the partener"
+msgstr "o partneru"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:308
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:317
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:236
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:245
+msgid ""
+"(Please write in a serious manner and it is forbidden to write email or "
+"mobile number in this place)"
+msgstr ""
+"(Molimo vas da napišete ozbiljno i da je zabranjeno pisati e-poštu ili "
+"mobilni broj na ovom mjestu)"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:315
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:243
+msgid "about_me"
+msgstr "o meni"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:325
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:253
+msgid "Very confidential information"
+msgstr "Vrlo povjerljive informacije"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:326
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:254
+msgid ""
+"Full name and mobile number: Management information that will never appear "
+"to anyone"
+msgstr ""
+"Puno ime i mobilni broj: Podaci o upravljanju koji se nikada nikome neće "
+"pojaviti"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:327
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:255
+msgid ""
+"Writing this information correctly is a confirmation of your seriousness in "
+"marriage"
+msgstr "Ispravno pisanje ovih podataka potvrda je vaše ozbiljnosti u braku"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:328
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:256
+msgid ""
+"By entering your mobile number, you will be able to use the Jawwal Jawal "
+"under construction service that allows you to receive and send mobile "
+"messages"
+msgstr ""
+"Unosom svog mobilnog broja moći ćete koristiti uslugu Jawwal Jawal u "
+"izgradnji koja omogućava primanje i slanje mobilnih poruka"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:332
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:260
+msgid "fullname"
+msgstr "puno ime"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:336
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:263
+msgid "mobile"
+msgstr "mobilni"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:351
+msgid "I have taken the oath and I will stick to it"
+msgstr "Položio sam zakletvu i pridržavat ću se je"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:356
+#: ../storage/framework/front/efd147b98b877c7fb1bd1a07669252ad72ca942b.php.php:65
+msgid "save"
+msgstr "Spremi"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:390
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:153
+msgid "Sorry not found city to this country"
+msgstr "Žao nam je, nisam našao grad za ovu zemlju"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:444
+msgid ""
+"You must determine your commitment to the department and determine your "
+"nationality"
+msgstr "Morate odrediti predanost odjelu i odrediti državljanstvo"
+
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:54
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:21
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:54
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:42
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:147
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:196
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:313
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:26
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:38
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:54
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:25
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:458
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:525
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:592
+msgid "name"
+msgstr "ime"
+
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:66
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:45
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:66
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:44
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:66
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:49
+msgid "login first"
+msgstr "prvo se prijavite"
+
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:107
+msgid "Sorry dont Found activeuser"
+msgstr "Žao nam je, ne pronađi aktivnog korisnika"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:6
+msgid "from"
+msgstr "od"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:7
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:29
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:350
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:412
+msgid "message"
+msgstr "poruka"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:8
+msgid "created_at"
+msgstr "created_at"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:9
+msgid "Controll"
+msgstr "Kontrola"
+
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:84
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:88
+msgid "Sorry dont Found search"
+msgstr "Žao nam je što nisam pronašao pretragu"
+
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:107
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:107
+msgid "Sorry dont Found onlineuser"
+msgstr "Žao nam je što nisam pronađen na mreži"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:185
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:49
+msgid "Language"
+msgstr "Jezik"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:206
+msgid "Stories"
+msgstr "Priče"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:207
+msgid "onlineUser"
+msgstr "onlineKorisnik"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:208
+msgid "My wish list"
+msgstr "Moja lista želja"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:218
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:94
+msgid "Members area"
+msgstr "Područje članova"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:224
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:100
+msgid "Profile"
+msgstr "Profil"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:228
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:104
+msgid "Logout"
+msgstr "Odjaviti se"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:237
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:113
+msgid "Log In"
+msgstr "Ulogovati se"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:244
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:98
+msgid "Contact Us"
+msgstr "Kontaktiraj nas"
+
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:26
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:25
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:25
+msgid "Country"
+msgstr "Država"
+
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:35
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:34
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:40
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:34
+msgid "all"
+msgstr "sve"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:10
+msgid "Categories"
+msgstr "Kategorije"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:20
+msgid "Contents"
+msgstr "Sadržaj"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:27
+msgid "Latest News"
+msgstr "Najnovije vijesti"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:41
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:56
+msgid "Social Media"
+msgstr "Društveni mediji"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:196
+#: Http/Controllers/web/profileController.php:196
+msgid "You have Massege from "
+msgstr "Imate poruku od"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:201
+#: Http/Controllers/web/profileController.php:201
+msgid "Succesffly message sended"
+msgstr "Poruka je uspješno poslana"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:320
+#: Http/Controllers/web/profileController.php:320
+msgid "updated Succfully"
+msgstr "ažurirano uspješno"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:488
+#: Http/Controllers/web/profileController.php:488
+msgid "Massege is sended succssfly"
+msgstr "Poruka se uspješno šalje"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:693
+#: Http/Controllers/web/profileController.php:693
+msgid "message is send successflly"
+msgstr "poruka je uspešno poslata"
+
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:5
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:5
+msgid "home"
+msgstr "Judgment"
+
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:6
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:6
+msgid "BestUser"
+msgstr "Najbolji korisnik"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:6
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:6
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:7
+#: ../storage/framework/front/c37326561756b11ae22285d8c2dd1ee4d8f975ed.php.php:14
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:7
+msgid "/"
+msgstr ""
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:7
+msgid "Replay massege"
+msgstr "Odgovori na poruku"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:52
+msgid "massege befor"
+msgstr "masaža prije"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:53
+msgid "dateOfRegister"
+msgstr "datum registracije"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:58
+msgid "online"
+msgstr "na vezi"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:60
+msgid "offline"
+msgstr "oprečan"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:102
+msgid "Do you want replay the massege"
+msgstr "Želite li odgovoriti na poruku"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:110
+msgid "message Subject"
+msgstr "Predmet poruke"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:112
+msgid "send"
+msgstr "poslati"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:8
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:8
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:30
+msgid "Reset Password"
+msgstr "Reset lozinke"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:21
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:18
+msgid "Don't have an account? Click here to register"
+msgstr "Nemate račun? Kliknite ovdje za registraciju"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:42
+msgid "Send a password reset code"
+msgstr "Pošaljite kôd za resetovanje lozinke"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:47
+msgid "Change Password"
+msgstr "Promenite lozinku"
+
+#: ../storage/framework/front/43ef5c2f6ba108cd296f47e25c3aa4ce0f3bbe89.php.php:17
+msgid "Normal Member"
+msgstr "Normalni član"
+
+#: ../storage/framework/front/43ef5c2f6ba108cd296f47e25c3aa4ce0f3bbe89.php.php:42
+msgid "Account Settings"
+msgstr "Postavke računa"
+
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:40
+msgid "Code Number"
+msgstr "Šifra"
+
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:67
+msgid "Save"
+msgstr "Spremi"
+
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:10
+msgid "home  "
+msgstr "Dom"
+
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:11
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:24
+msgid "last member"
+msgstr "posljednji član"
+
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:7
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:8
+msgid "Subscribed"
+msgstr "Pretplaćeni"
+
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:26
+msgid "Thanks for subscribe"
+msgstr "Hvala na pretplati"
+
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:29
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:31
+msgid "Click here to unsubscribe"
+msgstr "Kliknite ovdje za odjavu"
+
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:28
+msgid "You are already subscribed"
+msgstr "Već ste pretplaćeni"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:21
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:14
+msgid "Subscribe"
+msgstr "Pretplatite se"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:52
+msgid "search to"
+msgstr "traži u"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:54
+msgid "Chooose"
+msgstr "Odaberite"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:55
+msgid "Husband"
+msgstr "Muž"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:56
+msgid "wife"
+msgstr "supruga"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:61
+msgid "all_Nationalty"
+msgstr "svu nacionalnost"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:69
+msgid "all Country"
+msgstr "cijela država"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:78
+msgid "From"
+msgstr "Od"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:80
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:87
+msgid "DontCare"
+msgstr "Ne brini"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:85
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:785
+msgid "to"
+msgstr "do"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:93
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:95
+msgid "status"
+msgstr "statusa"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:98
+msgid "order result"
+msgstr "rezultat naloga"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:100
+msgid "lastlogin desc"
+msgstr "last desc"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:101
+msgid "postdate desc"
+msgstr "datum objave opis"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:106
+msgid "Advanced Search"
+msgstr "napredna pretraga"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:107
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:76
+msgid "search"
+msgstr "pretraživanje"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:114
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:124
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:165
+msgid "Active Members"
+msgstr "Aktivni članovi"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:166
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:121
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:162
+msgid "BestMember"
+msgstr "Najbolji član"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:217
+#: ../storage/framework/front/f6d69681f369139d6a8b564dbffebd30f3b01e4a.php.php:15
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:128
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:169
+msgid "successful Story"
+msgstr "uspješna priča"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:268
+msgid "Favoutite member"
+msgstr "Omiljeni član"
+
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:85
+msgid "Sorry not found!!!"
+msgstr "Izvinite što nisam pronađen !!!"
+
+#: ../storage/framework/front/711ded73b12372fd99163b2de531a483b4ef7af7.php.php:263
+#: Http/Controllers/web/HomeController.php:263
+msgid "suscribed deleted successfly"
+msgstr "pretplaćena izbrisana uspješno"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:71
+msgid "ID"
+msgstr "ID"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:78
+msgid "state"
+msgstr "državnog"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:86
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:234
+msgid "About the partener"
+msgstr "O partneru"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:87
+msgid "About me"
+msgstr "O meni"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:220
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:252
+msgid "You should login in the web to send the blocked"
+msgstr "Trebate se prijaviti na web kako biste poslali blokirane"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:240
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:273
+msgid "Done the user is blocked"
+msgstr "Završeno je korisnik blokiran"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:248
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:281
+msgid "Done the user is disliked"
+msgstr "Gotovo da korisnik ne voli"
+
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:56
+msgid "Sorry dont Found Story"
+msgstr "Izvinite što nisam pronašao priču"
+
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:7
+msgid "Search Advanced"
+msgstr "Traži Napredno"
+
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:54
+<<<<<<< HEAD
+#, fuzzy
+#| msgid "Forgot your password"
+=======
+>>>>>>> d89b3e74528ef104eb1b46d6badf31f87ef7a230
+msgid "forget the password"
+msgstr "Zaboravili ste šifru"
+
+#: ../storage/framework/front/c37326561756b11ae22285d8c2dd1ee4d8f975ed.php.php:15
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:8
+msgid "Account settings"
+msgstr "Postavke računa"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:17
+msgid "Welcome to your account management page"
+msgstr "Dobrodošli na stranicu za upravljanje računom"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:28
+msgid "notifaction"
+msgstr "obavještenje"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:30
+msgid "likeList"
+msgstr "poput Popisa"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:31
+msgid "dislikeList"
+msgstr "Lista ne sviđa"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:32
+msgid "who like me"
+msgstr "koji mi se sviđaju"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:33
+msgid "my massege"
+msgstr "moja poruka"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:34
+msgid "My favorite partner"
+msgstr "Moj omiljeni partner"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:35
+msgid "online now"
+msgstr "online sada"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:38
+msgid "settings"
+msgstr "postavke"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:39
+msgid "edit details"
+msgstr "uredi detalje"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:40
+msgid "contact mangment"
+msgstr "upravljanje kontaktima"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:41
+msgid "logout"
+msgstr "odjaviti se"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:89
+msgid "You have been with us since"
+msgstr "Od tada ste s nama"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:89
+msgid "Your membership number is"
+msgstr "Vaš članski broj je"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:90
+msgid "Your data page is at the following address"
+msgstr "Stranica s podacima nalazi se na sljedećoj adresi"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:93
+msgid "The time in the site is GMT"
+msgstr "Vrijeme na web mjestu je GMT"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:97
+msgid "  You can control your account properties with special settings"
+msgstr "Možete kontrolirati svojstva vašeg računa pomoću posebnih postavki"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:97
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:101
+msgid "click here"
+msgstr "kliknite ovdje"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:101
+msgid ""
+"  Change the status of your appearance from connected to hidden or vice versa"
+msgstr "Promijenite status svog izgleda iz povezanog u skriveno ili obrnuto"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:111
+msgid "Important notice to all members of the site"
+msgstr "Važna obavijest svim članovima web mjesta"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:113
+msgid ""
+"When a member is added to the ignore list he  she will not be able to email "
+"you anymore Please do not forget to help us and alert us to any member "
+"abusing the site, to take the necessary action against him"
+msgstr ""
+"Kada je član dodan na listu zanemarivanja, on vam više neće moći slati e-"
+"poštu. Nemojte zaboraviti da nam pomognete i upozorite nas na bilo kojeg "
+"člana koji zloupotrebljava web mjesto da poduzmemo potrebne radnje protiv "
+"njega"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:116
+msgid ""
+"We ask that we ask you and please not to give your e-mail to any young man "
+"no matter what the request Whatever the reasons.Giving e-mail to a young "
+"person for quicker understanding and conversation on Messenger is a "
+"violation of the terms of correspondence The only way to get in touch with a "
+"young man who wants to marry is through internal messaging Site It is the "
+"safest way and under the umbrella of site management"
+msgstr ""
+"Molimo vas da vas molimo i ne molimo da ne šaljete svoju e-poštu bilo kojem "
+"mladiću bez obzira na zahtjev. Bez obzira na razloge. Davanje e-maila mladoj "
+"osobi za brže razumijevanje i razgovor na Messengeru predstavlja kršenje "
+"uvjeta prepiska Jedini način da stupite u kontakt s mladićem koji se želi "
+"vjenčati je putem interneta za razmjenu poruka. To je najsigurniji način i "
+"pod kapom upravljanja web lokacijama"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:118
+msgid "Reason for prohibition"
+msgstr "Razlog zabrane"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:119
+msgid ""
+"Through research,scrutiny and follow-up of the members who request to chat "
+"outside the site do not want marriage, but dating and friendship only Most "
+"of the requests for e - mail and Messenger does not want to be under the "
+"cover of the site for fear of ban, so requests that the conversation takes "
+"place outside the site When a member offends the girl off site (via email or "
+"messenger), we do not see him and we have no concrete evidence of his ban "
+"Therefore, my sister registered on the site is prohibited to give e-mail "
+"information to the member There are hundreds of people who have been blessed "
+"by God through the site have used only internal messages"
+msgstr ""
+"Kroz istraživanje, pomno ispitivanje i praćenje članova koji traže da "
+"razgovaraju izvan web stranice, ne žele brak, već samo druženje i "
+"prijateljstvo Većina zahtjeva za e-poštu i Messenger ne želi biti pod tajnom "
+"stranicom za strah od zabrane, pa traži da se razgovor vodi izvan web "
+"lokacije Kada član vrijeđa djevojčicu sa stranice (putem e-maila ili "
+"glasnika), ne vidimo ga i nemamo konkretne dokaze o njegovoj zabrani. Dakle, "
+"moja sestra se prijavila na stranica je zabranjeno davati podatke o e-pošti "
+"članu Postoje stotine ljudi koje je Bog blagoslovio putem stranice koristili "
+"su samo interne poruke"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:121
+msgid "Bad script on site"
+msgstr "Loša skripta na licu mesta"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:122
+msgid ""
+"The young person registers the site with good data (false), and corresponds "
+"with the girl through internal messages, and ask her e-mail to identify "
+"Better on messenger and via email, so the poor girl believes him and gives "
+"him the email and messenger And then the young man reveals what he really is "
+"and asks to talk about things outside marriage and ask for illegal things. "
+"The girl will then tell the administration She has discovered a bad guy and "
+"asks him to ban him from the site. The supervisor enters and searches for "
+"the young man and sees his data Interior sent there is no And there is no "
+"directory inside the site, and the directory only on the messenger that is "
+"outside the appointed and powers of the site That is, when the girl violated "
+"the conditions of correspondence and the safe way set by the site and exited "
+"the young man outside the site I was insulted by the bad guy"
+msgstr ""
+"Mlada osoba registrira web mjesto s dobrim podacima (lažno) i dopisuje se s "
+"djevojkom putem internih poruka te od nje zatraži e-mail da identificira "
+"Better putem messengera i putem e-maila, pa mu jadna djevojka vjeruje i daje "
+"mu e-mail i messenger A onda mladić otkriva šta zapravo jest i traži da "
+"razgovara o stvarima izvan braka i zatraži ilegalne stvari. Djevojka će tada "
+"reći administraciji Otkrila je negativca i moli ga da ga zabrani sa "
+"stranice. Nadzornik ulazi i traži mladića i vidi njegove podatke. "
+"Unutrašnjost poslana nema i nema direktorija unutar web lokacije, a mapa "
+"samo na glasniku koji je izvan imenovanog i ovlasti web mjesta To jest, kad "
+"djevojka prekršio uvjete prepiske i siguran način koji je postavio mjesto i "
+"izišao s mladićem izvan stranice mene je uvrijedio negativac"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:411
+msgid "form"
+msgstr "forma"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:457
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:524
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:591
+msgid "numberId"
+msgstr "brojId"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:596
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:790
+msgid "created"
+msgstr "kreirao"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:648
+msgid "password is null please write new password"
+msgstr "lozinka je null, napišite novu lozinku"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:666
+msgid "password changed"
+msgstr "lozinka promijenjena"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:693
+msgid "email changed"
+msgstr "e-adresa je promijenjena"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:786
+msgid "massege"
+msgstr "masaža"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:791
+msgid "action"
+msgstr "akcija"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:856
+msgid "Succesffly values sended"
+msgstr "Vrijednosti su uspješno poslane"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:27
+msgid "member ship"
+msgstr "članstvo"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:30
+msgid "All member ship"
+msgstr "Sve članstvo"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:40
+msgid "user name"
+msgstr "korisničko ime"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:69
+msgid "date register"
+msgstr "registar datuma"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:72
+msgid "edit password"
+msgstr "uredi lozinku"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:73
+msgid "edit email"
+msgstr "uredi e-poštu"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:74
+msgid "delete member"
+msgstr "izbriši člana"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:270
+msgid "Edit Details"
+msgstr "Uredi detalje"
+
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:12
+msgid "Your E-mail"
+msgstr "Vaš email"
+
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:36
+msgid "Copyright © 2018 .com™. All rights reserved."
+msgstr "Copyright © 2018 .com ™. Sva prava zadržana"
+
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:44
+msgid "design and development by"
+msgstr "dizajn i razvoj"
+
+#: ../storage/framework/front/f6d69681f369139d6a8b564dbffebd30f3b01e4a.php.php:25
+msgid ""
+"We congratulate all the participants who have been blessed by God to find "
+"their other half through this site and wish them a happy life in obedience "
+"and satisfactions, and we wish God success to all members The following are "
+"some of the successful stories that we have announced"
+msgstr ""
+"Čestitamo svim sudionicima koje je Bog blagoslovio da su pronašli svoju "
+"drugu polovicu putem ove stranice i želimo im sretan život u poslušnosti i "
+"zadovoljstvima, te želimo Bogu uspjeh svim članovima Slijedi nekoliko "
+"uspješnih priča koje smo najavili"
+
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:118
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:159
+msgid "Latest Members"
+msgstr "Najnoviji članovi"
+
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:173
+msgid "Article"
+msgstr "Član"
+
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:201
+msgid "subscribe"
+msgstr "pretplatite se"

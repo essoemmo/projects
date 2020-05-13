@@ -1,0 +1,2 @@
+[12-Nov-2019 15:43:19 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/qeyeq/public_html/beta/app/Exceptions/Handler.php on line 8
+[13-Nov-2019 17:25:13 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/qeyeq/public_html/beta/app/Exceptions/Handler.php on line 8

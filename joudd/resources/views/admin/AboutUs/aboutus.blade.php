@@ -1,0 +1,1 @@
+@extends('admin.layout.layout')@section('content')<p>this is about us</p>@endsection

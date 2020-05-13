@@ -1,0 +1,11 @@
+[12-Nov-2019 16:11:56 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_21_140519_create_contacts_table.php on line 7
+[12-Nov-2019 16:11:57 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_24_213437_add_slider_foreign_key.php on line 7
+[12-Nov-2019 16:11:58 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_22_1738595_add_article_foreign_key.php on line 7
+[12-Nov-2019 16:12:01 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_22_120937_create_ratings_table.php on line 7
+[12-Nov-2019 16:12:08 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_2333_073501_create_favorites_table.php on line 7
+[12-Nov-2019 16:12:20 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_21_122315_create_newsletters_table.php on line 6
+[12-Nov-2019 16:12:22 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_22_1738591_create_articles_table.php on line 7
+[12-Nov-2019 16:12:28 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_22_1738592_create_artcl_categories_table.php on line 7
+[12-Nov-2019 16:12:31 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_282_1738594_create_article_data_table.php on line 7
+[12-Nov-2019 16:12:41 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_22_121924_add_product_rating_pivot_table.php on line 7
+[12-Nov-2019 16:12:52 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/2019_10_22_1738593_create_article_category_table.php on line 7

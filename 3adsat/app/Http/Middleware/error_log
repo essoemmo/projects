@@ -1,0 +1,13 @@
+[12-Nov-2019 16:12:58 UTC] PHP Fatal error:  Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/authadmin.php on line 9
+[12-Nov-2019 16:13:38 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/TrimStrings.php on line 7
+[12-Nov-2019 16:14:37 UTC] PHP Fatal error:  Class 'Fideloper\Proxy\TrustProxies' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/TrustProxies.php on line 8
+[12-Nov-2019 16:15:03 UTC] PHP Fatal error:  Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/Authenticate.php on line 7
+[12-Nov-2019 16:15:36 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/EncryptCookies.php on line 7
+[12-Nov-2019 16:15:38 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[13-Nov-2019 17:46:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/TrimStrings.php on line 7
+[13-Nov-2019 17:46:28 UTC] PHP Fatal error:  Class 'Fideloper\Proxy\TrustProxies' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/TrustProxies.php on line 8
+[13-Nov-2019 17:49:50 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[13-Nov-2019 17:50:12 UTC] PHP Fatal error:  Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/Authenticate.php on line 7
+[13-Nov-2019 17:50:54 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/EncryptCookies.php on line 7
+[13-Nov-2019 17:51:16 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[13-Nov-2019 17:51:37 UTC] PHP Fatal error:  Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/qeyeq/public_html/beta/app/Http/Middleware/authadmin.php on line 9

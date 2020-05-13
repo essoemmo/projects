@@ -1,0 +1,3 @@
+
+volunteers =>			$table->string('personal_id',20)->unique();
+applicants =>			$table->string('personal_id',20)->unique();

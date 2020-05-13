@@ -1,0 +1,2 @@
+[14-Nov-2019 07:49:28 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/qeyeq/public_html/beta/app/Models/rating/userRating.php on line 7
+[14-Nov-2019 07:50:38 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/qeyeq/public_html/beta/app/Models/rating/rating.php on line 7

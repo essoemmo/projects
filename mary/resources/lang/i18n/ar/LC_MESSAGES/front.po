@@ -1,0 +1,1090 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultilanguageLaravelApplication\n"
+<<<<<<< HEAD
+"POT-Creation-Date: 2019-10-12 09:39-0700\n"
+"PO-Revision-Date: 2019-10-12 09:39-0700\n"
+=======
+"POT-Creation-Date: 2019-10-12 21:33+0000\n"
+"PO-Revision-Date: 2019-10-12 21:33+0000\n"
+>>>>>>> d89b3e74528ef104eb1b46d6badf31f87ef7a230
+"Last-Translator: James Translator <james@translations.colm>\n"
+"Language-Team: James Translator <james@translations.colm>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_i;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http/Controllers/web\n"
+"X-Poedit-SearchPath-1: ../resources/views/web\n"
+"X-Poedit-SearchPath-2: ../storage/framework/front/\n"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:6
+#: ../storage/framework/front/08da9ac082d48e1801567d2714311eb74297417f.php.php:6
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:6
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:8
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:6
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:6
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:7
+#: ../storage/framework/front/43ef5c2f6ba108cd296f47e25c3aa4ce0f3bbe89.php.php:35
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:7
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:6
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:7
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:6
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:5
+#: ../storage/framework/front/c37326561756b11ae22285d8c2dd1ee4d8f975ed.php.php:14
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:7
+#: ../storage/framework/front/f6d69681f369139d6a8b564dbffebd30f3b01e4a.php.php:14
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:88
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:153
+msgid "Home"
+msgstr "الرئيسية"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:7
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:7
+msgid "Search result"
+msgstr "نتائج البحث"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:33
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:63
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:33
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:62
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:68
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:62
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:91
+msgid "Send massges"
+msgstr "ارسال رسالة"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:42
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:72
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:42
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:71
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:77
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:71
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:100
+msgid "close"
+msgstr "اغلاق"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:44
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:74
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:44
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:73
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:79
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:73
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:102
+msgid "send massege"
+msgstr "ارسال رسالة"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:46
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:76
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:46
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:75
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:81
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:75
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:104
+msgid "To login"
+msgstr "التسجل في الموقع"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:83
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:83
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:141
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:145
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:141
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:141
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:941
+msgid "Sorry you should Login"
+msgstr "عفوا يجب التسجيل أولا في الموقع"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:107
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:107
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:166
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:169
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:166
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:180
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:165
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:211
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:966
+msgid "You should login in the web to send the like"
+msgstr "يجب التسجل أولا لكي تستطيع ارسال الاهتمام"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:128
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:128
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:187
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:190
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:187
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:186
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:987
+msgid "done like !!"
+msgstr "تم الارسال بنجاح"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:137
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:137
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:196
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:199
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:196
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:195
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:996
+msgid "done dislike !!"
+msgstr "تم ارسالة عد اهتمام بنجاح"
+
+#: ../storage/framework/front/08da9ac082d48e1801567d2714311eb74297417f.php.php:7
+msgid "Zawage Article"
+msgstr "مدونة  زواج"
+
+#: ../storage/framework/front/0aad5b69a82263076937bf936a125ddede2d58bd.php.php:84
+msgid "Sorry dont Found"
+msgstr "عفوا لايوجد نتيجة"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:62
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:64
+msgid "profile"
+msgstr "الحساب الشخصي"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:65
+msgid "like"
+msgstr "اهتمام"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:66
+msgid "blocked"
+msgstr "حظر"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:67
+msgid "disliked"
+msgstr "غير مهتم"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:72
+msgid "login in web"
+msgstr "التسجل في الموقع"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:81
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:31
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:29
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:90
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:49
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:38
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:100
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:48
+msgid "Remember Me"
+msgstr "تذكرني"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:110
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:242
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:6
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:52
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:131
+msgid "Login"
+msgstr "دخول"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:115
+msgid "Forgot your password"
+msgstr "نسيت كلمة المرور"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:7
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:236
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:112
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:132
+msgid "Register"
+msgstr "التسجيل الان"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:43
+msgid "I have taken the oath, and I will stick to it"
+msgstr "لقد حلفت اليمين ، وسألتزم بها"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:47
+msgid "Department"
+msgstr "الاقسام"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:56
+msgid "female"
+msgstr "انثي"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:59
+msgid "male"
+msgstr "رجل"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:62
+msgid "Register now"
+msgstr "التسجيل الان"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:104
+msgid "In the name of God I trusted in God God bless me good wife"
+msgstr "بسم الله , توكلت على الله , اللهم أرزقني الزوجة الصالحة"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:110
+msgid "memberShip"
+msgstr "العضويات"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:113
+msgid " All member ship"
+msgstr "كل العضويات"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:122
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:150
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:72
+msgid "username"
+msgstr "اسم المستخدم"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:128
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:47
+msgid "password"
+msgstr "كلمة المرور"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:134
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:53
+msgid "password_confirmation"
+msgstr "تاكييد كلمة المرور"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:141
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:60
+msgid "email"
+msgstr "البريد الالكتروني"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:152
+msgid ""
+"The nickname that appears to all members must be decent and respectable must "
+"not exceed 15 characters"
+msgstr ""
+"هو الاسم المستعار الذي يظهر لجميع الاعضاء يجب أن يكون لائق ومحترم يجب أن "
+"لايزيد عن 15 حرف"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:164
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:56
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:35
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:56
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:44
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:31
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:67
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:103
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:39
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:74
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:40
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:56
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:39
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:461
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:528
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:595
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:85
+msgid "country"
+msgstr "البلاد"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:177
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:75
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:98
+msgid "city"
+msgstr "المدينة"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:186
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:108
+msgid "Address"
+msgstr "العنوان"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:201
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:59
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:73
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:460
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:527
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:594
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:126
+msgid "nationalty"
+msgstr "الجنسيات"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:213
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:139
+msgid "material_status"
+msgstr "الحالة الاجتماعية"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:230
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:55
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:22
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:55
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:43
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:102
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:148
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:197
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:317
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:27
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:76
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:39
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:55
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:26
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:459
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:526
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:593
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:158
+msgid "age"
+msgstr "العمر"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:306
+msgid "about the partener"
+msgstr "عن شريكي"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:308
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:317
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:236
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:245
+msgid ""
+"(Please write in a serious manner and it is forbidden to write email or "
+"mobile number in this place)"
+msgstr ""
+"( يرجى الكتابة بطريقة جادة , ,ويمنع كتابة الإيميل أو رقم الجوال في هذا "
+"المكان)"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:315
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:243
+msgid "about_me"
+msgstr "عن نفسك"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:325
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:253
+msgid "Very confidential information"
+msgstr "معلومات سريه جدا"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:326
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:254
+msgid ""
+"Full name and mobile number: Management information that will never appear "
+"to anyone"
+msgstr "الاسم الكامل ورقم الجوال : معلومات خاصة بالإدارة ولن تظهر لأحد أبدا "
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:327
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:255
+msgid ""
+"Writing this information correctly is a confirmation of your seriousness in "
+"marriage"
+msgstr "كتابه هذه المعلومات بشكل صحيح هو تاكيد لجديك في الزواج"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:328
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:256
+msgid ""
+"By entering your mobile number, you will be able to use the Jawwal Jawal "
+"under construction service that allows you to receive and send mobile "
+"messages"
+msgstr ""
+"من خلال إدخال رقم هاتفك النقال ، ستكون قادرا علي استخدام جوال جوال تحت خدمه "
+"البناء التي تسمح لك باستلام وإرسال رسائل الجوال"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:332
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:260
+msgid "fullname"
+msgstr "الاسم بالكامل"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:336
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:263
+msgid "mobile"
+msgstr "رقم الجوال"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:351
+msgid "I have taken the oath and I will stick to it"
+msgstr "لقد حلفت اليمين ، وسألتزم بها"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:356
+#: ../storage/framework/front/efd147b98b877c7fb1bd1a07669252ad72ca942b.php.php:65
+msgid "save"
+msgstr "حفظ"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:390
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:153
+msgid "Sorry not found city to this country"
+msgstr "عذرا لايوجد مدينة لهذا البلد"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:444
+msgid ""
+"You must determine your commitment to the department and determine your "
+"nationality"
+msgstr "يجب عليك اختيار القسم اولا"
+
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:54
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:21
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:54
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:42
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:147
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:196
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:316
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:26
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:38
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:54
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:25
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:458
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:525
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:592
+msgid "name"
+msgstr "الاسم"
+
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:66
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:45
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:66
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:44
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:66
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:49
+msgid "login first"
+msgstr "المسجلين اولا"
+
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:107
+msgid "Sorry dont Found activeuser"
+msgstr "عذرا لايوجد أعضاء نشطين حاليا"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:6
+msgid "from"
+msgstr "من"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:7
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:29
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:350
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:412
+msgid "message"
+msgstr "الرسائل"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:8
+msgid "created_at"
+msgstr "أنشئ في"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:9
+msgid "Controll"
+msgstr "التحكم"
+
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:84
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:88
+msgid "Sorry dont Found search"
+msgstr "اسف لايوجد نتائج لهذا البحث"
+
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:107
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:107
+msgid "Sorry dont Found onlineuser"
+msgstr "عذرا لايوجد أعضاء نشطين حاليا"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:185
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:49
+msgid "Language"
+msgstr "اللغة"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:206
+msgid "Stories"
+msgstr "القصص"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:207
+msgid "onlineUser"
+msgstr "الأعضاء النشطين"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:208
+msgid "My wish list"
+msgstr "قائمة  المفضلة"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:218
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:94
+msgid "Members area"
+msgstr "منطقة العضو"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:224
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:100
+msgid "Profile"
+msgstr "الحساب الشخصي"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:228
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:104
+msgid "Logout"
+msgstr "خروج"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:237
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:113
+msgid "Log In"
+msgstr "دخول"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:244
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:98
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:26
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:25
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:25
+msgid "Country"
+msgstr "البلاد"
+
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:35
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:34
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:40
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:34
+msgid "all"
+msgstr "الكل"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:10
+msgid "Categories"
+msgstr "الاقسام"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:20
+msgid "Contents"
+msgstr "الاتصال"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:27
+msgid "Latest News"
+msgstr "اخر الاعضاء"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:41
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:56
+msgid "Social Media"
+msgstr "وسائل التواصل الاجتماعي"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:196
+#: Http/Controllers/web/profileController.php:196
+msgid "You have Massege from "
+msgstr "لديك  رسالة جديدة"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:201
+#: Http/Controllers/web/profileController.php:201
+msgid "Succesffly message sended"
+msgstr "تم ارسال الرسالة بنجاح"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:320
+#: Http/Controllers/web/profileController.php:320
+msgid "updated Succfully"
+msgstr "تم التحديث بنجاح"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:488
+#: Http/Controllers/web/profileController.php:488
+msgid "Massege is sended succssfly"
+msgstr "تم ارسال الرسالة بنجاح"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:693
+#: Http/Controllers/web/profileController.php:693
+msgid "message is send successflly"
+msgstr "تم ارسال الرسالة بنجاح"
+
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:5
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:5
+msgid "home"
+msgstr "الرئيسية"
+
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:6
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:6
+msgid "BestUser"
+msgstr "افضل الاعضاء"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:6
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:6
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:7
+#: ../storage/framework/front/c37326561756b11ae22285d8c2dd1ee4d8f975ed.php.php:14
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:7
+msgid "/"
+msgstr "الرئيسية"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:7
+msgid "Replay massege"
+msgstr "ارسال رد"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:52
+msgid "massege befor"
+msgstr "الرسالة قبل"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:53
+msgid "dateOfRegister"
+msgstr "تاريخ التسجيل"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:58
+msgid "online"
+msgstr "اونلاين"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:60
+msgid "offline"
+msgstr "اوفلاين"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:102
+msgid "Do you want replay the massege"
+msgstr "هل تريد الرد علي الرسائل"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:110
+msgid "message Subject"
+msgstr "موضوع الرسالة"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:112
+msgid "send"
+msgstr "ارسال"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:8
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:8
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:30
+msgid "Reset Password"
+msgstr "تاكييد كلمة المرور"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:21
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:18
+msgid "Don't have an account? Click here to register"
+msgstr "هل لديك حساب ؟ اضغط لتسجي جديد"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:42
+msgid "Send a password reset code"
+msgstr "ارسال الكود لاعادة كلمة المرور"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:47
+msgid "Change Password"
+msgstr "تغير كلمة المرور"
+
+#: ../storage/framework/front/43ef5c2f6ba108cd296f47e25c3aa4ce0f3bbe89.php.php:17
+msgid "Normal Member"
+msgstr "عضو عادي"
+
+#: ../storage/framework/front/43ef5c2f6ba108cd296f47e25c3aa4ce0f3bbe89.php.php:42
+msgid "Account Settings"
+msgstr "اعدادت الحساب"
+
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:40
+msgid "Code Number"
+msgstr "كود الرقم"
+
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:67
+msgid "Save"
+msgstr "حفظ"
+
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:10
+msgid "home  "
+msgstr "الرئيسية"
+
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:11
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:24
+msgid "last member"
+msgstr "اخر اللاعضاء"
+
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:7
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:8
+msgid "Subscribed"
+msgstr "الاشتراكات"
+
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:26
+msgid "Thanks for subscribe"
+msgstr "شكرا علي اشتراكك معنا"
+
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:29
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:31
+msgid "Click here to unsubscribe"
+msgstr "اضغط هنا لالغاء الاشتراك"
+
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:28
+msgid "You are already subscribed"
+msgstr "انت حقا مشترك حاليا"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:21
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:14
+msgid "Subscribe"
+msgstr "الاشتراكات"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:52
+msgid "search to"
+msgstr "بحث في"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:54
+msgid "Chooose"
+msgstr "اختر"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:55
+msgid "Husband"
+msgstr "زوج"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:56
+msgid "wife"
+msgstr "زوجة"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:61
+msgid "all_Nationalty"
+msgstr "كل الجنسيات"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:69
+msgid "all Country"
+msgstr "كل البلاد"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:78
+msgid "From"
+msgstr "من"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:80
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:87
+msgid "DontCare"
+msgstr "لايهم"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:85
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:785
+msgid "to"
+msgstr "الي"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:93
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:95
+msgid "status"
+msgstr "الحالة"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:98
+msgid "order result"
+msgstr "النتائج القديمة"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:100
+msgid "lastlogin desc"
+msgstr "اخر دخول"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:101
+msgid "postdate desc"
+msgstr "اخر تحديث"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:106
+msgid "Advanced Search"
+msgstr "بحث متقدم"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:107
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:76
+msgid "search"
+msgstr "البحث"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:114
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:124
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:165
+msgid "Active Members"
+msgstr "الأعضاء النشطة"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:166
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:121
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:162
+msgid "BestMember"
+msgstr "افضل الاعضاء"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:217
+#: ../storage/framework/front/f6d69681f369139d6a8b564dbffebd30f3b01e4a.php.php:15
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:128
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:169
+msgid "successful Story"
+msgstr "القصص الناجحة"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:268
+msgid "Favoutite member"
+msgstr "اقرب  الاعضاءاليك"
+
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:85
+msgid "Sorry not found!!!"
+msgstr "اسف لايوجد نتائج لهذا البحث"
+
+#: ../storage/framework/front/711ded73b12372fd99163b2de531a483b4ef7af7.php.php:262
+#: Http/Controllers/web/HomeController.php:262
+msgid "suscribed deleted successfly"
+msgstr "تم حذف الاشتراك بنجاح"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:71
+msgid "ID"
+msgstr "رقم المسلسل"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:78
+msgid "state"
+msgstr "الحالة"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:86
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:234
+msgid "About the partener"
+msgstr "معلومات عن شريكك"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:87
+msgid "About me"
+msgstr "معلومات عنك"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:220
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:252
+msgid "You should login in the web to send the blocked"
+msgstr "يجب التسجل أولا لكي تستطيع ارسال الحظر"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:240
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:273
+msgid "Done the user is blocked"
+msgstr "تم حظر هذا المستخدم بنجاح"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:248
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:281
+msgid "Done the user is disliked"
+msgstr "تم ارسال عدم اهتمام لهذا المستخدم"
+
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:56
+msgid "Sorry dont Found Story"
+msgstr "اسف لايوجد نتائج لهذا البحث"
+
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:7
+msgid "Search Advanced"
+msgstr "بحث متقدم"
+
+#: ../storage/framework/front/c37326561756b11ae22285d8c2dd1ee4d8f975ed.php.php:15
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:8
+msgid "Account settings"
+msgstr "اعدادت الحساب"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:17
+msgid "Welcome to your account management page"
+msgstr "اهلا ومرجبا بك في صفحة حسابك الشخصية"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:28
+msgid "notifaction"
+msgstr "الاشعارات"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:30
+msgid "likeList"
+msgstr "اهتمام"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:31
+msgid "dislikeList"
+msgstr "غير مهتم"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:32
+msgid "who like me"
+msgstr "تم الارسال بنجاح"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:33
+msgid "my massege"
+msgstr "رسائلي"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:34
+msgid "My favorite partner"
+msgstr "عن شريكي"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:35
+msgid "online now"
+msgstr "اونلاين"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:38
+msgid "settings"
+msgstr "اعدادت الحساب"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:39
+msgid "edit details"
+msgstr "تعديل"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:40
+msgid "contact mangment"
+msgstr "مراسلة الادارة"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:41
+msgid "logout"
+msgstr "خروج"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:89
+msgid "You have been with us since"
+msgstr "أنت مشترك معنا منذ قبل"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:89
+msgid "Your membership number is"
+msgstr "ورقم عضويتك هو"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:90
+msgid "Your data page is at the following address"
+msgstr "صفحة بياناتك موجودة على العنوان التالي"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:93
+msgid "The time in the site is GMT"
+msgstr "الوقت في الموقع هو بتوقيت جرينتش"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:97
+msgid "  You can control your account properties with special settings"
+msgstr "يمكنك التحكم بخصائص حسابك من خلال الإعدادات الخاصة"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:97
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:101
+msgid "click here"
+msgstr "اضغط هنا"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:101
+msgid ""
+"  Change the status of your appearance from connected to hidden or vice versa"
+msgstr " لتغيير حالة ظهورك في الموقع من متصل الى خفي أو العكس"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:111
+msgid "Important notice to all members of the site"
+msgstr "تنبيه هام لكل العضوات في الموقع"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:113
+msgid ""
+"When a member is added to the ignore list he  she will not be able to email "
+"you anymore Please do not forget to help us and alert us to any member "
+"abusing the site, to take the necessary action against him"
+msgstr ""
+"عند إضافة اي عضو الى قائمة التجاهل , فإنه لن يستطيع مراسلتك بعد الآن , كيف "
+"أفعل ذلك نرجو منك عدم نسيان مساعدتنا وتنبيهنا على أي عضو يسيئ استخدام "
+"الموقع , لنقوم بإتخاذ الإجراء الازم بحقه"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:116
+msgid ""
+"We ask that we ask you and please not to give your e-mail to any young man "
+"no matter what the request Whatever the reasons.Giving e-mail to a young "
+"person for quicker understanding and conversation on Messenger is a "
+"violation of the terms of correspondence The only way to get in touch with a "
+"young man who wants to marry is through internal messaging Site It is the "
+"safest way and under the umbrella of site management"
+msgstr ""
+" منك ونطلب اليك ونترجـــــاااااك أن لا تقومي بإعطاء البريد الإلكتروني الخاص "
+"بك لأي شاب مهما الح في الطلب ومهما كانت الأسباب .\n"
+" عطاء البريد الإلكتروني للشاب بغرض التفاهم بشكل اسرع وبغرض المحادثة على "
+"الماسنجر يعتبر مخالفة لشروط المراسلة ويعرضك للحظر من الموقع .الطريقة الوحيدة "
+"في للتواصل مع الشاب الراغب بالزواج هي المراسلة الداخليه فقط عn\n"
+"الموقع وهي أأمن طريقة وتحت مظلة إدارة الموقع "
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:118
+msgid "Reason for prohibition"
+msgstr "سبب المنع"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:119
+msgid ""
+"Through research,scrutiny and follow-up of the members who request to chat "
+"outside the site do not want marriage, but dating and friendship only Most "
+"of the requests for e - mail and Messenger does not want to be under the "
+"cover of the site for fear of ban, so requests that the conversation takes "
+"place outside the site When a member offends the girl off site (via email or "
+"messenger), we do not see him and we have no concrete evidence of his ban "
+"Therefore, my sister registered on the site is prohibited to give e-mail "
+"information to the member There are hundreds of people who have been blessed "
+"by God through the site have used only internal messages"
+msgstr ""
+"من خلال البحث والتدقيق والمتابعة فإن 85% من الأعضاء الذين يطلبون المحادثة "
+"خارج الموقع لايريدون الزواج وإنما التعارف والصداقة فقط .\n"
+"اغلب من يطلب الايميل والماسنجر لايريد أن يكون تحت غطاء الموقع خوفا من "
+"الحظر , لذلك يطلب أن تتم المحادثة خارج الموقع . عندما يسئ العضو للفتاة خارج "
+"الموقع (عبر الإيميل أو الماسنجر) , فنحن لانراه وليس لدينا دليل ملموس على "
+"حظره .\n"
+"لذلك ممنوع يا أختي المسجلة بالموقع أعطاء معلومات الإيميل للعضو\n"
+"هناك المئات من الذين وفقهم الله عبر الموقع لم يستخدمو الا الرسائل الداخليه"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:121
+msgid "Bad script on site"
+msgstr "سيناريو السيئين في الموقع"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:122
+msgid ""
+"The young person registers the site with good data (false), and corresponds "
+"with the girl through internal messages, and ask her e-mail to identify "
+"Better on messenger and via email, so the poor girl believes him and gives "
+"him the email and messenger And then the young man reveals what he really is "
+"and asks to talk about things outside marriage and ask for illegal things. "
+"The girl will then tell the administration She has discovered a bad guy and "
+"asks him to ban him from the site. The supervisor enters and searches for "
+"the young man and sees his data Interior sent there is no And there is no "
+"directory inside the site, and the directory only on the messenger that is "
+"outside the appointed and powers of the site That is, when the girl violated "
+"the conditions of correspondence and the safe way set by the site and exited "
+"the young man outside the site I was insulted by the bad guy"
+msgstr ""
+"يقوم الشاب بالتسجيل بالموقع ببيانات جيدة (كاذبة) , ويقوم بمراسلة الفتاة عبر "
+"الرسائل الداخلية, ويطلب منها البريد الإلكتروني للتعرف بشكل أفضل على الماسنجر "
+"وعبر الإيميل, فتصدقه الفتاة المسكينة وتعطيه الايميل والماسنجر, وبعدها ينكشف "
+"الشاب على حقيقته ويطلب التحدث بأمور خارج موضوع الزواج ويطلب اشياء غير شرعية ."
+"ستقوم الفتاة بعدها بإخبار الإدارة انها اكتشفت شاب سيئ وتطلب حظره من الموقع ."
+"يدخل المشرف ويبحث عن الشاب ويشاهد بياناته فيجدها جيدة فيشاهد رسائلة الداخلية "
+"المرسلة فلا يجد بها سوء !!!! , ولا يوجد أي دليل داخل الموقع , والدليل فقط "
+"على الماسنجر الذي هو خارج عين وصلاحيات الموقع .\n"
+"ي عندما خالفت الفتاة شروط المراسلة والطريقة الآمنه التي وضعها الموقع  وخرجت "
+"تحادث الشاب خارج الموقع تعرضت لهذه الإهانة من الشاب السيئ ."
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:411
+msgid "form"
+msgstr "من"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:457
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:524
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:591
+msgid "numberId"
+msgstr "#"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:596
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:790
+msgid "created"
+msgstr "أنشئ في"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:648
+msgid "password is null please write new password"
+msgstr "برجاء ادخال كلمة المرور"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:666
+msgid "password changed"
+msgstr "تم تغير كلمة المرور"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:693
+msgid "email changed"
+msgstr "تم تغير البريد الالكتروني"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:786
+msgid "massege"
+msgstr "ارسال رسالة"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:791
+msgid "action"
+msgstr "التحكم"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:856
+msgid "Succesffly values sended"
+msgstr "تم ارسال القيم بنجاح"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:27
+msgid "member ship"
+msgstr "العضويات"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:30
+msgid "All member ship"
+msgstr "كل العضويات"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:40
+msgid "user name"
+msgstr "الاسم"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:69
+msgid "date register"
+msgstr "تاريخ التسجيل"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:72
+msgid "edit password"
+msgstr "تعديل كلمة المرور"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:73
+msgid "edit email"
+msgstr "تعديل الايميل"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:74
+msgid "delete member"
+msgstr "حذف العضوية"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:270
+msgid "Edit Details"
+msgstr "تعديل"
+
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:12
+msgid "Your E-mail"
+msgstr "ايميلك"
+
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:36
+msgid "Copyright © 2018 .com™. All rights reserved."
+msgstr "كل الحقوق محفوظة"
+
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:44
+msgid "design and development by"
+msgstr "تصميم وتطوير"
+
+#: ../storage/framework/front/f6d69681f369139d6a8b564dbffebd30f3b01e4a.php.php:25
+msgid ""
+"We congratulate all the participants who have been blessed by God to find "
+"their other half through this site and wish them a happy life in obedience "
+"and satisfactions, and we wish God success to all members The following are "
+"some of the successful stories that we have announced"
+msgstr ""
+"نهنئ جميع المشتركين الذين وفقهم الله بإيجاد نصفهم الآخر عبر هذا الموقع "
+"ونتمنى لهم حياة سعيدة في طاعته ومرضاته , ونرجو من الله التوفيق لجميع الأعضاء "
+"فيما يلي بعض من القصص الناجحة التي بشرنا بها"
+
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:118
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:159
+msgid "Latest Members"
+msgstr "اخر الاعضاء"
+
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:173
+msgid "Article"
+msgstr "المدونة"
+
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:201
+msgid "subscribe"
+msgstr "الاشتراكات"
+
+#~ msgid "OnineUser"
+#~ msgstr "الاعضاء النشطين"

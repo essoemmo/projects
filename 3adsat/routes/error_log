@@ -1,0 +1,20 @@
+[12-Nov-2019 15:52:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/qeyeq/public_html/beta/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/routes/console.php on line 16
+[12-Nov-2019 15:52:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/qeyeq/public_html/beta/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/routes/channels.php on line 14
+[12-Nov-2019 15:52:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/qeyeq/public_html/beta/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/routes/web.php on line 16
+[12-Nov-2019 15:53:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/qeyeq/public_html/beta/routes/admin.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/routes/admin.php on line 3
+[12-Nov-2019 15:53:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/qeyeq/public_html/beta/routes/security.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/routes/security.php on line 2

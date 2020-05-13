@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Ara Hamah AlThawra';
+    src: url('hinted-AraHamahAlThawra-Regular.eot');
+    src: url('hinted-AraHamahAlThawra-Regular.eot?#iefix') format('embedded-opentype'),
+        url('hinted-AraHamahAlThawra-Regular.woff2') format('woff2'),
+        url('hinted-AraHamahAlThawra-Regular.woff') format('woff'),
+        url('hinted-AraHamahAlThawra-Regular.ttf') format('truetype'),
+        url('hinted-AraHamahAlThawra-Regular.svg#AraHamahAlThawra-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

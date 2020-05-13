@@ -1,0 +1,55 @@
+
+        //Best Sellers
+//        $products_orders = order_products::select(DB::raw('`product_id` as pro_id,count(`product_id`) as product_count'))
+//            ->groupBy('product_id')
+//            ->get();
+////        dd($products_orders);
+//
+
+        $pros = products::all();
+
+        $pros = $pros->map(function ($product){
+            if (count($product->order_products) > 1){
+                $product->order_count = count($product->order_products);
+            }
+            return $product;
+        });
+        dd($pros->sortByDesc('order_count'));
+
+
+
+
+
+
+        //Best Sellers
+//        $products_orders = order_products::select(DB::raw('`product_id` as pro_id,count(`product_id`) as product_count'))
+//            ->groupBy('product_id')
+//            ->get();
+////        dd($products_orders);
+
+        // map fpr product to return count of orders on this product
+        $pros = products::all();
+        $pros = $pros->map(function ($product){
+            if (count($product->order_products) > 1){
+                $product->order_count = count($product->order_products);
+            }
+            return $product;
+        });
+        $best = $pros->sortByDesc('order_count')->take(6);
+
+        foreach ($best as $single)
+        {
+            $data =  DB::table('products')
+                ->where('products.id', $single->id)
+                ->join('product_details', 'product_details.product_id', '=', 'products.id')
+                ->join('product_photos', 'product_photos.product_id', '=', 'products.id')
+                ->where('product_photos.main', 1)
+                ->where('product_details.lang_id', getLang(session('lang')))
+                ->select('products.*','products.price' ,'product_details.title' ,'product_details.description','product_details.lang_id',
+                    'product_details.source_id', 'product_photos.photo','product_photos.tag')
+                ->get();
+            $best_products [] = $data;
+        }
+        dd($best_products);
+
+

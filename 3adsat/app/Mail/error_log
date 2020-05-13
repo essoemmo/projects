@@ -1,0 +1,4 @@
+[12-Nov-2019 15:37:44 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/qeyeq/public_html/beta/app/Mail/AdminResetPassword.php on line 10
+[12-Nov-2019 15:38:22 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/qeyeq/public_html/beta/app/Mail/UserResetPassword.php on line 10
+[13-Nov-2019 17:25:29 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/qeyeq/public_html/beta/app/Mail/AdminResetPassword.php on line 10
+[13-Nov-2019 17:26:01 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/qeyeq/public_html/beta/app/Mail/UserResetPassword.php on line 10

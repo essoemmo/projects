@@ -1,0 +1,8 @@
+[12-Nov-2019 15:25:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/qeyeq/public_html/beta/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/bootstrap/app.php on line 14
+[13-Nov-2019 17:06:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/qeyeq/public_html/beta/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/bootstrap/app.php on line 14

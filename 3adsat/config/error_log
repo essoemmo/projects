@@ -1,0 +1,60 @@
+[12-Nov-2019 15:24:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/app.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/app.php on line 20
+[12-Nov-2019 15:24:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/qeyeq/public_html/beta/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/view.php on line 17
+[12-Nov-2019 15:24:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/cache.php on line 21
+[12-Nov-2019 15:24:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/mail.php on line 19
+[12-Nov-2019 15:24:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/hashing.php on line 32
+[12-Nov-2019 15:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/filesystems.php on line 16
+[12-Nov-2019 15:24:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/qeyeq/public_html/beta/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/trustedproxy.php on line 48
+[12-Nov-2019 15:25:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/queue.php on line 16
+[12-Nov-2019 15:25:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/session.php on line 21
+[12-Nov-2019 15:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/logging.php on line 19
+[12-Nov-2019 15:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/broadcasting.php on line 18
+[12-Nov-2019 15:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/database.php on line 18
+[12-Nov-2019 15:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/shopping_cart.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/shopping_cart.php on line 11
+[12-Nov-2019 15:25:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/services.php on line 18
+[12-Nov-2019 15:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/qeyeq/public_html/beta/config/datatables.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/config/datatables.php on line 79

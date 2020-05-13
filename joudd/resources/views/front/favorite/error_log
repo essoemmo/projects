@@ -1,0 +1,2 @@
+[17-Oct-2019 05:35:57 UTC] PHP Notice:  Undefined variable: courses in /home/joudacademy/public_html/ver1/resources/views/front/favorite/index.blade.php on line 69
+[17-Oct-2019 05:35:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/joudacademy/public_html/ver1/resources/views/front/favorite/index.blade.php on line 69

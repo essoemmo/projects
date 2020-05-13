@@ -1,0 +1,1108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultilanguageLaravelApplication\n"
+"POT-Creation-Date: 2019-10-12 21:33+0000\n"
+"PO-Revision-Date: 2019-10-12 21:33+0000\n"
+"Last-Translator: James Translator <james@translations.colm>\n"
+"Language-Team: James Translator <james@translations.colm>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_i;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http/Controllers/web\n"
+"X-Poedit-SearchPath-1: ../resources/views/web\n"
+"X-Poedit-SearchPath-2: ../storage/framework/front/\n"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:6
+#: ../storage/framework/front/08da9ac082d48e1801567d2714311eb74297417f.php.php:6
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:6
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:8
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:6
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:6
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:7
+#: ../storage/framework/front/43ef5c2f6ba108cd296f47e25c3aa4ce0f3bbe89.php.php:35
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:7
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:6
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:7
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:6
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:5
+#: ../storage/framework/front/c37326561756b11ae22285d8c2dd1ee4d8f975ed.php.php:14
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:7
+#: ../storage/framework/front/f6d69681f369139d6a8b564dbffebd30f3b01e4a.php.php:14
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:88
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:153
+msgid "Home"
+msgstr "Accueil"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:7
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:7
+msgid "Search result"
+msgstr "Résultat de la recherche"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:33
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:63
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:33
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:62
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:68
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:62
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:91
+msgid "Send massges"
+msgstr "Envoyer des messages"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:42
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:72
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:42
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:71
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:77
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:71
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:100
+msgid "close"
+msgstr "proche"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:44
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:74
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:44
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:73
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:79
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:73
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:102
+msgid "send massege"
+msgstr "envoyer le message"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:46
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:76
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:46
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:75
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:81
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:75
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:104
+msgid "To login"
+msgstr "S'identifier"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:83
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:83
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:141
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:145
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:141
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:141
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:941
+msgid "Sorry you should Login"
+msgstr "Désolé, vous devriez vous connecter"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:107
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:107
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:166
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:169
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:166
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:180
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:165
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:211
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:966
+msgid "You should login in the web to send the like"
+msgstr "Vous devez vous connecter sur le Web pour envoyer le même"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:128
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:128
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:187
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:190
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:187
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:186
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:987
+msgid "done like !!"
+msgstr "fait comme !!"
+
+#: ../storage/framework/front/079b6dc91f7d7a0b6682754f0edcfae1da3d9cab.php.php:137
+#: ../storage/framework/front/35ad32af4617d8c601bb289ae038bd4fdb6d7aeb.php.php:137
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:196
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:199
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:196
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:195
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:996
+msgid "done dislike !!"
+msgstr "fait ne pas aimer !!"
+
+#: ../storage/framework/front/08da9ac082d48e1801567d2714311eb74297417f.php.php:7
+msgid "Zawage Article"
+msgstr "Zawage L'Article"
+
+#: ../storage/framework/front/0aad5b69a82263076937bf936a125ddede2d58bd.php.php:84
+msgid "Sorry dont Found"
+msgstr "Désolé, pas trouvé"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:62
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:64
+msgid "profile"
+msgstr "profil"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:65
+msgid "like"
+msgstr "comme"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:66
+msgid "blocked"
+msgstr "bloquée"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:67
+msgid "disliked"
+msgstr "détesté"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:72
+msgid "login in web"
+msgstr "se connecter en web"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:81
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:31
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:29
+msgid "Email"
+msgstr "Email"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:90
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:49
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:38
+msgid "Password"
+msgstr "Mot de passe"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:100
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:48
+msgid "Remember Me"
+msgstr "Souviens-toi de moi"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:110
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:242
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:6
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:52
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:131
+msgid "Login"
+msgstr "S'identifier"
+
+#: ../storage/framework/front/0d700ac15a7b4c0d718bfb63812cb2ceda1d1483.php.php:115
+msgid "Forgot your password"
+msgstr "Mot de passe oublié"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:7
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:236
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:112
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:132
+msgid "Register"
+msgstr "S'inscrire"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:43
+msgid "I have taken the oath, and I will stick to it"
+msgstr "J'ai prêté serment et je vais m'en tenir à cela"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:47
+msgid "Department"
+msgstr "département"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:56
+msgid "female"
+msgstr "femelle"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:59
+msgid "male"
+msgstr "mâle"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:62
+msgid "Register now"
+msgstr "S'inscrire"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:104
+msgid "In the name of God I trusted in God God bless me good wife"
+msgstr ""
+"Au nom de Dieu, j'ai confiance en Dieu. Que Dieu me bénisse, bonne épouse"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:110
+msgid "memberShip"
+msgstr "adhésion"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:113
+msgid " All member ship"
+msgstr "Tous les membres"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:122
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:150
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:72
+msgid "username"
+msgstr "Nom d'utilisateur"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:128
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:47
+msgid "password"
+msgstr "mot de passe"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:134
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:53
+msgid "password_confirmation"
+msgstr "Confirmation mot de passe"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:141
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:60
+msgid "email"
+msgstr "Email"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:152
+msgid ""
+"The nickname that appears to all members must be decent and respectable must "
+"not exceed 15 characters"
+msgstr ""
+"Le pseudo qui apparaît à tous les membres doit être décent et respectable ne "
+"doit pas dépasser 15 caractères"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:164
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:56
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:35
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:56
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:44
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:31
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:67
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:103
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:39
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:74
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:40
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:56
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:39
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:461
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:528
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:595
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:85
+msgid "country"
+msgstr "pays"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:177
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:75
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:98
+msgid "city"
+msgstr "ville"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:186
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:108
+msgid "Address"
+msgstr "Adresse"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:201
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:59
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:73
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:460
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:527
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:594
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:126
+msgid "nationalty"
+msgstr "nationalité"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:213
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:139
+msgid "material_status"
+msgstr "situation matérielle"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:230
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:55
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:22
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:55
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:43
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:102
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:148
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:197
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:317
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:27
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:76
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:39
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:55
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:26
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:459
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:526
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:593
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:158
+msgid "age"
+msgstr "âge"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:306
+msgid "about the partener"
+msgstr "à propos du partenaire"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:308
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:317
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:236
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:245
+msgid ""
+"(Please write in a serious manner and it is forbidden to write email or "
+"mobile number in this place)"
+msgstr ""
+"(S'il vous plaît écrivez de manière sérieuse et il est interdit d'écrire un "
+"email ou un numéro de téléphone portable à cet endroit)"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:315
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:243
+msgid "about_me"
+msgstr "À propos de moi"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:325
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:253
+msgid "Very confidential information"
+msgstr "Informations très confidentielles"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:326
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:254
+msgid ""
+"Full name and mobile number: Management information that will never appear "
+"to anyone"
+msgstr ""
+"Nom complet et numéro de portable: informations de gestion qui "
+"n'apparaîtront jamais à personne"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:327
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:255
+msgid ""
+"Writing this information correctly is a confirmation of your seriousness in "
+"marriage"
+msgstr ""
+"Écrire cette information correctement est une confirmation de votre sérieux "
+"dans le mariage"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:328
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:256
+msgid ""
+"By entering your mobile number, you will be able to use the Jawwal Jawal "
+"under construction service that allows you to receive and send mobile "
+"messages"
+msgstr ""
+"En entrant votre numéro de téléphone mobile, vous pourrez utiliser le "
+"service Jawwal Jawal en construction qui vous permet de recevoir et "
+"d’envoyer des messages mobiles."
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:332
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:260
+msgid "fullname"
+msgstr "nom complet"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:336
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:263
+msgid "mobile"
+msgstr "mobile"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:351
+msgid "I have taken the oath and I will stick to it"
+msgstr "J'ai prêté serment et je vais m'en tenir"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:356
+#: ../storage/framework/front/efd147b98b877c7fb1bd1a07669252ad72ca942b.php.php:65
+msgid "save"
+msgstr "enregistrer"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:390
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:153
+msgid "Sorry not found city to this country"
+msgstr "Désolé, pas trouvé de ville dans ce pays"
+
+#: ../storage/framework/front/1085048b0878af0190e508845ea72dafcea99054.php.php:444
+msgid ""
+"You must determine your commitment to the department and determine your "
+"nationality"
+msgstr ""
+"Vous devez déterminer votre engagement envers le département et déterminer "
+"votre nationalité"
+
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:54
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:21
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:54
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:42
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:147
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:196
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:316
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:26
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:38
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:54
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:25
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:458
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:525
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:592
+msgid "name"
+msgstr "Nom"
+
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:66
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:45
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:66
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:44
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:66
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:49
+msgid "login first"
+msgstr "s'enregistrer d'abord"
+
+#: ../storage/framework/front/1be67758dcdcddb6b5b59e76e4835e9707843949.php.php:107
+msgid "Sorry dont Found activeuser"
+msgstr "Désolé ne trouve pas l'utilisateur actif"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:6
+msgid "from"
+msgstr "de"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:7
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:29
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:350
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:412
+msgid "message"
+msgstr "message"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:8
+msgid "created_at"
+msgstr "créé à"
+
+#: ../storage/framework/front/1deca5c2db6a2dfcca15356068088f76d50c8780.php.php:9
+msgid "Controll"
+msgstr "Contrôle"
+
+#: ../storage/framework/front/2684c01d685b5eca213cc7685783d783f806cd07.php.php:84
+#: ../storage/framework/front/d428e5000b36579b06de989fb0bbc281bc895edf.php.php:88
+msgid "Sorry dont Found search"
+msgstr "Désolé, pas trouvé de recherche"
+
+#: ../storage/framework/front/269ea13ecb36b6777cd23d5a2629bf1ea7a8b3fc.php.php:107
+#: ../storage/framework/front/95ba3636a0778b219e1cf82226b436c5bebfd6ab.php.php:107
+msgid "Sorry dont Found onlineuser"
+msgstr "Désolé, pas trouvé en ligne"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:185
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:49
+msgid "Language"
+msgstr "La langue"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:206
+msgid "Stories"
+msgstr "Histoires"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:207
+msgid "onlineUser"
+msgstr "onlineUser"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:208
+msgid "My wish list"
+msgstr "Ma liste d'envies"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:218
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:94
+msgid "Members area"
+msgstr "Zone des membres"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:224
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:100
+msgid "Profile"
+msgstr "Profil"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:228
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:104
+msgid "Logout"
+msgstr "Se déconnecter"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:237
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:113
+msgid "Log In"
+msgstr "S'identifier"
+
+#: ../storage/framework/front/2c60afada751361cf3e2ed87e7f97d629cd04fc1.php.php:244
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:98
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:26
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:25
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:25
+msgid "Country"
+msgstr "Pays"
+
+#: ../storage/framework/front/2ef34aa3205acf5efcd1d698cd2a7edc587ac9f3.php.php:35
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:34
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:40
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:34
+msgid "all"
+msgstr "toute"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:10
+msgid "Categories"
+msgstr "Les catégories"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:20
+msgid "Contents"
+msgstr "Contenu"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:27
+msgid "Latest News"
+msgstr "Dernières nouvelles"
+
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:41
+#: ../storage/framework/front/2f9df8d931133fe1087657277ca64e99ff3478f3.php.php:56
+msgid "Social Media"
+msgstr "Des médias sociaux"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:196
+#: Http/Controllers/web/profileController.php:196
+msgid "You have Massege from "
+msgstr "Vous avez un message de"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:201
+#: Http/Controllers/web/profileController.php:201
+msgid "Succesffly message sended"
+msgstr "Message envoyé avec succès"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:320
+#: Http/Controllers/web/profileController.php:320
+msgid "updated Succfully"
+msgstr "Mis à jour avec succés"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:488
+#: Http/Controllers/web/profileController.php:488
+msgid "Massege is sended succssfly"
+msgstr "Le message est envoyé avec succès"
+
+#: ../storage/framework/front/2fabc43f05de9bd3e62a44234dbcfd43e8bfd8d5.php.php:693
+#: Http/Controllers/web/profileController.php:693
+msgid "message is send successflly"
+msgstr "le message est envoyé avec succès"
+
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:5
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:5
+msgid "home"
+msgstr "domicile"
+
+#: ../storage/framework/front/37bc55a11e9825fc42cf903874cc0a17578da8ac.php.php:6
+#: ../storage/framework/front/69e9cc91d1075f3d81c27452783537f589239780.php.php:6
+msgid "BestUser"
+msgstr "Meilleur utilisateur"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:6
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:6
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:7
+#: ../storage/framework/front/c37326561756b11ae22285d8c2dd1ee4d8f975ed.php.php:14
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:7
+msgid "/"
+msgstr ""
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:7
+msgid "Replay massege"
+msgstr "Message de réponse"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:52
+msgid "massege befor"
+msgstr "massage avant"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:53
+msgid "dateOfRegister"
+msgstr "date de l'inscription"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:58
+msgid "online"
+msgstr "en ligne"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:60
+msgid "offline"
+msgstr "hors ligne"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:102
+msgid "Do you want replay the massege"
+msgstr "Voulez-vous répondre au message"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:110
+msgid "message Subject"
+msgstr "Objet du message"
+
+#: ../storage/framework/front/3b7751f7a62890ae789292dd4f91230d294eefe7.php.php:112
+msgid "send"
+msgstr "envoyer"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:8
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:8
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:30
+msgid "Reset Password"
+msgstr "réinitialiser le mot de passe"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:21
+#: ../storage/framework/front/b4c5546b28ef202fb6fbbdd04a594c40cb940248.php.php:18
+msgid "Don't have an account? Click here to register"
+msgstr "Vous n'avez pas de compte? Cliquez ici pour vous inscrire"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:42
+msgid "Send a password reset code"
+msgstr "Envoyer un code de réinitialisation de mot de passe"
+
+#: ../storage/framework/front/43a97593155d5b452cf54725240cdfb9eb4b9d57.php.php:47
+msgid "Change Password"
+msgstr "Changer le mot de passe"
+
+#: ../storage/framework/front/43ef5c2f6ba108cd296f47e25c3aa4ce0f3bbe89.php.php:17
+msgid "Normal Member"
+msgstr "Normal Member"
+
+#: ../storage/framework/front/43ef5c2f6ba108cd296f47e25c3aa4ce0f3bbe89.php.php:42
+msgid "Account Settings"
+msgstr "Paramètres du compte"
+
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:40
+msgid "Code Number"
+msgstr "Numéro de code"
+
+#: ../storage/framework/front/46f06666f403c4eb675144875c8fe151c5a27fad.php.php:67
+msgid "Save"
+msgstr "sauver"
+
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:10
+msgid "home  "
+msgstr "domicile"
+
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:11
+#: ../storage/framework/front/4ba20ad4bee4ef9839aac51837f6b88cf5476312.php.php:24
+msgid "last member"
+msgstr "dernier membre"
+
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:7
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:8
+msgid "Subscribed"
+msgstr "Abonné"
+
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:26
+msgid "Thanks for subscribe"
+msgstr "Merci de vous inscrire"
+
+#: ../storage/framework/front/6490878ba4f64a1d8a9e054f82a9b5aa2376537d.php.php:29
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:31
+msgid "Click here to unsubscribe"
+msgstr "cliquez ici pour vous désabonner"
+
+#: ../storage/framework/front/657adaadd93dd696b3d16971ff93265b3cca1e1d.php.php:28
+msgid "You are already subscribed"
+msgstr "Vous êtes déjà abonné"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:21
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:14
+msgid "Subscribe"
+msgstr "Souscrire"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:52
+msgid "search to"
+msgstr "chercher à"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:54
+msgid "Chooose"
+msgstr "Choisir"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:55
+msgid "Husband"
+msgstr "Mari"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:56
+msgid "wife"
+msgstr "épouse"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:61
+msgid "all_Nationalty"
+msgstr "all_Nationalty"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:69
+msgid "all Country"
+msgstr "tout pays"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:78
+msgid "From"
+msgstr "De"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:80
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:87
+msgid "DontCare"
+msgstr "Ne t'en fais pas"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:85
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:785
+msgid "to"
+msgstr "à"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:93
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:95
+msgid "status"
+msgstr "loi"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:98
+msgid "order result"
+msgstr "résultat de la commande"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:100
+msgid "lastlogin desc"
+msgstr "dernier login desc"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:101
+msgid "postdate desc"
+msgstr "post_date desc"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:106
+msgid "Advanced Search"
+msgstr "Recherche Avancée"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:107
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:76
+msgid "search"
+msgstr "chercher"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:114
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:124
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:165
+msgid "Active Members"
+msgstr "Membres actifs"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:166
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:121
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:162
+msgid "BestMember"
+msgstr "Meilleur membre"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:217
+#: ../storage/framework/front/f6d69681f369139d6a8b564dbffebd30f3b01e4a.php.php:15
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:128
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:169
+msgid "successful Story"
+msgstr "histoire réussie"
+
+#: ../storage/framework/front/6b5d2686a17386b4da165c59021f2e2239851cb4.php.php:268
+msgid "Favoutite member"
+msgstr "Membre préféré"
+
+#: ../storage/framework/front/6fce3ba1e4f469936e0204a32608c7bc5da93ab0.php.php:85
+msgid "Sorry not found!!!"
+msgstr "Désolé pas trouvé !!!"
+
+#: ../storage/framework/front/711ded73b12372fd99163b2de531a483b4ef7af7.php.php:262
+#: Http/Controllers/web/HomeController.php:263
+msgid "suscribed deleted successfly"
+msgstr "abonné supprimé avec succès"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:71
+msgid "ID"
+msgstr "ID"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:78
+msgid "state"
+msgstr "Etat"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:86
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:234
+msgid "About the partener"
+msgstr "À propos du partenaire"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:87
+msgid "About me"
+msgstr "À propos de moi"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:220
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:252
+msgid "You should login in the web to send the blocked"
+msgstr "Vous devez vous connecter sur le Web pour envoyer le bloqué"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:240
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:273
+msgid "Done the user is blocked"
+msgstr "Fait, l'utilisateur est bloqué"
+
+#: ../storage/framework/front/7669aa550db513aa28a66242723caccff801a272.php.php:248
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:281
+msgid "Done the user is disliked"
+msgstr "Fait, l'utilisateur n'aime pas"
+
+#: ../storage/framework/front/944b6987e3e921f0fcd282e34b27a7a271df5b5b.php.php:56
+msgid "Sorry dont Found Story"
+msgstr "Désolé, je n'ai pas trouvé d'histoire"
+
+#: ../storage/framework/front/b196d4cb5389ccdcd1a5e0cc87f9d8d0b357ab87.php.php:7
+msgid "Search Advanced"
+msgstr "Recherche Avancée"
+
+#: ../storage/framework/front/c37326561756b11ae22285d8c2dd1ee4d8f975ed.php.php:15
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:8
+msgid "Account settings"
+msgstr "Paramètres du compte"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:17
+msgid "Welcome to your account management page"
+msgstr "Bienvenue sur votre page de gestion de compte"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:28
+msgid "notifaction"
+msgstr "notification"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:30
+msgid "likeList"
+msgstr "likeList"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:31
+msgid "dislikeList"
+msgstr "n'aime pas la liste"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:32
+msgid "who like me"
+msgstr "qui comme moi"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:33
+msgid "my massege"
+msgstr "mon message"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:34
+msgid "My favorite partner"
+msgstr "Mon partenaire préféré"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:35
+msgid "online now"
+msgstr "maintenant en ligne"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:38
+msgid "settings"
+msgstr "paramètres"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:39
+msgid "edit details"
+msgstr "modifier les détails"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:40
+msgid "contact mangment"
+msgstr "gestion des contacts"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:41
+msgid "logout"
+msgstr "se déconnecter"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:89
+msgid "You have been with us since"
+msgstr "Vous êtes avec nous depuis"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:89
+msgid "Your membership number is"
+msgstr "Vous êtes avec nous depuis"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:90
+msgid "Your data page is at the following address"
+msgstr "Votre page de données est à l'adresse suivante"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:93
+msgid "The time in the site is GMT"
+msgstr "L'heure sur le site est GMT"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:97
+msgid "  You can control your account properties with special settings"
+msgstr ""
+"Vous pouvez contrôler les propriétés de votre compte avec des paramètres "
+"spéciaux"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:97
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:101
+msgid "click here"
+msgstr "cliquez ici"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:101
+msgid ""
+"  Change the status of your appearance from connected to hidden or vice versa"
+msgstr "Changez le statut de votre apparence de connecté à caché ou vice versa"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:111
+msgid "Important notice to all members of the site"
+msgstr "Avis important à tous les membres du site"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:113
+msgid ""
+"When a member is added to the ignore list he  she will not be able to email "
+"you anymore Please do not forget to help us and alert us to any member "
+"abusing the site, to take the necessary action against him"
+msgstr ""
+"Lorsqu'un membre est ajouté à la liste des ignorés, il ne pourra plus vous "
+"envoyer de courrier électronique. N'oubliez pas de nous aider et de nous "
+"avertir de tout membre abusant du site, de prendre les mesures nécessaires à "
+"son encontre."
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:116
+msgid ""
+"We ask that we ask you and please not to give your e-mail to any young man "
+"no matter what the request Whatever the reasons.Giving e-mail to a young "
+"person for quicker understanding and conversation on Messenger is a "
+"violation of the terms of correspondence The only way to get in touch with a "
+"young man who wants to marry is through internal messaging Site It is the "
+"safest way and under the umbrella of site management"
+msgstr ""
+"Nous vous demandons de ne pas donner votre courrier électronique à un jeune "
+"homme, peu importe la demande, quelles que soient les raisons. Donner un "
+"courrier électronique à un jeune pour une compréhension plus rapide et une "
+"conversation sur Messenger enfreint les termes du contrat. correspondance Le "
+"seul moyen d'entrer en contact avec un jeune homme qui souhaite se marier "
+"est d'utiliser la messagerie interne du site. C'est la manière la plus sûre "
+"et sous l'égide de la direction du site."
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:118
+msgid "Reason for prohibition"
+msgstr "Raison de l'interdiction"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:119
+msgid ""
+"Through research,scrutiny and follow-up of the members who request to chat "
+"outside the site do not want marriage, but dating and friendship only Most "
+"of the requests for e - mail and Messenger does not want to be under the "
+"cover of the site for fear of ban, so requests that the conversation takes "
+"place outside the site When a member offends the girl off site (via email or "
+"messenger), we do not see him and we have no concrete evidence of his ban "
+"Therefore, my sister registered on the site is prohibited to give e-mail "
+"information to the member There are hundreds of people who have been blessed "
+"by God through the site have used only internal messages"
+msgstr ""
+"Par le biais de recherches, de contrôles et de suivis, les membres qui "
+"demandent une conversation en dehors du site ne veulent pas de mariage, mais "
+"uniquement de rencontres et d’amitiés. La plupart des demandes d’e-mail et "
+"de Messenger ne veulent pas être sous la couverture du site. peur de "
+"l'interdiction, demande donc que la conversation ait lieu en dehors du site "
+"Lorsqu'un membre offense la jeune fille hors site (par courrier électronique "
+"ou par messagerie instantanée), nous ne le voyons pas et nous n'avons aucune "
+"preuve concrète de son interdiction. Par conséquent, ma sœur s'est inscrite "
+"au Il est interdit de donner des informations par courrier électronique au "
+"membre. Des centaines de personnes qui ont été bénies par Dieu grâce au site "
+"ont utilisé uniquement des messages internes."
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:121
+msgid "Bad script on site"
+msgstr "Mauvais script sur le site"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:122
+msgid ""
+"The young person registers the site with good data (false), and corresponds "
+"with the girl through internal messages, and ask her e-mail to identify "
+"Better on messenger and via email, so the poor girl believes him and gives "
+"him the email and messenger And then the young man reveals what he really is "
+"and asks to talk about things outside marriage and ask for illegal things. "
+"The girl will then tell the administration She has discovered a bad guy and "
+"asks him to ban him from the site. The supervisor enters and searches for "
+"the young man and sees his data Interior sent there is no And there is no "
+"directory inside the site, and the directory only on the messenger that is "
+"outside the appointed and powers of the site That is, when the girl violated "
+"the conditions of correspondence and the safe way set by the site and exited "
+"the young man outside the site I was insulted by the bad guy"
+msgstr ""
+"La jeune personne enregistre le site avec de bonnes données (faux), et "
+"correspond avec la fille par des messages internes, et lui demande par "
+"courrier électronique d'identifier Better sur Messenger et par e-mail, de "
+"sorte que la pauvre fille le croit et lui donne le courrier électronique et "
+"le messager. Et puis le jeune homme révèle ce qu’il est vraiment et demande "
+"de parler de choses en dehors du mariage et de demander des choses "
+"illégales. La fille informera alors l'administration. Elle a découvert un "
+"méchant et lui demande de l'interdire du site. Le superviseur entre et "
+"cherche le jeune homme et voit ses données. Intérieur envoyé, il n'y a pas "
+"Et il n'y a pas de répertoire à l'intérieur du site, et le répertoire "
+"uniquement sur le messager qui se trouve en dehors de la désignation et des "
+"pouvoirs du site C'est à dire, quand la fille violé les conditions de "
+"correspondance et la manière sûre établie par le site et est sorti du jeune "
+"homme à l'extérieur du site m'a insulté par le méchant"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:411
+msgid "form"
+msgstr "forme"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:457
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:524
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:591
+msgid "numberId"
+msgstr "numberId"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:596
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:790
+msgid "created"
+msgstr "établie"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:648
+msgid "password is null please write new password"
+msgstr "mot de passe est null s'il vous plaît écrivez nouveau mot de passe"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:666
+msgid "password changed"
+msgstr "Mot de passe changé"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:693
+msgid "email changed"
+msgstr "email changé"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:786
+msgid "massege"
+msgstr "massege"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:791
+msgid "action"
+msgstr "action"
+
+#: ../storage/framework/front/ea28974376deb78418440b8bd35d143c652ff0a5.php.php:856
+msgid "Succesffly values sended"
+msgstr "Valeurs envoyées avec succès"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:27
+msgid "member ship"
+msgstr "Tous les membres"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:30
+msgid "All member ship"
+msgstr "Tous les membres"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:40
+msgid "user name"
+msgstr "Nom d'utilisateur"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:69
+msgid "date register"
+msgstr "registre de date"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:72
+msgid "edit password"
+msgstr "réinitialiser le mot de passe"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:73
+msgid "edit email"
+msgstr "éditer l'email"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:74
+msgid "delete member"
+msgstr "supprimer un membre"
+
+#: ../storage/framework/front/f4537c8d530f660fde5c840ca417e7db2c627349.php.php:270
+msgid "Edit Details"
+msgstr "Modifier les détails"
+
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:12
+msgid "Your E-mail"
+msgstr "Votre e-mail"
+
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:36
+msgid "Copyright © 2018 .com™. All rights reserved."
+msgstr "Copyright © 2018 .com ™. Tous les droits sont réservés."
+
+#: ../storage/framework/front/f482d157d516d360f53effc5eeec633e5b172806.php.php:44
+msgid "design and development by"
+msgstr "conception et développement par"
+
+#: ../storage/framework/front/f6d69681f369139d6a8b564dbffebd30f3b01e4a.php.php:25
+msgid ""
+"We congratulate all the participants who have been blessed by God to find "
+"their other half through this site and wish them a happy life in obedience "
+"and satisfactions, and we wish God success to all members The following are "
+"some of the successful stories that we have announced"
+msgstr ""
+"Nous félicitons tous les participants qui ont été bénis par Dieu de trouver "
+"leur autre moitié sur ce site. Nous leur souhaitons une vie heureuse "
+"obéissance et satisfactions. Nous souhaitons à Dieu du succès pour tous les "
+"membres. Voici quelques-unes des réussites que nous avons annoncées."
+
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:118
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:159
+msgid "Latest Members"
+msgstr "Derniers membres"
+
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:173
+msgid "Article"
+msgstr "Zawage L'Article"
+
+#: ../storage/framework/front/fd578fed4f0544153eda4092c99123e320b86d2b.php.php:201
+msgid "subscribe"
+msgstr "Souscrire"
+
+#~ msgid "Sign in via Facebook"
+#~ msgstr "Connectez-vous via Facebook"
+
+#~ msgid "Sign in with your Google account"
+#~ msgstr "Connectez-vous avec votre compte Google"

@@ -1,0 +1,399 @@
+/*@import url(../fonts/droid-kufi/fonts-fa.css);*/
+@font-face {
+    font-family: dr-rg;
+    src: url(../fonts/DroidKufi-Regular.ttf);
+}
+
+@font-face {
+    font-family: dr-bd;
+    src: url(../fonts/DroidKufi-Bold.ttf);
+}
+
+*{
+    font-family: dr-rg;
+    direction: rtl;
+}
+
+.navbar-toolbar.navbar-toolbar-right {
+    float: left !important;
+}
+.navbar-left {
+    float: right!important;
+}
+
+
+.app-main{
+    direction: rtl;
+    text-align: right;
+}
+
+.navbar-header{
+    float: right;
+}
+
+.menubar-unfold .menubar-scroll .menubar-scroll-inner{
+    direction: rtl;
+}
+
+.menubar-unfold .app-menu .submenu .menu-text{
+    margin-left: 0;
+    margin-right: 30px;
+}
+
+.navbar-brand .brand-icon {
+    float: right;
+    margin-left: .5rem;
+}
+
+.navbar-brand{
+    direction: rtl;
+}
+
+.menubar-unfold .navbar-container,.menubar-unfold .app-main {
+    margin-right: 220px;
+    margin-left: 0;
+}
+
+.app-footer .footer-menu, .navbar-toolbar>li {
+    float: right;
+}
+
+.navbar-toolbar li.hidden-menubar-top{
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.side-panel {
+    left: -100%;
+    right: auto;
+}
+
+.side-panel.open {
+    left: 0;
+    right: auto;
+}
+
+.menubar{
+    right: 0;
+    left: auto;
+}
+.menubar-fold .navbar-container,.menubar-fold .app-main {
+    margin-right: 5rem;
+    margin-left: 0;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+}
+
+.menubar-fold .app-menu>li>.submenu{
+    right: 100%;
+    left: auto;
+}
+
+.theme-success .menubar .app-menu li.active,  .theme-success .menubar .app-menu li.open {
+    border-right-color: #10c469;
+}
+
+.menubar-left .app-menu>li {
+    border-right: 3px solid transparent;
+    border-left: 0;
+}
+
+.theme-success .menubar .app-menu li.active, .theme-success .menubar .app-menu li.open {
+    border-right-color: #10c469;
+    border-left-color: transparent;
+}
+
+.app-menu .menu-label, .app-menu .menu-caret {
+    float: left;
+}
+
+.app-menu .menu-caret{
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.menubar-fold .menubar.light .app-menu>li>.submenu {
+    box-shadow: -2px 1px 2px rgba(0, 0, 0, .08);
+}
+
+.menubar-left .menubar.light {
+    box-shadow: -2px 0 4px rgba(0, 0, 0, .08);
+}
+
+
+.app-menu .menu-icon{
+    margin-left: 8px;
+}
+
+
+.slimScrollBar{
+    left: 1px;
+    right: auto !important;
+}
+
+.app-customizer{
+    left: -202px;
+    direction: rtl;    -webkit-transition: all .3s;    transition: all .3s;
+}
+
+.app-customizer.open {
+    left: 0;    -webkit-transition: all .3s;    transition: all .3s;
+}
+
+.app-customizer-toggle{
+    left: 100%;
+    right: auto;
+}
+
+.app-customizer .nav-tabs>li{
+    float: right;
+}
+.app-customizer .radio {
+    padding-right: 20px;
+}
+
+.app-customizer .radio label{
+    padding-right: 5px;
+}
+
+.app-customizer .radio label:before{
+    right: 0;
+}
+
+.app-customizer .radio label:after{
+    right: 3px;
+}
+
+.app-customizer .radio label:after,.app-customizer .radio label:before{
+    margin-right: -25px;
+}
+
+
+.app-user .dropdown-menu {
+    right: 0;
+    left: auto;
+    text-align: right;
+}
+
+body.menubar-unfold .app-user .avatar {
+    margin-left: 16px;
+    margin-right: 0;
+}
+body.menubar-unfold .app-user .media-left {
+    padding-top: 0;
+    float: right;
+}
+
+body.menubar-unfold .app-user .media-body{
+    text-align: right;
+}
+
+.app-user .caret{
+    margin-right: 2px;
+    margin-left: 0;
+}
+
+.app-user .dropdown {
+    position: relative;
+    direction: rtl;
+}
+
+.m-r-xs {
+    margin-left: 6px;
+    margin-right: 0!important;
+}
+
+.navbar-search .search-field{
+    padding: 10px 45px 10px 10px;
+    text-align: right;
+    direction: rtl;
+}
+
+.navbar-search .search-close{
+    left: 30px;
+
+}
+
+.navbar-search .search-icon{
+    right: 20px;
+    left: auto;
+}
+
+.navbar-toolbar>li>.dropdown-menu {
+    text-align: right;
+    direction: rtl;
+    left: 0;
+    right: auto;
+}
+
+.avatar{
+    margin-right: 0;margin-left: 16px;
+}
+
+.status{
+    left: 2px;right: auto;
+}
+
+.m-r-md {
+    margin-left: 16px!important;
+    margin-right: 0 !important;
+}
+
+.dropdown-menu>li .label {
+    float: left;
+}
+
+.media-left {
+    padding: 0;
+    float: right;
+}.avatar-xs {
+     width: 30px;
+     height: 30px;
+     margin-left: 16px;
+     margin-right: 0;
+ }.side-panel .scrollable-container{
+      text-align: right;
+  }
+
+body.menubar-fold .app-menu>li.open>.submenu{
+    text-align:right;
+}
+
+.checkbox label::after, .checkbox label::before{
+    right: 0;
+}
+
+.checkbox label {
+    display: inline-block;
+    position: relative;
+    padding-right: 30px;
+    padding-left: 0;
+}
+
+.checkbox label::after{
+    padding-left: 0;
+    padding-right: 4px;
+}
+
+caption, th {
+    text-align: right;
+}
+
+.table.no-cellborder .table-icon {
+    margin-right: 0;
+    color: #ccc;
+    margin-left: 6px;
+}
+
+.sl-item{
+    border-left: 0;
+    border-right: 1px solid #ccc;
+}
+
+.sl-item:before{
+    right: -6px;left: auto;
+}
+
+.sl-item .sl-content {
+    margin-left: 0;
+    margin-right: 24px;
+}
+
+.sl-primary {
+    border-right-color: #188ae2;
+}
+
+.sl-danger {
+    border-right-color: #ff5b5b;
+}
+
+.sl-success {
+    border-right-color: #10c469;
+}
+
+.sl-warning {
+    border-right-color: #f9c851;
+}
+
+.sl-item:last-child:after {
+
+    left: auto;
+    right: -3px;
+}
+
+.m-l-xl {
+    margin-right: 32px!important;
+    margin-left: 0 !important;
+}
+
+.sl-avatar {
+    position: absolute;
+    left: auto;
+    right: -22px;
+}
+
+.m-l-lg {
+    margin-right: 24px!important;
+    margin-left: 0 !important;
+}
+
+.m-r-xs {
+    margin-left: 6px;
+    margin-right: 0!important;
+    float: right;
+}
+
+.m-l-md {
+    margin-right: 16px!important;
+}
+
+@media(max-width:767px){
+    .menubar{
+        right: -222px;
+    }
+
+    .navbar-header {
+        float: none;
+    }
+
+    .navbar-toggle.navbar-toggle-left {
+        float: right;
+    }
+    .navbar-toggle.navbar-toggle-right, .navbar-toolbar.navbar-toolbar-right {
+        float: left;
+    }.menubar-unfold .navbar-container, .menubar-unfold .app-main {
+         margin-right: 0;
+         margin-left: 0;
+     }
+    .navbar-collapse .app-user{float: right;
+    }
+    body.menubar-unfold .app-user .avatar{
+        margin: 0 !important;
+    }body.menubar-unfold .app-user .media-left{
+         padding-top: 4px;    float: none !important;
+     }
+    .app-user .dropdown-menu{
+        top: 123%;
+    }
+    body.menubar-in .menubar {
+        right: 0;
+    }
+    body.menubar-in .app-main{
+        -webkit-transform: translate3d(-220px, 0, 0);
+        transform: translate3d(-220px, 0, 0);
+    }body.menubar-in .menubar {
+         right: 0;left: auto;
+         -webkit-transition: all .3s;
+         transition: all .3s;
+     }.row.no-gutter > div{
+          float: none !important;
+      }
+}
+@media (min-width: 768px){
+    body.menubar-unfold .app-main {margin-left: unset}
+    body.menubar-fold .app-main {margin-left: unset; }
+    body.menubar-fold .app-menu > li > .submenu {
+        right: 100%;
+        left: unset;
+    }
+}

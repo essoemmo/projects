@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>ShadesTrend</title>
+
+    <link href="css/bootstrap-rtl.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+</head>
+<body>
+
+
+<div class="main-wrapper">
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="col-md-4">
+                <div class="store-column flex-column">
+                    <div class="sticky-top bg-white">
+                        <div class="back-btn"><a href=""><i class="fa fa-arrow-right"></i></a></div>
+                        <div class="text-dark text-center p-2">راجع الطلب</div>
+                    </div>
+                    <div class="item-wrapper">
+
+                        <div class="item-information gray-shadow">
+                            <div class="title pt-2 font-weight-bold">معلومات التوصيل</div>
+                            <div class="description  py-2">26 مارس 3:00 م - 6:00 م</div>
+                        </div>
+                        <div class="item-information gray-shadow mb-4 py-3">
+                            <div class="title pt-2 font-weight-bold">الطلبات</div>
+                          <div class="single-item-at-cart">
+                              <div class="d-flex justify-content-between py-2">
+                                  <a href="" class="text-color1">فيست</a>
+                                  <span class="price">33.000 د.ك</span>
+                              </div>
+
+                              <div class="d-flex justify-content-between align-items-center py-2">
+                                  <div class="quantity">
+                                      <div class="input-group mb-3">
+                                          <div class="input-group-prepend">
+                                              <button class="btn btn-light btn-sm border" id="minus-btn"><i
+                                                      class="fa fa-minus"></i>
+                                              </button>
+                                          </div>
+                                          <input type="number" id="qty_input" class="form-control" value="1" min="1">
+                                          <div class="input-group-prepend">
+                                              <button class="btn btn-light btn-sm border" id="plus-btn"><i class="fa fa-plus"></i>
+                                              </button>
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <button class="btn btn-outline-secondary ">حذف</button>
+                              </div>
+                          </div>
+                        </div>
+
+                        <div class="item-information gray-shadow py-3">
+                            <div class="title pt-2 font-weight-bold mb-3">كود الخصم</div>
+                            <div class="input-group mb-3">
+                                <input type="text" class="form-control" placeholder="ادخل الكود" >
+                                <div class="input-group-append">
+                                    <button class="btn btn-outline-secondary text-color1" type="button" id="button-addon2">تأكيد</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="gray-shadow py-3">
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <div class="title  ">مجموع الطلبات</div>
+                                <div class="description  ">66.000 د.ك</div>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <div class="title  ">رسوم التوصيل</div>
+                                <div class="description  ">2.500 د.ك</div>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center ">
+                                <div class="title font-weight-bold ">المجموع</div>
+                                <div class="title font-weight-bold ">68.500 د.ك</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bottom-btn  mt-auto mb-3 btn btn-color1">اتمام الطلب</div>
+
+                </div>
+            </div>
+
+            <div class="col-md-8 p-0">
+                <div class="fixed-wrapper ">
+                    <div class="bg-wrapper"
+                         style="background-image: url('https://static.zyda.com/photos/restaurants/photo_urls/289/default/WhatsApp_Image_2019-07-04_at_2.12.03_PM.jpeg');">
+                        <div class="over-content">
+
+                            <header>
+                                <nav class="navbar navbar-expand-lg navbar-light   ">
+
+                                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                                            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                                            aria-expanded="false" aria-label="Toggle navigation">
+                                        <span class="navbar-toggler-icon"></span>
+                                    </button>
+
+                                    <div class="collapse navbar-collapse justify-content-between"
+                                         id="navbarSupportedContent">
+                                        <div class="empty"></div>
+                                        <ul class="navbar-nav ">
+                                            <li class="nav-item active">
+                                                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="#">Link</a>
+                                            </li>
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                                                   role="button" data-toggle="dropdown" aria-haspopup="true"
+                                                   aria-expanded="false">
+                                                    Dropdown
+                                                </a>
+                                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <a class="dropdown-item" href="#">Action</a>
+                                                    <a class="dropdown-item" href="#">Another action</a>
+                                                    <div class="dropdown-divider"></div>
+                                                    <a class="dropdown-item" href="#">Something else here</a>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link disabled" href="#" tabindex="-1"
+                                                   aria-disabled="true">Disabled</a>
+                                            </li>
+                                        </ul>
+                                        <a href="#" class="lang-switcher">
+                                            EN
+                                        </a>
+                                    </div>
+                                </nav>
+                            </header>
+
+                            <div class="logo-wrapper flex-column text-center m-auto">
+                                <a href=""><img src="images/logo.png" alt="" class="img-fluid"></a>
+                                COMPANY NAME
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/popper.js"></script>
+<script src="js/bootstrap-rtl.js"></script>
+<script src="https://kit.fontawesome.com/e5696f83c8.js" crossorigin="anonymous"></script>
+<!--<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>-->
+<!--<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>-->
+<!--<script src="js/wow.min.js"></script>-->
+<script src="js/custom.js"></script>
+</body>
+</html>
+

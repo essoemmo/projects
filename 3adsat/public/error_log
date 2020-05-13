@@ -1,0 +1,14 @@
+[12-Nov-2019 12:04:09 UTC] PHP Warning:  require(/home/qeyeq/public_html/beta/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/qeyeq/public_html/beta/public/index.php on line 24
+[12-Nov-2019 12:04:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/qeyeq/public_html/beta/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/qeyeq/public_html/beta/public/index.php on line 24
+[12-Nov-2019 12:04:13 UTC] PHP Warning:  require(/home/qeyeq/public_html/beta/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/qeyeq/public_html/beta/public/index.php on line 24
+[12-Nov-2019 12:04:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/qeyeq/public_html/beta/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/qeyeq/public_html/beta/public/index.php on line 24
+[12-Nov-2019 12:35:55 UTC] PHP Warning:  require(/home/qeyeq/public_html/beta/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/qeyeq/public_html/beta/public/index.php on line 24
+[12-Nov-2019 12:35:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/qeyeq/public_html/beta/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/qeyeq/public_html/beta/public/index.php on line 24
+[12-Nov-2019 12:35:57 UTC] PHP Warning:  require(/home/qeyeq/public_html/beta/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/qeyeq/public_html/beta/public/index.php on line 24
+[12-Nov-2019 12:35:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/qeyeq/public_html/beta/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/qeyeq/public_html/beta/public/index.php on line 24
+[22-Nov-2019 11:55:56 UTC] PHP Warning:  POST Content-Length of 10693174 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Nov-2019 09:48:34 UTC] PHP Warning:  POST Content-Length of 8933739 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Nov-2019 10:26:54 UTC] PHP Warning:  POST Content-Length of 12267371 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Nov-2019 18:37:41 UTC] PHP Warning:  POST Content-Length of 8808427 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Nov-2019 18:43:21 UTC] PHP Warning:  POST Content-Length of 10275773 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Dec-2019 10:13:07 UTC] PHP Warning:  POST Content-Length of 10698016 bytes exceeds the limit of 8388608 bytes in Unknown on line 0

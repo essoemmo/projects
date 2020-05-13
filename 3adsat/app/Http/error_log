@@ -1,0 +1,1 @@
+[12-Nov-2019 15:48:35 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/qeyeq/public_html/beta/app/Http/Kernel.php on line 7

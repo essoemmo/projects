@@ -1,0 +1,40 @@
+[17-Oct-2019 05:05:23 UTC] PHP Notice:  Undefined variable: result in /home/joudacademy/public_html/ver1/resources/views/front/user/payment-data.blade.php on line 12
+[17-Oct-2019 05:05:23 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Front\WelcomeController' not found in /home/joudacademy/public_html/ver1/resources/views/front/user/payment-data.blade.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/joudacademy/public_html/ver1/resources/views/front/user/payment-data.blade.php on line 82
+[17-Oct-2019 05:05:30 UTC] PHP Notice:  Undefined variable: api in /home/joudacademy/public_html/ver1/resources/views/front/user/evaluate-course.blade.php on line 103
+[17-Oct-2019 05:05:30 UTC] PHP Notice:  Undefined variable: courseId in /home/joudacademy/public_html/ver1/resources/views/front/user/evaluate-course.blade.php on line 103
+[17-Oct-2019 05:05:30 UTC] PHP Notice:  Undefined variable: api in /home/joudacademy/public_html/ver1/resources/views/front/user/evaluate-course.blade.php on line 104
+[17-Oct-2019 05:05:30 UTC] PHP Notice:  Undefined variable: courseId in /home/joudacademy/public_html/ver1/resources/views/front/user/evaluate-course.blade.php on line 104
+[17-Oct-2019 05:05:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request() in /home/joudacademy/public_html/ver1/resources/views/front/user/evaluate-course.blade.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/joudacademy/public_html/ver1/resources/views/front/user/evaluate-course.blade.php on line 107
+[17-Oct-2019 05:05:34 UTC] PHP Notice:  Undefined variable: result in /home/joudacademy/public_html/ver1/resources/views/front/user/apply.blade.php on line 14
+[17-Oct-2019 05:05:34 UTC] PHP Notice:  Undefined variable: bankTransfer in /home/joudacademy/public_html/ver1/resources/views/front/user/apply.blade.php on line 61
+[17-Oct-2019 05:05:34 UTC] PHP Notice:  Undefined variable: bankTransfer in /home/joudacademy/public_html/ver1/resources/views/front/user/apply.blade.php on line 61
+[17-Oct-2019 05:05:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Front\WelcomeController' not found in /home/joudacademy/public_html/ver1/resources/views/front/user/apply.blade.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/joudacademy/public_html/ver1/resources/views/front/user/apply.blade.php on line 98
+[17-Oct-2019 05:05:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/joudacademy/public_html/ver1/resources/views/front/user/certificate.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/joudacademy/public_html/ver1/resources/views/front/user/certificate.blade.php on line 21
+[17-Oct-2019 05:05:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/joudacademy/public_html/ver1/resources/views/front/user/certificate_print.blade.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/joudacademy/public_html/ver1/resources/views/front/user/certificate_print.blade.php on line 13
+[17-Oct-2019 05:05:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request() in /home/joudacademy/public_html/ver1/resources/views/front/user/courses.blade.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/joudacademy/public_html/ver1/resources/views/front/user/courses.blade.php on line 60
+[17-Oct-2019 05:05:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request() in /home/joudacademy/public_html/ver1/resources/views/front/user/pending-courses.blade.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/joudacademy/public_html/ver1/resources/views/front/user/pending-courses.blade.php on line 75
+[17-Oct-2019 05:06:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request() in /home/joudacademy/public_html/ver1/resources/views/front/user/course_attachment.blade.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/joudacademy/public_html/ver1/resources/views/front/user/course_attachment.blade.php on line 54

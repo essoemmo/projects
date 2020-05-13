@@ -1,0 +1,8 @@
+[12-Nov-2019 16:06:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _i() in /home/qeyeq/public_html/beta/resources/views/not_found.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/resources/views/not_found.blade.php on line 22
+[12-Nov-2019 16:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _i() in /home/qeyeq/public_html/beta/resources/views/lang_words.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/resources/views/lang_words.blade.php on line 2

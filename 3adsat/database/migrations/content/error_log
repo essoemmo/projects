@@ -1,0 +1,2 @@
+[12-Nov-2019 16:18:41 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/content/2019_11_05_121106_create_content_sections_table.php on line 7
+[12-Nov-2019 16:18:57 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/qeyeq/public_html/beta/database/migrations/content/2019_11_05_121225_create_content_sections_data_table.php on line 7

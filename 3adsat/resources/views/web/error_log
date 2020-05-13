@@ -1,0 +1,4 @@
+[12-Nov-2019 16:13:48 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Category' not found in /home/qeyeq/public_html/beta/resources/views/web/home.blade.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/resources/views/web/home.blade.php on line 55

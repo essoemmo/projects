@@ -1,0 +1,588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultilanguageLaravelApplication\n"
+<<<<<<< HEAD
+"POT-Creation-Date: 2019-10-12 16:39+0000\n"
+"PO-Revision-Date: 2019-10-12 16:39+0000\n"
+=======
+"POT-Creation-Date: 2019-10-12 21:33+0000\n"
+"PO-Revision-Date: 2019-10-12 21:33+0000\n"
+>>>>>>> d89b3e74528ef104eb1b46d6badf31f87ef7a230
+"Last-Translator: James Translator <james@translations.colm>\n"
+"Language-Team: James Translator <james@translations.colm>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_i;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http/Controllers/Admin\n"
+"X-Poedit-SearchPath-1: ../resources/views/admin\n"
+"X-Poedit-SearchPath-2: ../storage/framework/back/\n"
+
+#: ../storage/framework/back/0970ee2fc748a2300b8c8060cba353c1ede2ce91.php.php:63
+#: Http/Controllers/Admin/SettingController.php:63
+msgid "updated Succfully"
+msgstr ""
+
+#: ../storage/framework/back/0b1275136a1d1b1afa7ebb0c494974cad3e3809d.php.php:28
+#: ../storage/framework/back/d3e46c4ce598d2fc713f52d35e80130ea6e0e01b.php.php:35
+#: Http/Controllers/Admin/Security/RoleController.php:35
+#: Http/Controllers/Admin/Security/permissionController.php:28
+msgid "Edit"
+msgstr ""
+
+#: ../storage/framework/back/0b1275136a1d1b1afa7ebb0c494974cad3e3809d.php.php:29
+#: ../storage/framework/back/d3e46c4ce598d2fc713f52d35e80130ea6e0e01b.php.php:36
+#: Http/Controllers/Admin/Security/RoleController.php:36
+#: Http/Controllers/Admin/Security/permissionController.php:29
+msgid "Delete"
+msgstr ""
+
+#: ../storage/framework/back/0b1275136a1d1b1afa7ebb0c494974cad3e3809d.php.php:74
+#: ../storage/framework/back/81651341883dabb3380b8c06f11b405ac4ea07f4.php.php:69
+#: ../storage/framework/back/d3e46c4ce598d2fc713f52d35e80130ea6e0e01b.php.php:69
+#: Http/Controllers/Admin/Security/RoleController.php:69
+#: Http/Controllers/Admin/Security/permissionController.php:74
+#: Http/Controllers/Admin/UserController.php:69
+msgid "Added Successfully !"
+msgstr ""
+
+#: ../storage/framework/back/0b1275136a1d1b1afa7ebb0c494974cad3e3809d.php.php:106
+#: ../storage/framework/back/d3e46c4ce598d2fc713f52d35e80130ea6e0e01b.php.php:120
+#: Http/Controllers/Admin/Security/RoleController.php:120
+#: Http/Controllers/Admin/Security/permissionController.php:106
+msgid "Updated Successfully !"
+msgstr ""
+
+#: ../storage/framework/back/0b1275136a1d1b1afa7ebb0c494974cad3e3809d.php.php:118
+#: ../storage/framework/back/81651341883dabb3380b8c06f11b405ac4ea07f4.php.php:154
+#: ../storage/framework/back/d3e46c4ce598d2fc713f52d35e80130ea6e0e01b.php.php:134
+#: Http/Controllers/Admin/Security/RoleController.php:134
+#: Http/Controllers/Admin/Security/permissionController.php:118
+#: Http/Controllers/Admin/UserController.php:154
+msgid "Deleted Successfully !"
+msgstr ""
+
+#: ../storage/framework/back/0c2504272740ed853a8b7458bdaa8840e4fc4693.php.php:6
+#: ../storage/framework/back/169d0dfec15bf6463a90f05146da0dfe1ef18392.php.php:24
+#: ../storage/framework/back/169d0dfec15bf6463a90f05146da0dfe1ef18392.php.php:45
+#: ../storage/framework/back/2dd123bd5767dbed38b4d9445f84efaa21e2acc6.php.php:6
+#: ../storage/framework/back/314d11324dfe3b45271ff563a3d2f65b65e23656.php.php:6
+#: ../storage/framework/back/4ae69dd761e9cab484ac62dfcd932dd410d5c05c.php.php:6
+#: ../storage/framework/back/8c8561583fd659dedaadfc747530e7309954c63c.php.php:6
+#: ../storage/framework/back/c07c6c935876cb4d2142554a621a9707bdbaf9a9.php.php:6
+#: ../storage/framework/back/ca9f1003d72f41d372061c3766a07d228774a900.php.php:6
+msgid "delete"
+msgstr ""
+
+#: ../storage/framework/back/0c2504272740ed853a8b7458bdaa8840e4fc4693.php.php:17
+#: ../storage/framework/back/2dd123bd5767dbed38b4d9445f84efaa21e2acc6.php.php:17
+#: ../storage/framework/back/314d11324dfe3b45271ff563a3d2f65b65e23656.php.php:17
+#: ../storage/framework/back/4ae69dd761e9cab484ac62dfcd932dd410d5c05c.php.php:17
+#: ../storage/framework/back/8c8561583fd659dedaadfc747530e7309954c63c.php.php:17
+#: ../storage/framework/back/c07c6c935876cb4d2142554a621a9707bdbaf9a9.php.php:17
+#: ../storage/framework/back/ca9f1003d72f41d372061c3766a07d228774a900.php.php:17
+msgid "Confirm password"
+msgstr ""
+
+#: ../storage/framework/back/0c2504272740ed853a8b7458bdaa8840e4fc4693.php.php:21
+#: ../storage/framework/back/2dd123bd5767dbed38b4d9445f84efaa21e2acc6.php.php:21
+#: ../storage/framework/back/314d11324dfe3b45271ff563a3d2f65b65e23656.php.php:21
+#: ../storage/framework/back/4ae69dd761e9cab484ac62dfcd932dd410d5c05c.php.php:21
+#: ../storage/framework/back/8c8561583fd659dedaadfc747530e7309954c63c.php.php:21
+#: ../storage/framework/back/c07c6c935876cb4d2142554a621a9707bdbaf9a9.php.php:21
+#: ../storage/framework/back/ca9f1003d72f41d372061c3766a07d228774a900.php.php:21
+msgid "yes"
+msgstr ""
+
+#: ../storage/framework/back/0c2504272740ed853a8b7458bdaa8840e4fc4693.php.php:25
+#: ../storage/framework/back/2dd123bd5767dbed38b4d9445f84efaa21e2acc6.php.php:25
+#: ../storage/framework/back/314d11324dfe3b45271ff563a3d2f65b65e23656.php.php:25
+#: ../storage/framework/back/4ae69dd761e9cab484ac62dfcd932dd410d5c05c.php.php:25
+#: ../storage/framework/back/8c8561583fd659dedaadfc747530e7309954c63c.php.php:25
+#: ../storage/framework/back/c07c6c935876cb4d2142554a621a9707bdbaf9a9.php.php:25
+#: ../storage/framework/back/ca9f1003d72f41d372061c3766a07d228774a900.php.php:25
+msgid "no"
+msgstr ""
+
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:23
+msgid "add"
+msgstr ""
+
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:31
+msgid "ID"
+msgstr ""
+
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:32
+msgid "Name"
+msgstr ""
+
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:33
+msgid "created_at"
+msgstr ""
+
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:34
+msgid "updated_at"
+msgstr ""
+
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:35
+msgid "Controll"
+msgstr ""
+
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:63
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:170
+msgid "Nationalty"
+msgstr ""
+
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:73
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:179
+msgid "cityname"
+msgstr ""
+
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:86
+msgid "Add"
+msgstr ""
+
+#: ../storage/framework/back/0d3c072b4c5f52670aff51937fa2643dc681c4e7.php.php:167
+msgid "Permission Name"
+msgstr ""
+
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:25
+msgid "create options\n"
+msgstr ""
+
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:65
+msgid "language"
+msgstr ""
+
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:76
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:196
+msgid "group"
+msgstr ""
+
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:92
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:211
+msgid "Required"
+msgstr ""
+
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:99
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:218
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:140
+msgid "options"
+msgstr ""
+
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:104
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:223
+#: ../storage/framework/back/0f71f3449ad5d76b241ee5c11df832d460fb7a02.php.php:246
+msgid "option"
+msgstr ""
+
+#: ../storage/framework/back/136340b2813dafd96b9e6771238758c35b12e347.php.php:105
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:49
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:120
+#: ../storage/framework/back/69df096759c5bd28d7fec61d7e90a96c3467f613.php.php:42
+#: ../storage/framework/back/839cd862088eb1c2e33c9b55ceabf6891e54ac96.php.php:43
+#: ../storage/framework/back/839cd862088eb1c2e33c9b55ceabf6891e54ac96.php.php:64
+#: ../storage/framework/back/8ee96a02176d6548a0b22deefde0be1b7e3b00d9.php.php:49
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:48
+#: Http/Controllers/Admin/CategoryController.php:43
+#: Http/Controllers/Admin/CategoryController.php:64
+#: Http/Controllers/Admin/FeaturesController.php:49
+#: Http/Controllers/Admin/FeaturesController.php:120
+#: Http/Controllers/Admin/StoriesController.php:49
+#: Http/Controllers/Admin/materialStatus.php:42
+#: Http/Controllers/Admin/memberController.php:105
+#: Http/Controllers/Admin/membershipController.php:48
+msgid "Add Succfully"
+msgstr ""
+
+#: ../storage/framework/back/136340b2813dafd96b9e6771238758c35b12e347.php.php:184
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:69
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:186
+#: ../storage/framework/back/69df096759c5bd28d7fec61d7e90a96c3467f613.php.php:61
+#: ../storage/framework/back/8ee96a02176d6548a0b22deefde0be1b7e3b00d9.php.php:78
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:76
+#: Http/Controllers/Admin/FeaturesController.php:69
+#: Http/Controllers/Admin/FeaturesController.php:186
+#: Http/Controllers/Admin/StoriesController.php:78
+#: Http/Controllers/Admin/materialStatus.php:61
+#: Http/Controllers/Admin/memberController.php:184
+#: Http/Controllers/Admin/membershipController.php:76
+msgid "edited Succfully"
+msgstr ""
+
+#: ../storage/framework/back/136340b2813dafd96b9e6771238758c35b12e347.php.php:199
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:79
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:128
+#: ../storage/framework/back/69df096759c5bd28d7fec61d7e90a96c3467f613.php.php:68
+#: ../storage/framework/back/839cd862088eb1c2e33c9b55ceabf6891e54ac96.php.php:71
+#: ../storage/framework/back/8ee96a02176d6548a0b22deefde0be1b7e3b00d9.php.php:87
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:83
+#: Http/Controllers/Admin/CategoryController.php:71
+#: Http/Controllers/Admin/FeaturesController.php:79
+#: Http/Controllers/Admin/FeaturesController.php:128
+#: Http/Controllers/Admin/StoriesController.php:87
+#: Http/Controllers/Admin/materialStatus.php:68
+#: Http/Controllers/Admin/memberController.php:199
+#: Http/Controllers/Admin/membershipController.php:83
+msgid "deleted Succfully"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:54
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:41
+msgid "member ship"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:56
+msgid "All member ship"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:66
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:52
+msgid "Department"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:68
+msgid "All Category"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:78
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:63
+msgid "male"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:81
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:66
+msgid "female"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:91
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:76
+msgid "account_setting"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:95
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:80
+msgid "User name"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:100
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:47
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:85
+msgid "email"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:105
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:90
+msgid "password"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:111
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:96
+msgid "Password_confirmation"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:120
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:151
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:105
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:141
+msgid "Address"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:125
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:114
+msgid "nationalty"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:137
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:126
+msgid "Country"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:144
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:133
+msgid "City"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:181
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:173
+msgid "About the partener"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:186
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:178
+msgid "About me"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:192
+msgid "edit Member"
+msgstr ""
+
+#: ../storage/framework/back/1389e5a21ff3e4c132dfab783a28457189dca0c2.php.php:247
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:243
+msgid "Sorry not found city to this country"
+msgstr ""
+
+#: ../storage/framework/back/169d0dfec15bf6463a90f05146da0dfe1ef18392.php.php:38
+msgid "Delete Record"
+msgstr ""
+
+#: ../storage/framework/back/169d0dfec15bf6463a90f05146da0dfe1ef18392.php.php:41
+msgid "You Want You Sure Delete This Record"
+msgstr ""
+
+#: ../storage/framework/back/169d0dfec15bf6463a90f05146da0dfe1ef18392.php.php:44
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:77
+msgid "close"
+msgstr ""
+
+#: ../storage/framework/back/33f93ec7de0f209541524ba5c57ecb70cda32ebb.php.php:11
+msgid "create new memberShip"
+msgstr ""
+
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:29
+#: Http/Controllers/Admin/FeaturesController.php:29
+msgid "optiongroup"
+msgstr ""
+
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:40
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:60
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:99
+#: ../storage/framework/back/5ac2068b088fb4cd504f60c20a337492f30faf6f.php.php:150
+#: ../storage/framework/back/69df096759c5bd28d7fec61d7e90a96c3467f613.php.php:33
+#: ../storage/framework/back/69df096759c5bd28d7fec61d7e90a96c3467f613.php.php:52
+#: ../storage/framework/back/839cd862088eb1c2e33c9b55ceabf6891e54ac96.php.php:34
+#: ../storage/framework/back/839cd862088eb1c2e33c9b55ceabf6891e54ac96.php.php:55
+#: ../storage/framework/back/8ee96a02176d6548a0b22deefde0be1b7e3b00d9.php.php:33
+#: ../storage/framework/back/8ee96a02176d6548a0b22deefde0be1b7e3b00d9.php.php:62
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:34
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:62
+#: Http/Controllers/Admin/CategoryController.php:34
+#: Http/Controllers/Admin/CategoryController.php:55
+#: Http/Controllers/Admin/FeaturesController.php:40
+#: Http/Controllers/Admin/FeaturesController.php:60
+#: Http/Controllers/Admin/FeaturesController.php:99
+#: Http/Controllers/Admin/FeaturesController.php:150
+#: Http/Controllers/Admin/StoriesController.php:33
+#: Http/Controllers/Admin/StoriesController.php:62
+#: Http/Controllers/Admin/materialStatus.php:33
+#: Http/Controllers/Admin/materialStatus.php:52
+#: Http/Controllers/Admin/membershipController.php:34
+#: Http/Controllers/Admin/membershipController.php:62
+msgid "title required"
+msgstr ""
+
+#: ../storage/framework/back/69df096759c5bd28d7fec61d7e90a96c3467f613.php.php:22
+#: Http/Controllers/Admin/materialStatus.php:22
+msgid "materialStatus"
+msgstr ""
+
+#: ../storage/framework/back/7c5f06826b0c1b0efa010f7e3da81c828dbdb68a.php.php:11
+msgid "create optionGroup\n"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:34
+msgid "Title"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:37
+msgid "Website Name"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:49
+msgid "Website email"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:59
+msgid "logo"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:72
+msgid "Control website"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:76
+msgid "open"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:83
+msgid "facebook_url"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:96
+msgid "instagram_url"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:109
+msgid "twitter_url"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:122
+msgid "phone"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:135
+msgid "address"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:149
+msgid "description"
+msgstr ""
+
+#: ../storage/framework/back/812d4e3c537d6b6c081eedc099230f0514b7ee42.php.php:172
+msgid "save"
+msgstr ""
+
+#: ../storage/framework/back/81651341883dabb3380b8c06f11b405ac4ea07f4.php.php:126
+#: Http/Controllers/Admin/UserController.php:126
+msgid "updated Successfully !"
+msgstr ""
+
+#: ../storage/framework/back/81651341883dabb3380b8c06f11b405ac4ea07f4.php.php:156
+#: Http/Controllers/Admin/UserController.php:156
+msgid "Can`t Delete This User"
+msgstr ""
+
+#: ../storage/framework/back/839cd862088eb1c2e33c9b55ceabf6891e54ac96.php.php:24
+#: Http/Controllers/Admin/CategoryController.php:24
+msgid "category"
+msgstr ""
+
+#: ../storage/framework/back/84dad9bda1e667dcafc103f731cf46d3b76f7d98.php.php:11
+msgid "create new             material_status\n"
+msgstr ""
+
+#: ../storage/framework/back/8d634f63bbda8d4c4b59b4f71de1c5776600675f.php.php:11
+msgid "create new Stories"
+msgstr ""
+
+#: ../storage/framework/back/8ee96a02176d6548a0b22deefde0be1b7e3b00d9.php.php:21
+#: Http/Controllers/Admin/StoriesController.php:21
+msgid "Storeis"
+msgstr ""
+
+#: ../storage/framework/back/8ee96a02176d6548a0b22deefde0be1b7e3b00d9.php.php:34
+#: ../storage/framework/back/8ee96a02176d6548a0b22deefde0be1b7e3b00d9.php.php:63
+#: Http/Controllers/Admin/StoriesController.php:34
+#: Http/Controllers/Admin/StoriesController.php:63
+msgid "content required"
+msgstr ""
+
+#: ../storage/framework/back/b0e11e720ddf28397237ba5f0fb111cc4110face.php.php:11
+msgid "create new Category"
+msgstr ""
+
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:43
+msgid " All member ship"
+msgstr ""
+
+#: ../storage/framework/back/c846f1f3236309098650a8aed828a240aa921586.php.php:184
+msgid "add Member"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:11
+msgid "security"
+msgstr "Sécurité"
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:20
+msgid "permissions"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:27
+msgid "role"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:34
+msgid "users"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:45
+msgid "Setting"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:54
+msgid "GeneralSetting"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:65
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:74
+msgid "membership"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:85
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:94
+msgid "categories"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:104
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:113
+msgid "material_status"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:123
+msgid "Features"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:133
+msgid "featureGroup"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:152
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:162
+msgid "All Members"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:169
+msgid "create Members"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:179
+msgid "Stories"
+msgstr ""
+
+#: ../storage/framework/back/cc27f5e48e9b38167bc539bcf8c1ee6f50a9d0e8.php.php:189
+msgid "All Stories"
+msgstr ""
+
+#: ../storage/framework/back/d3e46c4ce598d2fc713f52d35e80130ea6e0e01b.php.php:82
+#: Http/Controllers/Admin/Security/RoleController.php:82
+msgid "Can`t Edit this Role !"
+msgstr ""
+
+#: ../storage/framework/back/d3e46c4ce598d2fc713f52d35e80130ea6e0e01b.php.php:129
+#: Http/Controllers/Admin/Security/RoleController.php:129
+msgid "Can`t Delete this Role !"
+msgstr ""
+
+#: ../storage/framework/back/d41ac8a9a618781620411fd2ac776f6868a227fe.php.php:1
+msgid "edit"
+msgstr ""
+
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:21
+#: Http/Controllers/Admin/membershipController.php:21
+msgid "Memebrship"
+msgstr ""
+
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:35
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:63
+#: Http/Controllers/Admin/membershipController.php:35
+#: Http/Controllers/Admin/membershipController.php:63
+msgid "Cost required"
+msgstr ""
+
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:36
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:64
+#: Http/Controllers/Admin/membershipController.php:36
+#: Http/Controllers/Admin/membershipController.php:64
+msgid "years required"
+msgstr ""
+
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:37
+#: ../storage/framework/back/d965baea466ec59c291aa2f1a452bfda3587ce4f.php.php:65
+#: Http/Controllers/Admin/membershipController.php:37
+#: Http/Controllers/Admin/membershipController.php:65
+msgid "must be numeric"
+msgstr ""

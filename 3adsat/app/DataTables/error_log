@@ -1,0 +1,11 @@
+[12-Nov-2019 15:42:29 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/OrderDataTable.php on line 13
+[12-Nov-2019 15:42:32 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/CountryDataTable.php on line 14
+[12-Nov-2019 15:42:40 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/userOrderDataTable.php on line 9
+[12-Nov-2019 15:42:43 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/BankTransferDataTable.php on line 8
+[12-Nov-2019 15:42:46 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/shippingOptionDataTable.php on line 11
+[12-Nov-2019 15:42:49 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/ShippingCompanyDataTable.php on line 13
+[12-Nov-2019 15:42:53 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/HomeDataTable.php on line 14
+[12-Nov-2019 15:42:55 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/AdminDataTable.php on line 9
+[12-Nov-2019 15:42:59 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/discountCodeDataTable.php on line 8
+[12-Nov-2019 15:43:02 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/SectionProductDataTable.php on line 14
+[12-Nov-2019 15:43:06 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/qeyeq/public_html/beta/app/DataTables/TransactionTypeDataTable.php on line 12

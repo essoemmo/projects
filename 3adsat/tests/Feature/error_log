@@ -1,0 +1,2 @@
+[12-Nov-2019 16:14:09 UTC] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/qeyeq/public_html/beta/tests/Feature/ExampleTest.php on line 8
+[13-Nov-2019 17:33:13 UTC] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/qeyeq/public_html/beta/tests/Feature/ExampleTest.php on line 8

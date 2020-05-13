@@ -1,0 +1,1 @@
+[12-Nov-2019 15:42:44 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/qeyeq/public_html/beta/app/Console/Kernel.php on line 8

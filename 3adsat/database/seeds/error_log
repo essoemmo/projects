@@ -1,0 +1,4 @@
+[12-Nov-2019 16:15:28 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/qeyeq/public_html/beta/database/seeds/LanguageTable.php on line 5
+[12-Nov-2019 16:15:29 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/qeyeq/public_html/beta/database/seeds/RoleTableSeeder.php on line 5
+[12-Nov-2019 16:15:31 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/qeyeq/public_html/beta/database/seeds/DatabaseSeeder.php on line 5
+[12-Nov-2019 16:15:34 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/qeyeq/public_html/beta/database/seeds/PermissionTableSeeder.php on line 8

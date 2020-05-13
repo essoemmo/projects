@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultilanguageLaravelApplication\n"
+"POT-Creation-Date: 2019-10-26 10:33+0000\n"
+"PO-Revision-Date: 2019-10-26 10:33+0000\n"
+"Last-Translator: James Translator <james@translations.colm>\n"
+"Language-Team: James Translator <james@translations.colm>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_i;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
+"X-Poedit-Basepath: ../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http\n"
+"X-Poedit-SearchPath-1: ../resources/views\n"
+"X-Poedit-SearchPath-2: Console\n"
+"X-Poedit-SearchPath-3: ../storage/framework/messages/\n"
+
+#: ../resources/views/admin/hr/course/courses/addCourse.blade.php:344
+#: ../resources/views/admin/hr/course/courses/editCourse.blade.php:353
+msgid "delete file"
+msgstr ""
+
+#: ../resources/views/admin/hr/course/courses/video/course_video.blade.php:316
+#: ../resources/views/admin/hr/course/courses/video/course_video.blade.php:330
+#: ../resources/views/admin/hr/course/courses/video/edit_video.blade.php:384
+#: ../resources/views/admin/hr/course/courses/video/edit_video.blade.php:397
+msgid "delete row"
+msgstr ""
+
+#: ../resources/views/front/user/apply.blade.php:105
+#: ../resources/views/front/user/payment-data.blade.php:89
+msgid "days"
+msgstr ""
+
+#: ../resources/views/front/user/courses.blade.php:74
+#: ../resources/views/front/user/courses.blade.php:77
+msgid "Course"
+msgstr ""
+
+#: ../resources/views/front/user/courses.blade.php:82
+#: ../resources/views/front/user/courses.blade.php:85
+msgid "Trainer"
+msgstr ""
+
+#: ../resources/views/front/user/courses.blade.php:96
+msgid "Certificate"
+msgstr ""
+
+#: ../resources/views/front/user/courses.blade.php:100
+msgid "Attachments"
+msgstr ""
+
+#: Http/Controllers/Admin/Article/Artcl_categoriesController.php:41
+#: Http/Controllers/Admin/Controller.php:33
+#: Http/Controllers/AdminController.php:136
+#: Http/Controllers/AdminController.php:163
+#: Http/Controllers/AdminController.php:283 Http/Controllers/Controller.php:40
+#: Http/Controllers/GalleryController.php:33
+#: Http/Controllers/Hr/Course/ApplicantController.php:144
+#: Http/Controllers/Hr/Course/CourseController.php:51
+#: Http/Controllers/Hr/Course/CourseController.php:75
+#: Http/Controllers/Hr/Course/CourseController.php:614
+#: Http/Controllers/Hr/Course/CourseExamController.php:35
+#: Http/Controllers/Hr/Course/TrainerController.php:61
+msgid "Edit"
+msgstr ""
+
+#: Http/Controllers/Admin/Article/Artcl_categoriesController.php:97
+#: Http/Controllers/Admin/Article/ArticleController.php:133
+#: Http/Controllers/Admin/CitiesController.php:79
+#: Http/Controllers/Admin/CurrencyController.php:36
+#: Http/Controllers/Admin/NewsLettersController.php:52
+#: Http/Controllers/Admin/SettingsController.php:72
+#: Http/Controllers/AdminController.php:77
+#: Http/Controllers/AdminController.php:212
+#: Http/Controllers/AdminController.php:330
+#: Http/Controllers/CountriesController.php:84
+#: Http/Controllers/Front/User/CourseRequestController.php:59
+#: Http/Controllers/GalleryController.php:85
+#: Http/Controllers/Hr/Course/BankTransferController.php:65
+#: Http/Controllers/Hr/Course/Co_categoryController.php:63
+#: Http/Controllers/Hr/Course/CourseController.php:193
+#: Http/Controllers/Hr/Course/CourseController.php:459
+#: Http/Controllers/Hr/Course/CourseExamController.php:101
+#: Http/Controllers/Hr/Course/DiscountCodeController.php:38
+#: Http/Controllers/Hr/Course/EducationLevelController.php:62
+#: Http/Controllers/Hr/Course/QuestionController.php:54
+#: Http/Controllers/Hr/Course/TrainerController.php:112
+#: Http/Controllers/Hr/ProgramController.php:57
+#: Http/Controllers/Hr/ProgramController.php:104
+msgid "Added Successfully !"
+msgstr ""
+
+#: Http/Controllers/Admin/Article/Artcl_categoriesController.php:162
+msgid "Can`t Delete This Category becaust it contain Articles delete it first !"
+msgstr ""
+
+#: Http/Controllers/Admin/Article/Artcl_categoriesController.php:165
+#: Http/Controllers/Admin/Article/ArticleController.php:216
+#: Http/Controllers/Admin/CitiesController.php:121
+#: Http/Controllers/Admin/ContactController.php:50
+#: Http/Controllers/Admin/CourseRequestController.php:54
+#: Http/Controllers/Admin/CurrencyController.php:70
+#: Http/Controllers/Admin/NewsLettersController.php:76
+#: Http/Controllers/Admin/Rating/RatingController.php:105
+#: Http/Controllers/AdminController.php:266
+#: Http/Controllers/AdminController.php:435
+#: Http/Controllers/CountriesController.php:144
+#: Http/Controllers/Front/User/CourseRequestController.php:126
+#: Http/Controllers/GalleryController.php:133
+#: Http/Controllers/Hr/Course/ApplicantController.php:261
+#: Http/Controllers/Hr/Course/Co_categoryController.php:94
+#: Http/Controllers/Hr/Course/CourseController.php:317
+#: Http/Controllers/Hr/Course/DiscountCodeController.php:42
+#: Http/Controllers/Hr/Course/EducationLevelController.php:93
+#: Http/Controllers/Hr/Course/QuestionController.php:72
+#: Http/Controllers/Hr/Course/TrainerController.php:167
+msgid "Deleted Successfully !"
+msgstr ""
+
+#: Http/Controllers/Admin/Article/ArticleController.php:38
+msgid "Published"
+msgstr ""
+
+#: Http/Controllers/Admin/Article/ArticleController.php:38
+msgid "Not Published"
+msgstr ""
+
+#: Http/Controllers/Admin/CitiesController.php:107
+#: Http/Controllers/Admin/NewsLettersController.php:68
+#: Http/Controllers/Admin/SettingsController.php:107
+#: Http/Controllers/AdminController.php:102
+#: Http/Controllers/AdminController.php:258
+#: Http/Controllers/AdminController.php:389
+#: Http/Controllers/AdminController.php:407
+#: Http/Controllers/GalleryController.php:124
+#: Http/Controllers/Hr/Course/ApplicantController.php:254
+#: Http/Controllers/Hr/Course/BankTransferController.php:86
+#: Http/Controllers/Hr/Course/Co_categoryController.php:82
+#: Http/Controllers/Hr/Course/CourseController.php:309
+#: Http/Controllers/Hr/Course/CourseController.php:586
+#: Http/Controllers/Hr/Course/CourseExamController.php:169
+#: Http/Controllers/Hr/Course/EducationLevelController.php:84
+#: Http/Controllers/Hr/Course/QuestionController.php:67
+#: Http/Controllers/Hr/Course/TrainerController.php:156
+#: Http/Controllers/Hr/ProgramController.php:77
+msgid "Updated Successfully !"
+msgstr ""
+
+#: Http/Controllers/Admin/ContactController.php:33
+#: Http/Controllers/Admin/CourseCommentController.php:43
+#: Http/Controllers/Admin/Rating/RatingController.php:60
+#: Http/Controllers/Hr/Course/Applicant_course_pendingController.php:38
+msgid "Show"
+msgstr ""
+
+#: Http/Controllers/Admin/ContactController.php:34
+#: Http/Controllers/Admin/Controller.php:29
+#: Http/Controllers/Admin/Controller.php:35
+#: Http/Controllers/Admin/CourseCommentController.php:44
+#: Http/Controllers/Admin/Rating/RatingController.php:61
+#: Http/Controllers/AdminController.php:137
+#: Http/Controllers/AdminController.php:164
+#: Http/Controllers/AdminController.php:284 Http/Controllers/Controller.php:36
+#: Http/Controllers/Controller.php:42 Http/Controllers/GalleryController.php:34
+#: Http/Controllers/Hr/Course/ApplicantController.php:145
+#: Http/Controllers/Hr/Course/Applicant_course_pendingController.php:45
+#: Http/Controllers/Hr/Course/CourseController.php:52
+#: Http/Controllers/Hr/Course/CourseController.php:76
+#: Http/Controllers/Hr/Course/CourseExamController.php:36
+#: Http/Controllers/Hr/Course/TrainerController.php:62
+msgid "Delete"
+msgstr ""
+
+#: Http/Controllers/Admin/CourseCommentController.php:35
+#: Http/Controllers/Admin/Rating/RatingController.php:42
+msgid "Approved"
+msgstr ""
+
+#: Http/Controllers/Admin/CourseCommentController.php:36
+#: Http/Controllers/Admin/Rating/RatingController.php:43
+msgid "Not Approved"
+msgstr ""
+
+#: Http/Controllers/Admin/CourseRequestController.php:47
+#: Http/Controllers/Admin/CurrencyController.php:63
+#: Http/Controllers/Front/User/CourseRequestController.php:113
+msgid "edited Successfully !"
+msgstr ""
+
+#: Http/Controllers/Admin/Rating/RatingController.php:97
+#: Http/Controllers/Hr/Course/Applicant_course_pendingController.php:120
+msgid "Approved Successfully !"
+msgstr ""
+
+#: Http/Controllers/AdminController.php:342
+msgid "Dosn`t Access This Account"
+msgstr ""
+
+#: Http/Controllers/AdminController.php:391
+msgid "Profile Updated Successfully !"
+msgstr ""
+
+#: Http/Controllers/AdminController.php:437
+msgid "Can`t Delete This User"
+msgstr ""
+
+#: Http/Controllers/Api/Applicants/ApplicantController.php:153
+msgid "Deleted Successfully"
+msgstr ""
+
+#: Http/Controllers/Auth/LoginController.php:112
+#: Http/Controllers/Auth/LoginController.php:131
+#: Http/Controllers/Auth/LoginController.php:152
+msgid "Admin Will Activate Your Account Soon!!"
+msgstr ""
+
+#: Http/Controllers/Auth/LoginController.php:121
+#: Http/Controllers/Auth/LoginController.php:140
+msgid "Your credentials doesn`t match our service"
+msgstr ""
+
+#: Http/Controllers/Auth/LoginController.php:146
+msgid "You doesn`t have Role to login"
+msgstr ""
+
+#: Http/Controllers/CountriesController.php:141
+msgid "Can`t Delete Country delete Cities From Country First !"
+msgstr ""
+
+#: Http/Controllers/Front/User/DashboardController.php:69
+msgid "Thanks"
+msgstr ""
+
+#: Http/Controllers/Front/User/DashboardController.php:185
+#: Http/Controllers/HomeController.php:324
+msgid "Your message has been sent successfully"
+msgstr ""
+
+#: Http/Controllers/Front/WelcomeController.php:228
+msgid "Thanks for your registeration."
+msgstr ""
+
+#: Http/Controllers/Front/WelcomeController.php:293
+msgid "The Booking Course Deleted Successfully ."
+msgstr ""
+
+#: Http/Controllers/Hr/Course/Applicant_course_pendingController.php:41
+msgid "Approve"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/BankTransferController.php:96
+#: Http/Controllers/Hr/ProgramController.php:85
+#: Http/Controllers/Hr/ProgramController.php:111
+msgid "Deleted Successully !"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/Co_categoryController.php:91
+msgid "Can`t Delete This Category becaust it contain sub category delete it first !"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/CourseController.php:53
+#: Http/Controllers/Hr/Course/CourseController.php:77
+msgid "Add Media"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/CourseController.php:54
+#: Http/Controllers/Hr/Course/CourseController.php:78
+msgid "Add Course Exam"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/CourseController.php:57
+#: Http/Controllers/Hr/Course/CourseController.php:82
+msgid "Yes"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/CourseController.php:57
+#: Http/Controllers/Hr/Course/CourseController.php:82
+msgid "No"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/CourseController.php:597
+#: Http/Controllers/Hr/Course/CourseExamController.php:197
+msgid "Video has been deleted successfully!"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/CourseController.php:615
+msgid "DELETE"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/CourseExamController.php:46
+msgid "Arabic"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/CourseExamController.php:46
+msgid "English"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/ExportTrainer.php:36
+msgid "ID"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/ExportTrainer.php:37
+msgid "First Name"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/ExportTrainer.php:38
+msgid "Last Name"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/ExportTrainer.php:39
+msgid "Skills"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/ExportTrainer.php:40
+msgid "Status"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/ExportTrainer.php:41
+msgid "Gender"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/ExportTrainer.php:42
+msgid "Hiring Date"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/TrainerController.php:44
+#: Http/Controllers/Hr/Course/TrainerController.php:187
+msgid "Active"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/TrainerController.php:46
+#: Http/Controllers/Hr/Course/TrainerController.php:187
+msgid "Not Active"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/TrainerController.php:51
+#: Http/Controllers/Hr/Course/TrainerController.php:186
+msgid "Female"
+msgstr ""
+
+#: Http/Controllers/Hr/Course/TrainerController.php:53
+#: Http/Controllers/Hr/Course/TrainerController.php:186
+msgid "Male"
+msgstr ""

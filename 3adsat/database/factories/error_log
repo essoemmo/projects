@@ -1,0 +1,4 @@
+[12-Nov-2019 16:02:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/qeyeq/public_html/beta/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/qeyeq/public_html/beta/database/factories/UserFactory.php on line 19

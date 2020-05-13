@@ -1,0 +1,2 @@
+[12-Nov-2019 15:26:38 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/qeyeq/public_html/beta/app/ProductLens.php on line 7
+[13-Nov-2019 17:19:20 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/qeyeq/public_html/beta/app/ProductLens.php on line 7

@@ -1,0 +1,3154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultilanguageLaravelApplication\n"
+"POT-Creation-Date: 2020-01-02 11:37+0000\n"
+"PO-Revision-Date: 2020-01-02 11:37+0000\n"
+"Last-Translator: James Translator <james@translations.colm>\n"
+"Language-Team: James Translator <james@translations.colm>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_i;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http\n"
+"X-Poedit-SearchPath-1: ../resources/views\n"
+"X-Poedit-SearchPath-2: Console\n"
+"X-Poedit-SearchPath-3: ../storage/framework/messages/\n"
+
+#: ../resources/views/admin/blog/create.blade.php:124
+#: ../resources/views/admin/blog/edit.blade.php:140
+#: ../resources/views/admin/content_management/create.blade.php:25
+#: ../resources/views/admin/content_management/create.blade.php:35
+#: ../resources/views/admin/content_management/create.blade.php:44
+#: ../resources/views/admin/content_management/create.blade.php:75
+#: ../resources/views/admin/content_management/edit.blade.php:59
+#: ../resources/views/admin/content_management/edit.blade.php:70
+#: ../resources/views/admin/content_management/edit.blade.php:79
+#: ../resources/views/admin/content_management/edit.blade.php:110
+#: ../resources/views/admin/content_management/index.blade.php:35
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:122
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:139
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:51
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:62
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:71
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:102
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:16
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:26
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:35
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:66
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:29
+msgid "CHOOSE"
+msgstr "إختار"
+
+#: ../resources/views/admin/content_management/create.blade.php:23
+#: ../resources/views/admin/content_management/edit.blade.php:57
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:65
+#: ../storage/framework/messages/278706be0f607a2884a651554f1b500ffaa2ae9d.php.php:43
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:49
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:14
+msgid "Language"
+msgstr "اللغة"
+
+#: ../resources/views/admin/content_management/create.blade.php:33
+#: ../resources/views/admin/content_management/edit.blade.php:68
+#: ../resources/views/admin/content_management/index.blade.php:32
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:60
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:24
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:26
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:42
+msgid "Type"
+msgstr "النوع"
+
+#: ../resources/views/admin/content_management/create.blade.php:36
+#: ../resources/views/admin/content_management/edit.blade.php:71
+#: ../resources/views/admin/content_management/index.blade.php:36
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:190
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:63
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:27
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:30
+#: ../storage/framework/messages/ff1e68912a3581b87634e368e0d68aa74e8bbc90.php.php:36
+msgid "Home"
+msgstr "الرئيسية"
+
+#: ../resources/views/admin/content_management/create.blade.php:37
+#: ../resources/views/admin/content_management/edit.blade.php:72
+#: ../resources/views/admin/content_management/index.blade.php:37
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:64
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:28
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:31
+msgid "Footer"
+msgstr "الفوتر"
+
+#: ../resources/views/admin/content_management/create.blade.php:42
+#: ../resources/views/admin/content_management/edit.blade.php:77
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:60
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:69
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:33
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:49
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:43
+msgid " Order "
+msgstr "الطلب"
+
+#: ../resources/views/admin/content_management/create.blade.php:61
+#: ../resources/views/admin/content_management/create.blade.php:104
+#: ../resources/views/admin/content_management/edit.blade.php:96
+#: ../resources/views/admin/content_management/edit.blade.php:137
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:32
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:34
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:37
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:105
+#: ../storage/framework/messages/2703c81c6aa69123ea0435205a5febbfa5f09dbf.php.php:32
+#: ../storage/framework/messages/2703c81c6aa69123ea0435205a5febbfa5f09dbf.php.php:34
+#: ../storage/framework/messages/3615d99d5b9701a4e0b56962f30e0ca9653df65f.php.php:34
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:31
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:33
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:49
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:98
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:39
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:103
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:48
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:97
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:32
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:37
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:107
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:32
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:34
+#: ../storage/framework/messages/83c223ec2821b80ffc618c747e9217089aeed2f0.php.php:33
+#: ../storage/framework/messages/83c223ec2821b80ffc618c747e9217089aeed2f0.php.php:35
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:32
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:34
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:32
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:34
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:32
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:34
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:37
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:97
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:33
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:35
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:33
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:36
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:38
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:36
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:38
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:223
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:225
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:39
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:52
+#: ../storage/framework/messages/bf8fc21db61a305798b838adc37472ba6b182480.php.php:34
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:31
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:33
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:88
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:129
+#: ../storage/framework/messages/e89b8a25239aef171552bccbda7bbab364ee94dd.php.php:34
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:52
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:95
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:40
+#: ../storage/framework/messages/eee1b64b700080b4790a27258a619461c1f00493.php.php:34
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:122
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:124
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:40
+msgid "Title"
+msgstr "العنوان"
+
+#: ../resources/views/admin/content_management/create.blade.php:73
+#: ../resources/views/admin/content_management/edit.blade.php:108
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:100
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:64
+msgid "Columns Number"
+msgstr "عدد الأعمدة"
+
+#: ../resources/views/admin/layout/include/nav.php:7
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:7
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:6
+msgid "Setting"
+msgstr "الإعدادات"
+
+#: ../resources/views/admin/layout/include/nav.php:13
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:13
+msgid "Site Setting"
+msgstr "إعدادات الموقع"
+
+#: ../resources/views/admin/layout/include/nav.php:19
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:19
+msgid "Site Languages"
+msgstr "لغات الموقع"
+
+#: ../resources/views/admin/layout/include/nav.php:26
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:26
+msgid "Sliders"
+msgstr "السلايدر"
+
+#: ../resources/views/admin/layout/include/nav.php:32
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:32
+msgid "Countries"
+msgstr "الدول"
+
+#: ../resources/views/admin/layout/include/nav.php:38
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:38
+msgid "Currencies"
+msgstr "العملات"
+
+#: ../resources/views/admin/layout/include/nav.php:44
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:44
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:149
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:150
+msgid "Content Management"
+msgstr "إدارة المحتوى"
+
+#: ../resources/views/admin/layout/include/nav.php:50
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:50
+msgid "Product Management"
+msgstr "إدارة المنتجات"
+
+#: ../resources/views/admin/layout/include/nav.php:60
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:60
+msgid "Security"
+msgstr "الأمان"
+
+#: ../resources/views/admin/layout/include/nav.php:67
+#: ../storage/framework/messages/1b54c8448a4f8a50e093c79a925686547cf66c42.php.php:51
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:67
+#: ../storage/framework/messages/98db4c502cb6b73f1a210da462669568510ae291.php.php:34
+#: ../storage/framework/messages/f928ab97ccbc4817e1f7a79ea896fcee198f34ce.php.php:19
+#: Http/Controllers/Security/permissionController.php:19
+msgid "Permissions"
+msgstr "الصلاحيات"
+
+#: ../resources/views/admin/layout/include/nav.php:73
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:73
+msgid "Roles"
+msgstr "الصلاحيات"
+
+#: ../resources/views/admin/layout/include/nav.php:80
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:106
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:80
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:77
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:161
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:77
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:85
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:228
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:75
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:152
+msgid "Add"
+msgstr "إضافة"
+
+#: ../resources/views/admin/layout/include/nav.php:86
+#: ../storage/framework/messages/1b54c8448a4f8a50e093c79a925686547cf66c42.php.php:122
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:140
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:86
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:195
+#: ../storage/framework/messages/7d975ef842919e5490ef05b4e46f9062a73d8d56.php.php:33
+#: ../storage/framework/messages/8732cb9e4417d236cbec0d8fa105bb4546124b45.php.php:33
+#: ../storage/framework/messages/98db4c502cb6b73f1a210da462669568510ae291.php.php:114
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:127
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:247
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:156
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:390
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:185
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:122
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:207
+msgid "All"
+msgstr "الكل"
+
+#: ../resources/views/admin/layout/include/nav.php:95
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:95
+#: ../storage/framework/messages/ed29b1d2f1b65ab0466a4c0d080dfae7532195e6.php.php:54
+msgid "Admins"
+msgstr "المسؤولين"
+
+#: ../resources/views/admin/layout/include/nav.php:100
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:100
+msgid "Users"
+msgstr "المستخدمين"
+
+#: ../resources/views/admin/layout/include/nav.php:110
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:110
+msgid "Product Managment"
+msgstr "إدارة المنتجات"
+
+#: ../resources/views/admin/layout/include/nav.php:116
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:116
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:89
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:78
+#: ../storage/framework/messages/ed29b1d2f1b65ab0466a4c0d080dfae7532195e6.php.php:89
+msgid "Products"
+msgstr "المنتجات"
+
+#: ../resources/views/admin/layout/include/nav.php:121
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:202
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:121
+#: ../storage/framework/messages/46b5b31f6003de576069bf701db7ef2a7c3a529e.php.php:23
+#: ../storage/framework/messages/98255dd0584514750d651ffb53e9c3f897feb376.php.php:23
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:56
+#: ../storage/framework/messages/99a918fc93f084d52c898f96c194e02408e7ba0d.php.php:23
+#: ../storage/framework/messages/c81c0360f2f5da9dee38a3423a10a4b08ce2f423.php.php:69
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:70
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:173
+#: ../storage/framework/messages/ff1e68912a3581b87634e368e0d68aa74e8bbc90.php.php:37
+#: ../storage/framework/messages/ff561de26d107c56dc39cd4332e17e556c4bdc8c.php.php:23
+msgid "Categories"
+msgstr "الأقسام"
+
+#: ../resources/views/admin/layout/include/nav.php:126
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:126
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:186
+msgid "Genres"
+msgstr "الأنواع"
+
+#: ../resources/views/admin/layout/include/nav.php:131
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:131
+msgid "PlatForms"
+msgstr "منصات"
+
+#: ../resources/views/admin/layout/include/nav.php:136
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:136
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:134
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:263
+msgid "Regions"
+msgstr "المناطق"
+
+#: ../resources/views/admin/layout/include/nav.php:141
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:141
+msgid "Game details"
+msgstr "تفاصيل اللعبة"
+
+#: ../resources/views/admin/layout/include/nav.php:146
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:146
+msgid "Game languages"
+msgstr "لغات اللعبة"
+
+#: ../resources/views/admin/layout/include/nav.php:151
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:151
+msgid "Works on"
+msgstr "يعمل علي"
+
+#: ../resources/views/admin/layout/include/nav.php:159
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:159
+msgid "Payment Managment"
+msgstr "إدارة الدفع"
+
+#: ../resources/views/admin/layout/include/nav.php:165
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:165
+msgid "Banks"
+msgstr "البنوك"
+
+#: ../resources/views/admin/layout/include/nav.php:170
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:170
+#: ../storage/framework/messages/3aeeae4099ecdf8ce02e8de492785e8f26c97eae.php.php:6
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:199
+msgid "Online Payment"
+msgstr "الدفع عبر الإنترنت"
+
+#: ../resources/views/admin/layout/include/nav.php:180
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:180
+#: ../storage/framework/messages/8732cb9e4417d236cbec0d8fa105bb4546124b45.php.php:5
+#: ../storage/framework/messages/ed29b1d2f1b65ab0466a4c0d080dfae7532195e6.php.php:122
+msgid "Orders"
+msgstr "الطلبات"
+
+#: ../resources/views/admin/layout/include/nav.php:188
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:188
+msgid "Blog Managment"
+msgstr "إدارة المدونات"
+
+#: ../resources/views/admin/layout/include/nav.php:194
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:194
+msgid "Blog"
+msgstr "المدونة"
+
+#: ../resources/views/admin/layout/include/nav.php:200
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:200
+msgid "Blog Category"
+msgstr "قسم المدونة"
+
+#: ../resources/views/admin/layout/include/nav.php:211
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:211
+msgid "Reports"
+msgstr "التقارير"
+
+#: ../resources/views/admin/layout/include/nav.php:217
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:217
+msgid "Order Report"
+msgstr "تقارير الطلبات"
+
+#: ../resources/views/admin/layout/include/nav.php:223
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:223
+msgid "Purchased Products Report"
+msgstr "تقرير المنتجات المشتراة"
+
+#: ../resources/views/admin/layout/include/nav.php:228
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:228
+msgid "Customer Order Report"
+msgstr "تقرير طلب العملاء"
+
+#: ../resources/views/admin/layout/include/nav.php:240
+#: ../storage/framework/messages/26128c02ec651f8647e9ffb28e3cf4bffabe732e.php.php:240
+#: ../storage/framework/messages/5c648e76856242e0896fe6cdd6adec67a93f8a0c.php.php:9
+msgid "NewsLetter"
+msgstr "النشرة الإخبارية"
+
+#: ../resources/views/front/not-found.blade.php:14
+#: ../storage/framework/messages/176dcd764da1775d8cdeef8d1b392f4c72cec81c.php.php:13
+msgid "Sorry the page you are looking for is not found"
+msgstr "عذرًا ، الصفحة التي تبحث عنها غير موجودة"
+
+#: ../storage/framework/messages/017d60b6c57fe215c6435fadb4112dc674c9cdd3.php.php:5
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:33
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:64
+#: ../storage/framework/messages/68d8a80e869e19f8f71c88093f8e49cefd3fcff4.php.php:8
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:33
+#: ../storage/framework/messages/8866b6fa42b19d5c048671c3ec56ec9cb34bac6c.php.php:7
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:60
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:62
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:247
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:249
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:37
+#: ../storage/framework/messages/e1236d13805fb059d38ed169f86bc97fb5e1ca12.php.php:5
+msgid "Email"
+msgstr "الإيميل"
+
+#: ../storage/framework/messages/017d60b6c57fe215c6435fadb4112dc674c9cdd3.php.php:6
+#: ../storage/framework/messages/19704cf2886fdb2a37cb0558f7c888a6d6902bdc.php.php:37
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:66
+#: ../storage/framework/messages/511cac12f2754ded7962592afc7d56bffdc0e036.php.php:72
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:66
+#: ../storage/framework/messages/68d8a80e869e19f8f71c88093f8e49cefd3fcff4.php.php:9
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:29
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:43
+#: ../storage/framework/messages/e1236d13805fb059d38ed169f86bc97fb5e1ca12.php.php:6
+#: Http/Controllers/Admin/AdminLoginController.php:72
+msgid "Password"
+msgstr "الرقم السري"
+
+#: ../storage/framework/messages/017d60b6c57fe215c6435fadb4112dc674c9cdd3.php.php:8
+msgid "You do not have an account"
+msgstr "لا يوجد لديك حساب"
+
+#: ../storage/framework/messages/017d60b6c57fe215c6435fadb4112dc674c9cdd3.php.php:9
+#: ../storage/framework/messages/e1236d13805fb059d38ed169f86bc97fb5e1ca12.php.php:9
+msgid "Forget Password"
+msgstr "هل نسيت كلمة المرور"
+
+#: ../storage/framework/messages/017d60b6c57fe215c6435fadb4112dc674c9cdd3.php.php:11
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:165
+#: ../storage/framework/messages/60491e43f79596e73fde348337c428cf76e74339.php.php:45
+#: ../storage/framework/messages/642c1aa51e53c452c1f02ff68ab018a03ae0bde2.php.php:72
+#: ../storage/framework/messages/e1236d13805fb059d38ed169f86bc97fb5e1ca12.php.php:11
+msgid "Login"
+msgstr "دخول"
+
+#: ../storage/framework/messages/017d60b6c57fe215c6435fadb4112dc674c9cdd3.php.php:17
+#: ../storage/framework/messages/e1236d13805fb059d38ed169f86bc97fb5e1ca12.php.php:13
+msgid "Login With Facebook"
+msgstr "الدخول عبر الفيسبوك"
+
+#: ../storage/framework/messages/017d60b6c57fe215c6435fadb4112dc674c9cdd3.php.php:18
+#: ../storage/framework/messages/e1236d13805fb059d38ed169f86bc97fb5e1ca12.php.php:14
+msgid "login With Google"
+msgstr "الدخول عبر جوجل"
+
+#: ../storage/framework/messages/03530c18bdaf3a51142cb0e177b4d0a2613b1fb8.php.php:78
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:182
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:152
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:176
+#: ../storage/framework/messages/4d52267aecb7619b94aecfeccd9dbd39b1af58a7.php.php:98
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:153
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:190
+#: ../storage/framework/messages/7221ede31e1638f019790b1e3b80bbf129af969f.php.php:75
+#: ../storage/framework/messages/79641c3036aa5dcdd963b6f722c8f8dbf683ea51.php.php:59
+#: ../storage/framework/messages/81faab28e72806251142f4b70bc3afbe5acccafa.php.php:69
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:169
+#: ../storage/framework/messages/a4ce46ce36ac447ab6b74478faaa1e5557e8d6d2.php.php:102
+#: ../storage/framework/messages/c25934ff7d2fc18fd7cde15302dff9b3a865cdc0.php.php:97
+#: ../storage/framework/messages/fcc76c7b3335258fe6175ab0e227819845295056.php.php:75
+#: Http/Controllers/Admin/CategoryController.php:75
+#: Http/Controllers/Admin/RegionsController.php:59
+#: Http/Controllers/Admin/Setting/ContentSectionProductController.php:97
+#: Http/Controllers/Admin/Setting/CurrencyController.php:78
+#: Http/Controllers/Admin/Setting/SliderController.php:98
+#: Http/Controllers/Admin/blog/BlogController.php:102
+#: Http/Controllers/Admin/blog/TagController.php:69
+#: Http/Controllers/Admin/blog/blogCategoryController.php:75
+msgid "success save"
+msgstr "تم الحفظ بنجاح"
+
+#: ../storage/framework/messages/03530c18bdaf3a51142cb0e177b4d0a2613b1fb8.php.php:130
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:234
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:201
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:233
+#: ../storage/framework/messages/4d52267aecb7619b94aecfeccd9dbd39b1af58a7.php.php:190
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:202
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:242
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:228
+#: ../storage/framework/messages/7221ede31e1638f019790b1e3b80bbf129af969f.php.php:138
+#: ../storage/framework/messages/79641c3036aa5dcdd963b6f722c8f8dbf683ea51.php.php:97
+#: ../storage/framework/messages/81faab28e72806251142f4b70bc3afbe5acccafa.php.php:120
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:222
+#: ../storage/framework/messages/a4ce46ce36ac447ab6b74478faaa1e5557e8d6d2.php.php:194
+#: ../storage/framework/messages/fcc76c7b3335258fe6175ab0e227819845295056.php.php:133
+#: Http/Controllers/Admin/CategoryController.php:138
+#: Http/Controllers/Admin/RegionsController.php:97
+#: Http/Controllers/Admin/Setting/CurrencyController.php:130
+#: Http/Controllers/Admin/Setting/SliderController.php:190
+#: Http/Controllers/Admin/blog/BlogController.php:194
+#: Http/Controllers/Admin/blog/TagController.php:120
+#: Http/Controllers/Admin/blog/blogCategoryController.php:133
+msgid "success update"
+msgstr "تم التعديل بنجاح"
+
+#: ../storage/framework/messages/03530c18bdaf3a51142cb0e177b4d0a2613b1fb8.php.php:138
+#: ../storage/framework/messages/4573a3766635888fb7578231e091e37ca6615eb9.php.php:85
+#: ../storage/framework/messages/4d52267aecb7619b94aecfeccd9dbd39b1af58a7.php.php:208
+#: ../storage/framework/messages/6446a0469efa0bb7266af712b511f6cae435bc86.php.php:112
+#: ../storage/framework/messages/7221ede31e1638f019790b1e3b80bbf129af969f.php.php:152
+#: ../storage/framework/messages/79641c3036aa5dcdd963b6f722c8f8dbf683ea51.php.php:107
+#: ../storage/framework/messages/7deece6a5aba2a810f5c1508f2271432cc04315b.php.php:84
+#: ../storage/framework/messages/81faab28e72806251142f4b70bc3afbe5acccafa.php.php:134
+#: ../storage/framework/messages/a4ce46ce36ac447ab6b74478faaa1e5557e8d6d2.php.php:214
+#: ../storage/framework/messages/df84890d3cb0dd55ce77d40248016a4a889d5370.php.php:107
+#: ../storage/framework/messages/e373cd277606c4b094cded568a928ccc80e16f61.php.php:108
+#: ../storage/framework/messages/f5593747893c0e2c7e6c5dd2dadcfd27b2e3e369.php.php:117
+#: ../storage/framework/messages/fcc76c7b3335258fe6175ab0e227819845295056.php.php:147
+#: Http/Controllers/Admin/CategoryController.php:152
+#: Http/Controllers/Admin/GameDetailsController.php:112
+#: Http/Controllers/Admin/GameLanguagesController.php:84
+#: Http/Controllers/Admin/GenresController.php:85
+#: Http/Controllers/Admin/OrderController.php:107
+#: Http/Controllers/Admin/RegionsController.php:107
+#: Http/Controllers/Admin/Setting/CountryController.php:117
+#: Http/Controllers/Admin/Setting/CurrencyController.php:138
+#: Http/Controllers/Admin/Setting/SliderController.php:208
+#: Http/Controllers/Admin/blog/BlogController.php:214
+#: Http/Controllers/Admin/blog/TagController.php:134
+#: Http/Controllers/Admin/blog/blogCategoryController.php:147
+#: Http/Controllers/Admin/payment/BankController.php:108
+msgid "success delete"
+msgstr "تم الحذف بنجاح"
+
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:13
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:118
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:119
+msgid "Purchased Products Reports"
+msgstr "تقارير المنتجات المشتراة"
+
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:26
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:29
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:26
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:29
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:26
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:29
+msgid "Start Date"
+msgstr "تاريخ البداية"
+
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:41
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:44
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:41
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:44
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:41
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:44
+msgid "End Date"
+msgstr "تاريخ النهاية"
+
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:54
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:18
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:54
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:54
+#: ../storage/framework/messages/c004e8197f24c458b1e83f87b7936e4c8b14b932.php.php:15
+msgid "Search"
+msgstr "بحث"
+
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:63
+msgid "Product Name"
+msgstr "اسم المنتج"
+
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:64
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:75
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:54
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:38
+#: ../storage/framework/messages/dbf9a9bdea790dffb11a6b2e7faa52fb20f00553.php.php:46
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:254
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:22
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:204
+msgid "Quantity"
+msgstr "الكمية"
+
+#: ../storage/framework/messages/0538e81f833d169fdcebf26cf96fddecbe9899b2.php.php:65
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:102
+#: ../storage/framework/messages/4ee1c8e56a77a572ec1cbed8b80f5f68c3f2be2d.php.php:23
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:67
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:74
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:102
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:68
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:55
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:77
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:39
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:55
+#: ../storage/framework/messages/dbf9a9bdea790dffb11a6b2e7faa52fb20f00553.php.php:48
+#: ../storage/framework/messages/dbf9a9bdea790dffb11a6b2e7faa52fb20f00553.php.php:78
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:256
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:278
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:10
+msgid "Total"
+msgstr "الكلي"
+
+#: ../storage/framework/messages/0788b8dda758e66eb608e8fb6b1531cccba561ef.php.php:33
+msgid "Serv5 Programming"
+msgstr " برمجة سيرف فايف"
+
+#: ../storage/framework/messages/0788b8dda758e66eb608e8fb6b1531cccba561ef.php.php:39
+msgid "all rights are save"
+msgstr "جميع الحقوق محفوظة"
+
+#: ../storage/framework/messages/0bef2f0d644213c30486a324c73df9cb705382a1.php.php:36
+#: ../storage/framework/messages/1d7b44b0ff364285234a68d76f8c1eee2dcb7486.php.php:35
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:35
+#: ../storage/framework/messages/6136e20d594574293fdbb3ef2bebe3661e69e84e.php.php:35
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:35
+#: ../storage/framework/messages/b6c61a848495833dc8cbca684ec307d84f3adc76.php.php:40
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:44
+#: ../storage/framework/messages/f928ab97ccbc4817e1f7a79ea896fcee198f34ce.php.php:30
+#: Http/Controllers/Admin/Setting/ContentManagementController.php:40
+#: Http/Controllers/Security/AdminController.php:35
+#: Http/Controllers/Security/RoleController.php:35
+#: Http/Controllers/Security/UserController.php:36
+#: Http/Controllers/Security/permissionController.php:30
+msgid "Edit"
+msgstr "تعديل"
+
+#: ../storage/framework/messages/0bef2f0d644213c30486a324c73df9cb705382a1.php.php:78
+#: ../storage/framework/messages/1d7b44b0ff364285234a68d76f8c1eee2dcb7486.php.php:69
+#: ../storage/framework/messages/6136e20d594574293fdbb3ef2bebe3661e69e84e.php.php:100
+#: ../storage/framework/messages/81854eb657f8d8beabc5ec4abf7422f62d930277.php.php:58
+#: ../storage/framework/messages/f928ab97ccbc4817e1f7a79ea896fcee198f34ce.php.php:70
+#: Http/Controllers/Security/AdminController.php:100
+#: Http/Controllers/Security/RoleController.php:69
+#: Http/Controllers/Security/UserController.php:78
+#: Http/Controllers/Security/permissionController.php:70
+msgid "Added Successfully !"
+msgstr "تم الإضافة بنجاح"
+
+#: ../storage/framework/messages/0bef2f0d644213c30486a324c73df9cb705382a1.php.php:115
+#: ../storage/framework/messages/1d7b44b0ff364285234a68d76f8c1eee2dcb7486.php.php:118
+#: ../storage/framework/messages/6136e20d594574293fdbb3ef2bebe3661e69e84e.php.php:154
+#: ../storage/framework/messages/78f86518031b5722f969dbd699cfe8d1793d14a8.php.php:239
+#: ../storage/framework/messages/877a2ccea55f86d8fb6df1011a3b6fdd9799e3de.php.php:82
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:387
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:418
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:447
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:475
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:503
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:531
+#: ../storage/framework/messages/bdb22370ed39a478cd6e9658293344c8caa4ab56.php.php:43
+#: ../storage/framework/messages/c25934ff7d2fc18fd7cde15302dff9b3a865cdc0.php.php:182
+#: ../storage/framework/messages/f928ab97ccbc4817e1f7a79ea896fcee198f34ce.php.php:102
+#: Http/Controllers/Admin/DashboardController.php:82
+#: Http/Controllers/Admin/Setting/ContentSectionProductController.php:182
+#: Http/Controllers/Admin/Setting/SettingController.php:239
+#: Http/Controllers/Admin/payment/OnlineController.php:43
+#: Http/Controllers/Security/AdminController.php:154
+#: Http/Controllers/Security/RoleController.php:118
+#: Http/Controllers/Security/UserController.php:115
+#: Http/Controllers/Security/permissionController.php:102
+msgid "Updated Successfully !"
+msgstr "تم التعديل بنجاح"
+
+#: ../storage/framework/messages/0bef2f0d644213c30486a324c73df9cb705382a1.php.php:123
+#: ../storage/framework/messages/1d7b44b0ff364285234a68d76f8c1eee2dcb7486.php.php:126
+#: ../storage/framework/messages/6136e20d594574293fdbb3ef2bebe3661e69e84e.php.php:186
+#: ../storage/framework/messages/7aff23d26394e9b8804c8316e4bc48dd1b77e42a.php.php:289
+#: ../storage/framework/messages/f928ab97ccbc4817e1f7a79ea896fcee198f34ce.php.php:114
+#: Http/Controllers/Admin/ProductController.php:289
+#: Http/Controllers/Security/AdminController.php:186
+#: Http/Controllers/Security/RoleController.php:126
+#: Http/Controllers/Security/UserController.php:123
+#: Http/Controllers/Security/permissionController.php:114
+msgid "Deleted Successfully !"
+msgstr "تم الحذف بنجاح"
+
+#: ../storage/framework/messages/0e0d8e74bcd61adc4de3a35fba235533845f9662.php.php:19
+#: ../storage/framework/messages/0e0d8e74bcd61adc4de3a35fba235533845f9662.php.php:33
+#: ../storage/framework/messages/81854eb657f8d8beabc5ec4abf7422f62d930277.php.php:12
+#: ../storage/framework/messages/81854eb657f8d8beabc5ec4abf7422f62d930277.php.php:33
+msgid "You have reached the order limit"
+msgstr "لقد وصلت إلى أقصي حد للطلب"
+
+#: ../storage/framework/messages/0e0d8e74bcd61adc4de3a35fba235533845f9662.php.php:42
+msgid "Added to cart successfully"
+msgstr "تم الإضافة إلى السلة بنجاح"
+
+#: ../storage/framework/messages/0e0d8e74bcd61adc4de3a35fba235533845f9662.php.php:51
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:124
+msgid "quantity"
+msgstr "الكمية"
+
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:3
+msgid "Edit Codes"
+msgstr "تعديل الأكواد"
+
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:18
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:61
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:87
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:45
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:118
+#: ../storage/framework/messages/2703c81c6aa69123ea0435205a5febbfa5f09dbf.php.php:49
+#: ../storage/framework/messages/2703c81c6aa69123ea0435205a5febbfa5f09dbf.php.php:51
+#: ../storage/framework/messages/83c223ec2821b80ffc618c747e9217089aeed2f0.php.php:51
+#: ../storage/framework/messages/83c223ec2821b80ffc618c747e9217089aeed2f0.php.php:53
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:38
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:40
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:40
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:42
+msgid "Code"
+msgstr "الكود"
+
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:20
+msgid "status"
+msgstr "الحالة"
+
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:23
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:68
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:94
+msgid "Available"
+msgstr "متاح"
+
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:26
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:69
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:95
+msgid "Sold"
+msgstr "تم البيع"
+
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:41
+msgid "No codes"
+msgstr "لا يوجد أكواد"
+
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:67
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:93
+#: ../storage/framework/messages/74f8f53b1ace1fcd97cea5607a2203b83efce55a.php.php:34
+#: ../storage/framework/messages/98255dd0584514750d651ffb53e9c3f897feb376.php.php:34
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:124
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:136
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:149
+#: ../storage/framework/messages/99a918fc93f084d52c898f96c194e02408e7ba0d.php.php:34
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:43
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:115
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:188
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:23
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:62
+#: ../storage/framework/messages/c004e8197f24c458b1e83f87b7936e4c8b14b932.php.php:10
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:28
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:58
+#: ../storage/framework/messages/d7baa6b2d9a55e95dcd3c163e08054c7a2ddac55.php.php:71
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:24
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:51
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:175
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:187
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:253
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:265
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:278
+msgid "Select"
+msgstr "إختار"
+
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:112
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:83
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:65
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:135
+#: ../storage/framework/messages/2703c81c6aa69123ea0435205a5febbfa5f09dbf.php.php:60
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:74
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:155
+#: ../storage/framework/messages/3615d99d5b9701a4e0b56962f30e0ca9653df65f.php.php:67
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:104
+#: ../storage/framework/messages/3aeeae4099ecdf8ce02e8de492785e8f26c97eae.php.php:39
+#: ../storage/framework/messages/3aeeae4099ecdf8ce02e8de492785e8f26c97eae.php.php:75
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:64
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:113
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:64
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:130
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:63
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:112
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:68
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:144
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:97
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:66
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:130
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:38
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:127
+#: ../storage/framework/messages/83c223ec2821b80ffc618c747e9217089aeed2f0.php.php:62
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:86
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:85
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:162
+#: ../storage/framework/messages/9cec9973bdec336f5101fe0cbbf1befef92e15d1.php.php:66
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:58
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:122
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:84
+#: ../storage/framework/messages/b0105135a9d662e35dc07d67555d33a0fa1d5d4b.php.php:81
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:106
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:190
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:403
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:54
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:126
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:199
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:106
+#: ../storage/framework/messages/bf8fc21db61a305798b838adc37472ba6b182480.php.php:48
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:108
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:111
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:17
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:38
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:127
+#: ../storage/framework/messages/e89b8a25239aef171552bccbda7bbab364ee94dd.php.php:48
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:139
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:101
+#: ../storage/framework/messages/eee1b64b700080b4790a27258a619461c1f00493.php.php:71
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:292
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:38
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:178
+msgid "Save"
+msgstr "حفظ"
+
+#: ../storage/framework/messages/0f46df54cfe49e54fa6e3cfdda1ffb06e1470f18.php.php:113
+#: ../storage/framework/messages/69d0feaf53ca5106498f9f027eb1a6e242f4b561.php.php:37
+#: ../storage/framework/messages/9cec9973bdec336f5101fe0cbbf1befef92e15d1.php.php:67
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:55
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:127
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:200
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:293
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: ../storage/framework/messages/0fda073153b6d2998016b72d3fdc6bc9dcdd2914.php.php:21
+#: ../storage/framework/messages/0fda073153b6d2998016b72d3fdc6bc9dcdd2914.php.php:22
+msgid "All Regions"
+msgstr "كل المناطق"
+
+#: ../storage/framework/messages/1097e041f3df8acd6f16505ec137184ce29f68e7.php.php:2
+msgid "Arabic"
+msgstr "عربي"
+
+#: ../storage/framework/messages/1097e041f3df8acd6f16505ec137184ce29f68e7.php.php:4
+msgid "English"
+msgstr "إنجليزي"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:46
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:70
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:83
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:53
+#: ../storage/framework/messages/c004e8197f24c458b1e83f87b7936e4c8b14b932.php.php:3
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:37
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:26
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:212
+msgid "Price"
+msgstr "السعر"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:51
+msgid "Add To Cart"
+msgstr "إضافة إلي السلة"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:54
+#: ../storage/framework/messages/57317afc0816ae7dfdcd39440abb21870445de6e.php.php:29
+#: ../storage/framework/messages/7823f3f66653132ac7927d3f702d07cf69109418.php.php:32
+#: ../storage/framework/messages/9dfec73b8773860693a0ab4a5f220da25aa25b75.php.php:78
+#: ../storage/framework/messages/aa7a8587a7e9eedb868248e915d90d33d6edf288.php.php:29
+#: ../storage/framework/messages/c81c0360f2f5da9dee38a3423a10a4b08ce2f423.php.php:35
+msgid "Buy Now"
+msgstr "شراء الآن"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:65
+msgid "Video"
+msgstr "الفديو"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:93
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:113
+msgid "Game Details"
+msgstr "تفاصيل اللعبة"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:105
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:41
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:21
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:22
+msgid "Languages"
+msgstr "اللغات"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:116
+msgid "Genre"
+msgstr "النوع"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:127
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:48
+msgid "Works On"
+msgstr "يعمل علي"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:139
+msgid "Release date"
+msgstr "تاريخ الإصدار"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:145
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:98
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:227
+msgid "Developers"
+msgstr "المطورين"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:151
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:56
+msgid "Publisher"
+msgstr "الناشر"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:160
+msgid "System requirements"
+msgstr "متطلبات النظام"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:180
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:210
+msgid "Rate This Product"
+msgstr "تقييم المنتج"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:207
+msgid "Rating based on"
+msgstr "التقييم من خلال"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:207
+msgid "customer reviews"
+msgstr "آراء للعملاء"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:219
+#: ../storage/framework/messages/46b5b31f6003de576069bf701db7ef2a7c3a529e.php.php:109
+#: ../storage/framework/messages/74f8f53b1ace1fcd97cea5607a2203b83efce55a.php.php:64
+#: ../storage/framework/messages/98255dd0584514750d651ffb53e9c3f897feb376.php.php:65
+#: ../storage/framework/messages/99a918fc93f084d52c898f96c194e02408e7ba0d.php.php:64
+#: ../storage/framework/messages/ff561de26d107c56dc39cd4332e17e556c4bdc8c.php.php:108
+msgid "Advanced Search"
+msgstr "بحث متقدم"
+
+#: ../storage/framework/messages/14ba9883ff79f6e3cc1891e24e47e2c918b7a659.php.php:226
+msgid "Upcoming Games"
+msgstr "الألعاب القادمة"
+
+#: ../storage/framework/messages/176dcd764da1775d8cdeef8d1b392f4c72cec81c.php.php:6
+msgid "Not Found"
+msgstr "لا يوجد"
+
+#: ../storage/framework/messages/176dcd764da1775d8cdeef8d1b392f4c72cec81c.php.php:19
+msgid "Go Home"
+msgstr "ذهاب للرئيسية"
+
+#: ../storage/framework/messages/19704cf2886fdb2a37cb0558f7c888a6d6902bdc.php.php:6
+#: ../storage/framework/messages/19704cf2886fdb2a37cb0558f7c888a6d6902bdc.php.php:69
+#: ../storage/framework/messages/4fc49db9029197b8b35ec2831335cc7c91e39656.php.php:6
+#: ../storage/framework/messages/68d8a80e869e19f8f71c88093f8e49cefd3fcff4.php.php:12
+#: ../storage/framework/messages/8866b6fa42b19d5c048671c3ec56ec9cb34bac6c.php.php:9
+msgid "Reset Password"
+msgstr "إعادة تعيين الرقم السري"
+
+#: ../storage/framework/messages/19704cf2886fdb2a37cb0558f7c888a6d6902bdc.php.php:15
+#: ../storage/framework/messages/4fc49db9029197b8b35ec2831335cc7c91e39656.php.php:20
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:96
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:96
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:96
+msgid "E-Mail Address"
+msgstr "البريد الإلكتروني"
+
+#: ../storage/framework/messages/19704cf2886fdb2a37cb0558f7c888a6d6902bdc.php.php:59
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:80
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:80
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:26
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:30
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:26
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:30
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:26
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:30
+msgid "Confirm Password"
+msgstr "تأكيد الرقم السري"
+
+#: ../storage/framework/messages/1b54c8448a4f8a50e093c79a925686547cf66c42.php.php:21
+#: ../storage/framework/messages/98db4c502cb6b73f1a210da462669568510ae291.php.php:17
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:33
+msgid "Role Name"
+msgstr "اسم الصلاحية"
+
+#: ../storage/framework/messages/1b54c8448a4f8a50e093c79a925686547cf66c42.php.php:76
+msgid "Save "
+msgstr "حفظ"
+
+#: ../storage/framework/messages/1b54c8448a4f8a50e093c79a925686547cf66c42.php.php:118
+#: ../storage/framework/messages/1b54c8448a4f8a50e093c79a925686547cf66c42.php.php:119
+#: ../storage/framework/messages/1b54c8448a4f8a50e093c79a925686547cf66c42.php.php:120
+msgid "Edit Role"
+msgstr "تعديل الصلاحية"
+
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:5
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:13
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:13
+msgid "create category"
+msgstr "إنشاء قسم"
+
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:38
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:40
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:38
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:40
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:38
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:40
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:38
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:40
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:43
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:46
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:48
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:153
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:173
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:175
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:363
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:383
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:385
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:66
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:128
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:130
+msgid "Description"
+msgstr "الوصف"
+
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:52
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:55
+msgid "Parent & Main Menu"
+msgstr "الرئيسي والقائمة الرئيسية"
+
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:59
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:61
+msgid "select ..."
+msgstr "إختار..."
+
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:73
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:74
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:96
+#: ../storage/framework/messages/1c6069a3da59133905e174c141daa1233af4b1d3.php.php:97
+msgid "Create Category"
+msgstr "إنشاء قائمة"
+
+#: ../storage/framework/messages/1d7b44b0ff364285234a68d76f8c1eee2dcb7486.php.php:36
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:36
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:36
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:324
+#: ../storage/framework/messages/b6c61a848495833dc8cbca684ec307d84f3adc76.php.php:45
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:11
+#: ../storage/framework/messages/f928ab97ccbc4817e1f7a79ea896fcee198f34ce.php.php:31
+#: Http/Controllers/Admin/Setting/ContentManagementController.php:45
+#: Http/Controllers/Security/RoleController.php:36
+#: Http/Controllers/Security/permissionController.php:31
+msgid "Delete"
+msgstr "حذف"
+
+#: ../storage/framework/messages/1d7b44b0ff364285234a68d76f8c1eee2dcb7486.php.php:81
+#: Http/Controllers/Security/RoleController.php:81
+msgid "Can`t Edit this Role !"
+msgstr "لا يمكن تعديل هذه الصلاحية"
+
+#: ../storage/framework/messages/1e5d3ef5642a3aa4ed162415556572fde16cd63e.php.php:6
+#: ../storage/framework/messages/2d0286ff9714419336714ffbebd3b3877d14026b.php.php:6
+msgid "admin.title"
+msgstr "الادمن.عنوان"
+
+#: ../storage/framework/messages/1e5d3ef5642a3aa4ed162415556572fde16cd63e.php.php:303
+#: ../storage/framework/messages/2d0286ff9714419336714ffbebd3b3877d14026b.php.php:296
+#: ../storage/framework/messages/f2fbfa69a0f5d86d707a427ca6ab290fe7150d1c.php.php:335
+msgid "Are you sure ?"
+msgstr "هل أنت متأكد؟"
+
+#: ../storage/framework/messages/1e5d3ef5642a3aa4ed162415556572fde16cd63e.php.php:307
+#: ../storage/framework/messages/2d0286ff9714419336714ffbebd3b3877d14026b.php.php:300
+#: ../storage/framework/messages/f2fbfa69a0f5d86d707a427ca6ab290fe7150d1c.php.php:339
+msgid "yes"
+msgstr "نعم "
+
+#: ../storage/framework/messages/1e5d3ef5642a3aa4ed162415556572fde16cd63e.php.php:311
+#: ../storage/framework/messages/2d0286ff9714419336714ffbebd3b3877d14026b.php.php:304
+#: ../storage/framework/messages/f2fbfa69a0f5d86d707a427ca6ab290fe7150d1c.php.php:343
+msgid "no"
+msgstr "لا"
+
+#: ../storage/framework/messages/2034d344dba805e3bfd7fbda04a09a2e4fe801d6.php.php:41
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+#: ../storage/framework/messages/2034d344dba805e3bfd7fbda04a09a2e4fe801d6.php.php:61
+#: ../storage/framework/messages/8353d35b1cdab8002890de0d1ca31fd70393d694.php.php:48
+msgid "No Articles"
+msgstr "لا يوجد مقالات"
+
+#: ../storage/framework/messages/20672072f73a41dc1fd9c701daa046f74be40088.php.php:32
+#: ../storage/framework/messages/20672072f73a41dc1fd9c701daa046f74be40088.php.php:39
+#: ../storage/framework/messages/26923210274c0ab2f2df54bca5e55b12b7883b10.php.php:43
+#: ../storage/framework/messages/2b63c200ed3ecb78c60951ef4a48d294403324df.php.php:43
+#: ../storage/framework/messages/3a6b7aa9ee171bc6d1063fa5cc82762338fe5105.php.php:24
+#: ../storage/framework/messages/3a6b7aa9ee171bc6d1063fa5cc82762338fe5105.php.php:40
+#: ../storage/framework/messages/4c88639f05da0c6ade5b56dc03fd0e03cbc20b5f.php.php:40
+#: ../storage/framework/messages/573db956ca4ad3d1311ad676b499d6465ac8c641.php.php:37
+#: ../storage/framework/messages/59581ca0c5850a02b84b4dbbf50be114569616fb.php.php:32
+#: ../storage/framework/messages/59581ca0c5850a02b84b4dbbf50be114569616fb.php.php:39
+#: ../storage/framework/messages/7181a5a2b3d3b3d6a9ee61e349b1aff94eb1b301.php.php:37
+#: ../storage/framework/messages/719d31260df671716f26e44d122bf17c5615ef42.php.php:37
+#: ../storage/framework/messages/88f4e25c8ff5d43b283206c62559b4d75bb16326.php.php:37
+#: ../storage/framework/messages/9d58d77b7f3fc84fbc24c5a95687aeed1ba5d9f5.php.php:37
+#: ../storage/framework/messages/a8787ab8de21cc5d3c6360d1ad1b6fa14d196005.php.php:37
+#: ../storage/framework/messages/a92127d0f4ae75c8abf973bb01bd2993a2ec73ca.php.php:43
+#: ../storage/framework/messages/ac969d41543879dda3213b9b09f54496a2e64b25.php.php:37
+#: ../storage/framework/messages/af9884e324036c77a95de9c34aecae361d33cba8.php.php:37
+#: ../storage/framework/messages/afc560efcd1918aeab088486ea03581a547aaab8.php.php:36
+#: ../storage/framework/messages/cabc28bf94aa334e820f2d57dd99c82449d6d458.php.php:43
+#: ../storage/framework/messages/d778d77e3007ff6dde15ffd4d5a1839df40143f2.php.php:43
+#: ../storage/framework/messages/da9e36bc1d26987c38e21f4aaa5275c2ef5ef046.php.php:43
+#: ../storage/framework/messages/de8d47effd530408de7e1d11813991f1fcde5aca.php.php:36
+msgid "delete"
+msgstr "حذف"
+
+#: ../storage/framework/messages/20672072f73a41dc1fd9c701daa046f74be40088.php.php:35
+#: ../storage/framework/messages/59581ca0c5850a02b84b4dbbf50be114569616fb.php.php:35
+msgid "are you sure to delete this one?"
+msgstr "هل أنت متأكد من عملية الحذف"
+
+#: ../storage/framework/messages/20672072f73a41dc1fd9c701daa046f74be40088.php.php:38
+#: ../storage/framework/messages/59581ca0c5850a02b84b4dbbf50be114569616fb.php.php:38
+msgid "cancel"
+msgstr "إلغاء"
+
+#: ../storage/framework/messages/22a4d50f02857c8b74e6fa0c6b0d0c47c5c2e51b.php.php:73
+#: Http/Controllers/Admin/reports/CustomerOrdersReportController.php:73
+msgid "Customer Order Details"
+msgstr "تفاصيل طلب العميل"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:28
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:51
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:55
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:53
+#: ../storage/framework/messages/c004e8197f24c458b1e83f87b7936e4c8b14b932.php.php:8
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:55
+msgid "Country"
+msgstr "الدولة"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:94
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:36
+msgid "Cart"
+msgstr "السلة"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:129
+msgid "No Items In Cart"
+msgstr "لا يوجد منتجات بالسلة"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:136
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:138
+msgid "Cart Details"
+msgstr "تفاصيل السلة"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:145
+msgid "My Profile"
+msgstr "الملف الشخصي"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:149
+#: ../storage/framework/messages/278706be0f607a2884a651554f1b500ffaa2ae9d.php.php:81
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:150
+#: ../storage/framework/messages/4ee1c8e56a77a572ec1cbed8b80f5f68c3f2be2d.php.php:8
+msgid "My Orders"
+msgstr "طلباتي"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:155
+#: ../storage/framework/messages/26431152a3fb038dfe4d1f48862085350f736326.php.php:88
+#: ../storage/framework/messages/278706be0f607a2884a651554f1b500ffaa2ae9d.php.php:88
+#: ../storage/framework/messages/60491e43f79596e73fde348337c428cf76e74339.php.php:62
+msgid "Logout"
+msgstr "خروج"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:171
+#: ../storage/framework/messages/60491e43f79596e73fde348337c428cf76e74339.php.php:49
+msgid "Register"
+msgstr "تسجيل"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:195
+msgid "Product Categories"
+msgstr "أقسام المنتجات"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:238
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:333
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:355
+msgid "View All"
+msgstr "عرض الكل"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:305
+#: ../storage/framework/messages/ed29b1d2f1b65ab0466a4c0d080dfae7532195e6.php.php:28
+msgid "Content"
+msgstr "المحتوى"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:311
+msgid "Blog Categories"
+msgstr "أقسام المدونات"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:342
+msgid "About"
+msgstr "عن الموقع"
+
+#: ../storage/framework/messages/23491f952524f93885c2bacb4df5bc80aa5629a1.php.php:363
+#: ../storage/framework/messages/9dfec73b8773860693a0ab4a5f220da25aa25b75.php.php:43
+msgid "Quick purchase"
+msgstr "الشراء السريع"
+
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:32
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:95
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:40
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:88
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:32
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:93
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:39
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:87
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:97
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:32
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:87
+msgid "Title by language"
+msgstr "العنوان حسب اللغة"
+
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:39
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:107
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:39
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:41
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:114
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:116
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:51
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:100
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:41
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:105
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:50
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:99
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:39
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:109
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:40
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:42
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:104
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:106
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:39
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:99
+#: ../storage/framework/messages/f2fbfa69a0f5d86d707a427ca6ab290fe7150d1c.php.php:7
+msgid "title"
+msgstr "العنوان"
+
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:55
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:125
+msgid "Logo"
+msgstr "اللوجو"
+
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:249
+#: ../storage/framework/messages/234a7d50735996a02a3fc376c6f83827eabf7769.php.php:250
+msgid "All Countries"
+msgstr "كل الدول"
+
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:8
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:136
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:137
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:138
+msgid "Add User"
+msgstr "إضافة مستخدم"
+
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:22
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:22
+msgid "First Name :"
+msgstr "الاسم الأول :"
+
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:25
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:25
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:69
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:5
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:13
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:69
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:69
+msgid "First Name"
+msgstr "الاسم الأول"
+
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:35
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:35
+msgid "Last Name :"
+msgstr "الاسم الأخير :"
+
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:38
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:38
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:82
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:13
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:19
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:82
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:82
+msgid "Last Name"
+msgstr "الاسم الأخير"
+
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:49
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:49
+msgid "E-Mail Address :"
+msgstr "البريد الإلكتروني :"
+
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:63
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:63
+msgid "Password :"
+msgstr "الرقم السري :"
+
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:77
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:77
+msgid "Confirm Password :"
+msgstr "تأكيد الرقم السري :"
+
+#: ../storage/framework/messages/24ec62b184a43b2e8c540922ce4a2d26a47fc7d9.php.php:86
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:98
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:110
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:49
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:110
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:110
+msgid "Mobile"
+msgstr "رقم الهاتف"
+
+#: ../storage/framework/messages/26431152a3fb038dfe4d1f48862085350f736326.php.php:79
+msgid "Admin"
+msgstr "الأدمن"
+
+#: ../storage/framework/messages/26431152a3fb038dfe4d1f48862085350f736326.php.php:86
+msgid "View Profile"
+msgstr "عرض الملف الشخصي"
+
+#: ../storage/framework/messages/26431152a3fb038dfe4d1f48862085350f736326.php.php:87
+#: ../storage/framework/messages/278706be0f607a2884a651554f1b500ffaa2ae9d.php.php:75
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: ../storage/framework/messages/26431152a3fb038dfe4d1f48862085350f736326.php.php:93
+msgid "Navigation"
+msgstr "شريط التنقل"
+
+#: ../storage/framework/messages/26923210274c0ab2f2df54bca5e55b12b7883b10.php.php:37
+#: ../storage/framework/messages/2b63c200ed3ecb78c60951ef4a48d294403324df.php.php:37
+#: ../storage/framework/messages/573db956ca4ad3d1311ad676b499d6465ac8c641.php.php:31
+#: ../storage/framework/messages/7181a5a2b3d3b3d6a9ee61e349b1aff94eb1b301.php.php:31
+#: ../storage/framework/messages/719d31260df671716f26e44d122bf17c5615ef42.php.php:31
+#: ../storage/framework/messages/88f4e25c8ff5d43b283206c62559b4d75bb16326.php.php:31
+#: ../storage/framework/messages/9d58d77b7f3fc84fbc24c5a95687aeed1ba5d9f5.php.php:31
+#: ../storage/framework/messages/a8787ab8de21cc5d3c6360d1ad1b6fa14d196005.php.php:31
+#: ../storage/framework/messages/a92127d0f4ae75c8abf973bb01bd2993a2ec73ca.php.php:37
+#: ../storage/framework/messages/ac969d41543879dda3213b9b09f54496a2e64b25.php.php:31
+#: ../storage/framework/messages/af9884e324036c77a95de9c34aecae361d33cba8.php.php:31
+#: ../storage/framework/messages/afc560efcd1918aeab088486ea03581a547aaab8.php.php:30
+#: ../storage/framework/messages/cabc28bf94aa334e820f2d57dd99c82449d6d458.php.php:37
+#: ../storage/framework/messages/d778d77e3007ff6dde15ffd4d5a1839df40143f2.php.php:37
+#: ../storage/framework/messages/da9e36bc1d26987c38e21f4aaa5275c2ef5ef046.php.php:37
+#: ../storage/framework/messages/de8d47effd530408de7e1d11813991f1fcde5aca.php.php:30
+msgid "Delete_Record"
+msgstr "حذف سجل"
+
+#: ../storage/framework/messages/26923210274c0ab2f2df54bca5e55b12b7883b10.php.php:40
+#: ../storage/framework/messages/2b63c200ed3ecb78c60951ef4a48d294403324df.php.php:40
+#: ../storage/framework/messages/3a6b7aa9ee171bc6d1063fa5cc82762338fe5105.php.php:36
+#: ../storage/framework/messages/4c88639f05da0c6ade5b56dc03fd0e03cbc20b5f.php.php:36
+#: ../storage/framework/messages/573db956ca4ad3d1311ad676b499d6465ac8c641.php.php:34
+#: ../storage/framework/messages/7181a5a2b3d3b3d6a9ee61e349b1aff94eb1b301.php.php:34
+#: ../storage/framework/messages/9d58d77b7f3fc84fbc24c5a95687aeed1ba5d9f5.php.php:34
+#: ../storage/framework/messages/a92127d0f4ae75c8abf973bb01bd2993a2ec73ca.php.php:40
+#: ../storage/framework/messages/ac969d41543879dda3213b9b09f54496a2e64b25.php.php:34
+#: ../storage/framework/messages/af9884e324036c77a95de9c34aecae361d33cba8.php.php:34
+#: ../storage/framework/messages/afc560efcd1918aeab088486ea03581a547aaab8.php.php:33
+#: ../storage/framework/messages/cabc28bf94aa334e820f2d57dd99c82449d6d458.php.php:40
+#: ../storage/framework/messages/d778d77e3007ff6dde15ffd4d5a1839df40143f2.php.php:40
+#: ../storage/framework/messages/da9e36bc1d26987c38e21f4aaa5275c2ef5ef046.php.php:40
+#: ../storage/framework/messages/de8d47effd530408de7e1d11813991f1fcde5aca.php.php:33
+msgid "You Want You Sure Delete This Record"
+msgstr "هل تريد بالتأكيد حذف هذا السجل"
+
+#: ../storage/framework/messages/26923210274c0ab2f2df54bca5e55b12b7883b10.php.php:44
+#: ../storage/framework/messages/2b63c200ed3ecb78c60951ef4a48d294403324df.php.php:44
+#: ../storage/framework/messages/3a6b7aa9ee171bc6d1063fa5cc82762338fe5105.php.php:39
+#: ../storage/framework/messages/4c88639f05da0c6ade5b56dc03fd0e03cbc20b5f.php.php:39
+#: ../storage/framework/messages/573db956ca4ad3d1311ad676b499d6465ac8c641.php.php:38
+#: ../storage/framework/messages/7181a5a2b3d3b3d6a9ee61e349b1aff94eb1b301.php.php:38
+#: ../storage/framework/messages/719d31260df671716f26e44d122bf17c5615ef42.php.php:38
+#: ../storage/framework/messages/88f4e25c8ff5d43b283206c62559b4d75bb16326.php.php:38
+#: ../storage/framework/messages/9d58d77b7f3fc84fbc24c5a95687aeed1ba5d9f5.php.php:38
+#: ../storage/framework/messages/a8787ab8de21cc5d3c6360d1ad1b6fa14d196005.php.php:38
+#: ../storage/framework/messages/a92127d0f4ae75c8abf973bb01bd2993a2ec73ca.php.php:44
+#: ../storage/framework/messages/ac969d41543879dda3213b9b09f54496a2e64b25.php.php:38
+#: ../storage/framework/messages/af9884e324036c77a95de9c34aecae361d33cba8.php.php:38
+#: ../storage/framework/messages/afc560efcd1918aeab088486ea03581a547aaab8.php.php:37
+#: ../storage/framework/messages/cabc28bf94aa334e820f2d57dd99c82449d6d458.php.php:44
+#: ../storage/framework/messages/d778d77e3007ff6dde15ffd4d5a1839df40143f2.php.php:44
+#: ../storage/framework/messages/da9e36bc1d26987c38e21f4aaa5275c2ef5ef046.php.php:44
+#: ../storage/framework/messages/de8d47effd530408de7e1d11813991f1fcde5aca.php.php:37
+msgid "close"
+msgstr "إغلاق"
+
+#: ../storage/framework/messages/2703c81c6aa69123ea0435205a5febbfa5f09dbf.php.php:5
+msgid "create new region"
+msgstr "إنشاء منطقة جديدة"
+
+#: ../storage/framework/messages/2703c81c6aa69123ea0435205a5febbfa5f09dbf.php.php:13
+msgid "create region"
+msgstr "إنشاء منطقة"
+
+#: ../storage/framework/messages/2703c81c6aa69123ea0435205a5febbfa5f09dbf.php.php:45
+#: ../storage/framework/messages/83c223ec2821b80ffc618c747e9217089aeed2f0.php.php:47
+msgid "code"
+msgstr "الكود"
+
+#: ../storage/framework/messages/2703c81c6aa69123ea0435205a5febbfa5f09dbf.php.php:75
+#: ../storage/framework/messages/2703c81c6aa69123ea0435205a5febbfa5f09dbf.php.php:76
+msgid "Create Region"
+msgstr "إنشاء منطقة"
+
+#: ../storage/framework/messages/27d57344823c181d153bf84619378c9577bed1d6.php.php:22
+#: ../storage/framework/messages/27d57344823c181d153bf84619378c9577bed1d6.php.php:23
+msgid "All Products"
+msgstr "كل المنتجات"
+
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:7
+msgid "create new admin"
+msgstr "إنشاء ادمن جديد"
+
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:17
+msgid "All Admins"
+msgstr "كل الادمن"
+
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:31
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:31
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:31
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:32
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:39
+msgid "ID"
+msgstr "الرقم"
+
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:32
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:32
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:18
+msgid "Name"
+msgstr "الاسم"
+
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:34
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:34
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:34
+msgid "Created At"
+msgstr "تاريخ الإنشاء"
+
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:73
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:74
+#: ../storage/framework/messages/30957732bc53a5b3ffbf570dc2b9313c6e50a3f3.php.php:75
+msgid "All Admin"
+msgstr "كل المسؤلين"
+
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:29
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:104
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:94
+msgid "language's details"
+msgstr "تفاصيل اللغة"
+
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:48
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:50
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:123
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:125
+msgid "Locale Title"
+msgstr "الاسم المحلي"
+
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:57
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:132
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:50
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:116
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:45
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:49
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:113
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:45
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:143
+msgid "Media"
+msgstr "الوسائط"
+
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:61
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:136
+msgid "flag"
+msgstr "علم "
+
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:142
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:54
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:120
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:48
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:120
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:124
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:48
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:112
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:67
+msgid "Image"
+msgstr "الصورة"
+
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:237
+msgid "Successfly"
+msgstr "تم الإضافة بنجاح"
+
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:255
+#: ../storage/framework/messages/30fcb067f1951335fe29f38058e2485ce3544888.php.php:256
+msgid "All Site Languages"
+msgstr "كل لغات الموقع"
+
+#: ../storage/framework/messages/3615d99d5b9701a4e0b56962f30e0ca9653df65f.php.php:5
+msgid "create new blog category"
+msgstr "إنشاء قسم جديد للمدونة"
+
+#: ../storage/framework/messages/3615d99d5b9701a4e0b56962f30e0ca9653df65f.php.php:13
+msgid "create blog category"
+msgstr "إنشاء قسم للمدونة"
+
+#: ../storage/framework/messages/3615d99d5b9701a4e0b56962f30e0ca9653df65f.php.php:44
+#: ../storage/framework/messages/eee1b64b700080b4790a27258a619461c1f00493.php.php:45
+msgid "Main"
+msgstr "الرئيسي"
+
+#: ../storage/framework/messages/3615d99d5b9701a4e0b56962f30e0ca9653df65f.php.php:55
+#: ../storage/framework/messages/eee1b64b700080b4790a27258a619461c1f00493.php.php:57
+msgid "Main is checked before if you want this make other not checked"
+msgstr "تم إختيار الرئيسي من قبل ,إذا كنت تريد هذا اجعل الآخر غير محدد"
+
+#: ../storage/framework/messages/3615d99d5b9701a4e0b56962f30e0ca9653df65f.php.php:106
+#: ../storage/framework/messages/3615d99d5b9701a4e0b56962f30e0ca9653df65f.php.php:107
+msgid "Create Blog Categories"
+msgstr "إنشاء قسم للمدونة"
+
+#: ../storage/framework/messages/38694485d5b1aebc4ebf301cb5b9f782d4444dbc.php.php:6
+msgid "admin Forget Password"
+msgstr "هل نسيت كلمة المرور"
+
+#: ../storage/framework/messages/38694485d5b1aebc4ebf301cb5b9f782d4444dbc.php.php:63
+msgid "Don't worry."
+msgstr "لا تبالي."
+
+#: ../storage/framework/messages/38694485d5b1aebc4ebf301cb5b9f782d4444dbc.php.php:66
+#: ../storage/framework/messages/b0105135a9d662e35dc07d67555d33a0fa1d5d4b.php.php:66
+msgid "Back to "
+msgstr "العودة إلي"
+
+#: ../storage/framework/messages/38694485d5b1aebc4ebf301cb5b9f782d4444dbc.php.php:66
+#: ../storage/framework/messages/b0105135a9d662e35dc07d67555d33a0fa1d5d4b.php.php:66
+msgid "Login."
+msgstr "دخول"
+
+#: ../storage/framework/messages/38694485d5b1aebc4ebf301cb5b9f782d4444dbc.php.php:73
+msgid "Reset and send me a new Password"
+msgstr "إعادة تعيين وإرسال كلمة سر جديدة"
+
+#: ../storage/framework/messages/38694485d5b1aebc4ebf301cb5b9f782d4444dbc.php.php:79
+#: ../storage/framework/messages/b0105135a9d662e35dc07d67555d33a0fa1d5d4b.php.php:87
+msgid "Thank you and enjoy our website."
+msgstr "شكرا لك ,نتمني لك وقتا ممتعا علي الموقع."
+
+#: ../storage/framework/messages/38694485d5b1aebc4ebf301cb5b9f782d4444dbc.php.php:80
+#: ../storage/framework/messages/b0105135a9d662e35dc07d67555d33a0fa1d5d4b.php.php:88
+msgid "Your XCard Team"
+msgstr "فريق اكس كارد الخاص بك"
+
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:5
+msgid "create blog"
+msgstr "إنشاء مدونة"
+
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:37
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:39
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:37
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:39
+msgid "content"
+msgstr "المحتوي"
+
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:48
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:54
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:63
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:51
+msgid "image"
+msgstr "الصورة"
+
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:74
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:86
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:78
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:90
+msgid "publish"
+msgstr "نشر"
+
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:95
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:99
+msgid "draft"
+msgstr "مسودة"
+
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:113
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:117
+msgid "categories"
+msgstr "الأقسام"
+
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:151
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:132
+msgid "no category"
+msgstr "لا يوجد أقسام"
+
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:163
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:168
+msgid "tags"
+msgstr "الشعارات"
+
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:170
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:175
+msgid "Select an option"
+msgstr "حدد اختيارا"
+
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:206
+#: ../storage/framework/messages/3a4670bebb5bcf7b9f7e0827590084badd8e8490.php.php:207
+msgid "Create Blog"
+msgstr "إنشاء مدونة"
+
+#: ../storage/framework/messages/3a6b7aa9ee171bc6d1063fa5cc82762338fe5105.php.php:33
+#: ../storage/framework/messages/4c88639f05da0c6ade5b56dc03fd0e03cbc20b5f.php.php:33
+msgid "Delete Record"
+msgstr "حذف السجل"
+
+#: ../storage/framework/messages/3aeeae4099ecdf8ce02e8de492785e8f26c97eae.php.php:22
+#: ../storage/framework/messages/3aeeae4099ecdf8ce02e8de492785e8f26c97eae.php.php:58
+msgid "Key"
+msgstr "المفتاح"
+
+#: ../storage/framework/messages/3aeeae4099ecdf8ce02e8de492785e8f26c97eae.php.php:28
+#: ../storage/framework/messages/3aeeae4099ecdf8ce02e8de492785e8f26c97eae.php.php:64
+msgid "Show Key"
+msgstr "عرض المفتاح"
+
+#: ../storage/framework/messages/3aeeae4099ecdf8ce02e8de492785e8f26c97eae.php.php:102
+#: ../storage/framework/messages/3aeeae4099ecdf8ce02e8de492785e8f26c97eae.php.php:103
+msgid "All Online Payment"
+msgstr "كل طرق الدفع عبر الإنترنت"
+
+#: ../storage/framework/messages/46b5b31f6003de576069bf701db7ef2a7c3a529e.php.php:40
+#: ../storage/framework/messages/74f8f53b1ace1fcd97cea5607a2203b83efce55a.php.php:41
+#: ../storage/framework/messages/98255dd0584514750d651ffb53e9c3f897feb376.php.php:41
+#: ../storage/framework/messages/99a918fc93f084d52c898f96c194e02408e7ba0d.php.php:41
+#: ../storage/framework/messages/ff561de26d107c56dc39cd4332e17e556c4bdc8c.php.php:40
+msgid "Number Of Results Found"
+msgstr "عدد النتائج التي تم العثور عليها"
+
+#: ../storage/framework/messages/46b5b31f6003de576069bf701db7ef2a7c3a529e.php.php:41
+#: ../storage/framework/messages/74f8f53b1ace1fcd97cea5607a2203b83efce55a.php.php:42
+#: ../storage/framework/messages/98255dd0584514750d651ffb53e9c3f897feb376.php.php:42
+#: ../storage/framework/messages/99a918fc93f084d52c898f96c194e02408e7ba0d.php.php:42
+#: ../storage/framework/messages/ff561de26d107c56dc39cd4332e17e556c4bdc8c.php.php:41
+msgid "Results"
+msgstr "النتائج"
+
+#: ../storage/framework/messages/46b5b31f6003de576069bf701db7ef2a7c3a529e.php.php:59
+#: ../storage/framework/messages/46b5b31f6003de576069bf701db7ef2a7c3a529e.php.php:75
+#: ../storage/framework/messages/ff561de26d107c56dc39cd4332e17e556c4bdc8c.php.php:59
+#: ../storage/framework/messages/ff561de26d107c56dc39cd4332e17e556c4bdc8c.php.php:75
+msgid "Show Details"
+msgstr "عرض التفاصيل"
+
+#: ../storage/framework/messages/46b5b31f6003de576069bf701db7ef2a7c3a529e.php.php:88
+#: ../storage/framework/messages/ff561de26d107c56dc39cd4332e17e556c4bdc8c.php.php:88
+msgid "No Categories"
+msgstr "لا يوجد أقسام"
+
+#: ../storage/framework/messages/46b5b31f6003de576069bf701db7ef2a7c3a529e.php.php:116
+#: ../storage/framework/messages/74f8f53b1ace1fcd97cea5607a2203b83efce55a.php.php:71
+#: ../storage/framework/messages/98255dd0584514750d651ffb53e9c3f897feb376.php.php:72
+#: ../storage/framework/messages/99a918fc93f084d52c898f96c194e02408e7ba0d.php.php:71
+#: ../storage/framework/messages/ff561de26d107c56dc39cd4332e17e556c4bdc8c.php.php:115
+msgid "Coming Games"
+msgstr "الألعاب القادمة"
+
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:216
+#: ../storage/framework/messages/4968c1316cca098176e4f1b5be9bec584a4d7f4a.php.php:217
+msgid "All Game Languages"
+msgstr "كل لغات اللعبة"
+
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:248
+#: ../storage/framework/messages/4aef881b6f406692f8ba5f7be31b28bbda01db13.php.php:249
+msgid "All PlatForm"
+msgstr "كل المنصات"
+
+#: ../storage/framework/messages/4ee1c8e56a77a572ec1cbed8b80f5f68c3f2be2d.php.php:12
+msgid "Your Orders History"
+msgstr "سجل الطلبات"
+
+#: ../storage/framework/messages/4ee1c8e56a77a572ec1cbed8b80f5f68c3f2be2d.php.php:21
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:31
+msgid "Order No"
+msgstr "رقم الطلب"
+
+#: ../storage/framework/messages/4ee1c8e56a77a572ec1cbed8b80f5f68c3f2be2d.php.php:22
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:69
+msgid "Date"
+msgstr "التاريخ"
+
+#: ../storage/framework/messages/4ee1c8e56a77a572ec1cbed8b80f5f68c3f2be2d.php.php:24
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:67
+msgid "Status"
+msgstr "الحالة"
+
+#: ../storage/framework/messages/4ee1c8e56a77a572ec1cbed8b80f5f68c3f2be2d.php.php:26
+#: ../storage/framework/messages/4ee1c8e56a77a572ec1cbed8b80f5f68c3f2be2d.php.php:40
+msgid "Details"
+msgstr "التفاصيل"
+
+#: ../storage/framework/messages/4fc49db9029197b8b35ec2831335cc7c91e39656.php.php:44
+msgid "Send Password Reset Link"
+msgstr "إرسال لينك إعادة تعيين كلمة المرور"
+
+#: ../storage/framework/messages/511cac12f2754ded7962592afc7d56bffdc0e036.php.php:52
+#: Http/Controllers/Admin/AdminLoginController.php:52
+msgid "Link Sent"
+msgstr "إرسال اللينك"
+
+#: ../storage/framework/messages/511cac12f2754ded7962592afc7d56bffdc0e036.php.php:73
+#: Http/Controllers/Admin/AdminLoginController.php:73
+msgid "PasswordConfirm"
+msgstr "تأكيد كلمة المرور"
+
+#: ../storage/framework/messages/57317afc0816ae7dfdcd39440abb21870445de6e.php.php:11
+#: ../storage/framework/messages/6c20d5a8bc4ffeefcf882247365e430c7654c7d5.php.php:6
+#: ../storage/framework/messages/7823f3f66653132ac7927d3f702d07cf69109418.php.php:15
+#: ../storage/framework/messages/aa7a8587a7e9eedb868248e915d90d33d6edf288.php.php:11
+#: ../storage/framework/messages/c81c0360f2f5da9dee38a3423a10a4b08ce2f423.php.php:24
+msgid "Product Image"
+msgstr "صورة المنتج"
+
+#: ../storage/framework/messages/57317afc0816ae7dfdcd39440abb21870445de6e.php.php:41
+#: ../storage/framework/messages/7823f3f66653132ac7927d3f702d07cf69109418.php.php:47
+#: ../storage/framework/messages/aa7a8587a7e9eedb868248e915d90d33d6edf288.php.php:41
+msgid "No Products"
+msgstr "لا يوجد منتجات"
+
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:217
+#: ../storage/framework/messages/5aa6195aa70a9cb2acec361cb7f13528af912244.php.php:218
+msgid "All Genres"
+msgstr "كل الأنواع"
+
+#: ../storage/framework/messages/5c648e76856242e0896fe6cdd6adec67a93f8a0c.php.php:7
+msgid "Pages"
+msgstr "الصفحات"
+
+#: ../storage/framework/messages/5c648e76856242e0896fe6cdd6adec67a93f8a0c.php.php:32
+#: ../storage/framework/messages/5c648e76856242e0896fe6cdd6adec67a93f8a0c.php.php:33
+msgid "All NewsLetter"
+msgstr "المشتركيين ف النشرة الإخبارية"
+
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:13
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:126
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:127
+msgid "Customer Reports"
+msgstr "تقارير العميل"
+
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:63
+#: ../storage/framework/messages/dbf9a9bdea790dffb11a6b2e7faa52fb20f00553.php.php:20
+msgid "Customer Name"
+msgstr "اسم العميل"
+
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:65
+msgid "Orders Number"
+msgstr "رقم الطلبات"
+
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:66
+msgid "Products Number"
+msgstr "رقم المنتجات"
+
+#: ../storage/framework/messages/5cddfadd2682132d7ba40366e3b4c84f14cad3f2.php.php:68
+msgid "Show"
+msgstr "عرض"
+
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:8
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:191
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:192
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:193
+msgid "Add Admin"
+msgstr "إضافة مسؤول"
+
+#: ../storage/framework/messages/5d6ed095d7feb37eea2b2f770e80644c57eb5ad2.php.php:112
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:153
+msgid "Rolles"
+msgstr "الصلاحيات"
+
+#: ../storage/framework/messages/60491e43f79596e73fde348337c428cf76e74339.php.php:30
+msgid "Toggle navigation"
+msgstr "شريط التنقل"
+
+#: ../storage/framework/messages/6136e20d594574293fdbb3ef2bebe3661e69e84e.php.php:188
+#: Http/Controllers/Security/AdminController.php:188
+msgid "Can`t Delete This User"
+msgstr "لا يمكن حذف هذا المستخدم"
+
+#: ../storage/framework/messages/6136e20d594574293fdbb3ef2bebe3661e69e84e.php.php:207
+#: Http/Controllers/Security/AdminController.php:207
+msgid "Password Changed Successfully !"
+msgstr "تم تغيير الرقم السري بنجاح"
+
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:63
+msgid "Quantitiy"
+msgstr "الكمية"
+
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:100
+msgid "Do you have a Purchase coupon?"
+msgstr "هل لديك قسيمة شراء؟"
+
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:101
+msgid "Apply"
+msgstr "طبق"
+
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:107
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:114
+msgid "To Payment"
+msgstr "إلى الدفع"
+
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:112
+#: ../storage/framework/messages/c81c0360f2f5da9dee38a3423a10a4b08ce2f423.php.php:112
+msgid "Your Email"
+msgstr "الإيميل"
+
+#: ../storage/framework/messages/63cac46b8982f2cf4da3a706e3fa12b2e7300291.php.php:120
+msgid "No Products In Cart"
+msgstr "لا يوجد منتجات بالسلة"
+
+#: ../storage/framework/messages/642c1aa51e53c452c1f02ff68ab018a03ae0bde2.php.php:6
+msgid "admin login"
+msgstr "دخول الأدمن"
+
+#: ../storage/framework/messages/642c1aa51e53c452c1f02ff68ab018a03ae0bde2.php.php:77
+#: ../storage/framework/messages/b0105135a9d662e35dc07d67555d33a0fa1d5d4b.php.php:68
+msgid "email"
+msgstr "الايميل"
+
+#: ../storage/framework/messages/642c1aa51e53c452c1f02ff68ab018a03ae0bde2.php.php:81
+msgid "password"
+msgstr "كلمة المرور"
+
+#: ../storage/framework/messages/642c1aa51e53c452c1f02ff68ab018a03ae0bde2.php.php:90
+msgid "remember me"
+msgstr "تذكرني"
+
+#: ../storage/framework/messages/642c1aa51e53c452c1f02ff68ab018a03ae0bde2.php.php:95
+msgid "forget password"
+msgstr "هل نسيت كلمة المرور"
+
+#: ../storage/framework/messages/642c1aa51e53c452c1f02ff68ab018a03ae0bde2.php.php:100
+msgid "login"
+msgstr "دخول"
+
+#: ../storage/framework/messages/6683dd39a3ffc1b5f710c2b1975c781b2dd69658.php.php:14
+msgid "Article Image"
+msgstr "صورة المقال"
+
+#: ../storage/framework/messages/668f68f5d19e8bb7c5d416c04d8688147dd9fcc4.php.php:79
+#: Http/Controllers/Auth/RegisterController.php:79
+msgid "Thanks for Your Registration."
+msgstr "شكرا لتسجيلك."
+
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:55
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:58
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:60
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:131
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:134
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:136
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:43
+msgid "Bank Number"
+msgstr "رقم البنك"
+
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:257
+#: ../storage/framework/messages/68c309fe3ff9fa2e996a76243cbbb8216aa5a199.php.php:258
+msgid "All Banks"
+msgstr "كل البنوك"
+
+#: ../storage/framework/messages/68d8a80e869e19f8f71c88093f8e49cefd3fcff4.php.php:10
+msgid "password confirm"
+msgstr "تأكيد كلمة المرور"
+
+#: ../storage/framework/messages/69d0feaf53ca5106498f9f027eb1a6e242f4b561.php.php:3
+msgid "Edit Images"
+msgstr "تعديل الصور"
+
+#: ../storage/framework/messages/69d0feaf53ca5106498f9f027eb1a6e242f4b561.php.php:26
+msgid "No Images"
+msgstr "لا يوجد صور"
+
+#: ../storage/framework/messages/69d0feaf53ca5106498f9f027eb1a6e242f4b561.php.php:34
+msgid "Save Images"
+msgstr "حفظ الصور"
+
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:5
+msgid "create new slider"
+msgstr "إنشاء سلايدر جديد"
+
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:13
+msgid "create slider"
+msgstr "إنشاء سلايدر"
+
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:50
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:59
+msgid "media"
+msgstr "الوسائط"
+
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:67
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:71
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:73
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:76
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:80
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:82
+msgid "url"
+msgstr "اللينك"
+
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:78
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:88
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:87
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:97
+msgid "Publish"
+msgstr "نشر"
+
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:127
+#: ../storage/framework/messages/6adf4fc6b96ee6d7d50d287f368f418a48ed9b8b.php.php:128
+msgid "Create Slider"
+msgstr "إنشاء سلايدر"
+
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:30
+msgid "Works On details"
+msgstr "تفاصيل العمل علي"
+
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:53
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:117
+msgid "Icon"
+msgstr "الأيقونة"
+
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:247
+#: ../storage/framework/messages/6d21b0eb6f23086e9d8006dc1296ee70bab1da28.php.php:248
+msgid "All Works On"
+msgstr "كل أنواع العمل علي"
+
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:5
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:16
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:20
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:130
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:5
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:16
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:20
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:130
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:5
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:16
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:20
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:181
+msgid "Change Password"
+msgstr "تغيير كلمة المرور"
+
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:37
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:82
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:110
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:37
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:37
+msgid "Close"
+msgstr "إغلاق"
+
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:54
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:152
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:153
+#: ../storage/framework/messages/6e769230def433d210fac9eb0a43fafd7244d7bf.php.php:154
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:7
+msgid "create new user"
+msgstr "إنشاء مستخدم جديد"
+
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:17
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:73
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:74
+#: ../storage/framework/messages/7048a77fe687f33aed3a138e7737c75fb5bd8ea7.php.php:75
+msgid "All Users"
+msgstr "كل المستخدمين"
+
+#: ../storage/framework/messages/719d31260df671716f26e44d122bf17c5615ef42.php.php:34
+#: ../storage/framework/messages/a8787ab8de21cc5d3c6360d1ad1b6fa14d196005.php.php:34
+msgid "You_Want_You_Sure_Delete_This_Record"
+msgstr "هل أنت متأكد من حذف هذا السجل"
+
+#: ../storage/framework/messages/74f8f53b1ace1fcd97cea5607a2203b83efce55a.php.php:23
+msgid "Search Result"
+msgstr "نتائج البحث"
+
+#: ../storage/framework/messages/74f8f53b1ace1fcd97cea5607a2203b83efce55a.php.php:31
+#: ../storage/framework/messages/98255dd0584514750d651ffb53e9c3f897feb376.php.php:31
+#: ../storage/framework/messages/99a918fc93f084d52c898f96c194e02408e7ba0d.php.php:31
+msgid "Sort By"
+msgstr "ترتيب حسب"
+
+#: ../storage/framework/messages/74f8f53b1ace1fcd97cea5607a2203b83efce55a.php.php:35
+#: ../storage/framework/messages/98255dd0584514750d651ffb53e9c3f897feb376.php.php:35
+#: ../storage/framework/messages/99a918fc93f084d52c898f96c194e02408e7ba0d.php.php:35
+msgid "Newest"
+msgstr "الأحدث"
+
+#: ../storage/framework/messages/74f8f53b1ace1fcd97cea5607a2203b83efce55a.php.php:36
+#: ../storage/framework/messages/98255dd0584514750d651ffb53e9c3f897feb376.php.php:36
+#: ../storage/framework/messages/99a918fc93f084d52c898f96c194e02408e7ba0d.php.php:36
+msgid "Oldest"
+msgstr "الأقدم"
+
+#: ../storage/framework/messages/74f8f53b1ace1fcd97cea5607a2203b83efce55a.php.php:37
+#: ../storage/framework/messages/98255dd0584514750d651ffb53e9c3f897feb376.php.php:37
+#: ../storage/framework/messages/99a918fc93f084d52c898f96c194e02408e7ba0d.php.php:37
+msgid "Lowest Price"
+msgstr "الأقل سعر"
+
+#: ../storage/framework/messages/7ab66918d1249399ff7635efbb212e7d383feaa7.php.php:6
+msgid "Verify Your Email Address"
+msgstr "تحقق من بريدك الإلكتروني"
+
+#: ../storage/framework/messages/7ab66918d1249399ff7635efbb212e7d383feaa7.php.php:11
+msgid "A fresh verification link has been sent to your email address."
+msgstr "تم إرسال رابط تحقق جديد إلى بريدك الإلكتروني."
+
+#: ../storage/framework/messages/7ab66918d1249399ff7635efbb212e7d383feaa7.php.php:16
+msgid "Before proceeding, please check your email for a verification link."
+msgstr "قبل المتابعة ، يرجى التحقق من بريدك الإلكتروني لمعرفة رابط التحقق."
+
+#: ../storage/framework/messages/7ab66918d1249399ff7635efbb212e7d383feaa7.php.php:18
+msgid "If you did not receive the email"
+msgstr "إذا لم تتلقى البريد الإلكتروني"
+
+#: ../storage/framework/messages/7ab66918d1249399ff7635efbb212e7d383feaa7.php.php:18
+msgid "click here to request another"
+msgstr "انقر هنا لطلب آخر"
+
+#: ../storage/framework/messages/7d975ef842919e5490ef05b4e46f9062a73d8d56.php.php:5
+msgid "Home Page Section"
+msgstr "قسم الصفحة الرئيسية"
+
+#: ../storage/framework/messages/7d975ef842919e5490ef05b4e46f9062a73d8d56.php.php:29
+#: ../storage/framework/messages/7d975ef842919e5490ef05b4e46f9062a73d8d56.php.php:30
+msgid "All Home Page Section"
+msgstr "كل أقسام الصفحة الرئيسية"
+
+#: ../storage/framework/messages/7d975ef842919e5490ef05b4e46f9062a73d8d56.php.php:31
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:123
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:124
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:125
+msgid "Add Home Page Section"
+msgstr "إضافة قسم للصفحة الرئيسية"
+
+#: ../storage/framework/messages/7fbd961262d4671df9770c929aa58aecdaf83e13.php.php:7
+#: ../storage/framework/messages/8353d35b1cdab8002890de0d1ca31fd70393d694.php.php:23
+#: ../storage/framework/messages/b3bb009beddbca60af3b8f40d6364bc233be6f27.php.php:22
+#: ../storage/framework/messages/b3bb009beddbca60af3b8f40d6364bc233be6f27.php.php:23
+msgid "All Blog Categories"
+msgstr "كل أقسام المدونة"
+
+#: ../storage/framework/messages/8353d35b1cdab8002890de0d1ca31fd70393d694.php.php:38
+msgid "Show Articles"
+msgstr "عرض المقالات"
+
+#: ../storage/framework/messages/836c760c29e1fa95da330faae9339a783607a435.php.php:13
+msgid "Click Here"
+msgstr "إضغط هنا"
+
+#: ../storage/framework/messages/83c223ec2821b80ffc618c747e9217089aeed2f0.php.php:5
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:5
+msgid "edit Region"
+msgstr "تعديل المنطقة"
+
+#: ../storage/framework/messages/83c223ec2821b80ffc618c747e9217089aeed2f0.php.php:14
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:14
+msgid "edit region"
+msgstr "تعديل المنطقة"
+
+#: ../storage/framework/messages/83c223ec2821b80ffc618c747e9217089aeed2f0.php.php:74
+#: ../storage/framework/messages/83c223ec2821b80ffc618c747e9217089aeed2f0.php.php:75
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:96
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:97
+msgid "Edit Region"
+msgstr "تعديل المنطقة"
+
+#: ../storage/framework/messages/847b4714f3ba4d5da089c4d8f413bba8cf0ea631.php.php:17
+msgid "You are already subscribed"
+msgstr "أنت بالفعل مشترك"
+
+#: ../storage/framework/messages/847b4714f3ba4d5da089c4d8f413bba8cf0ea631.php.php:20
+#: ../storage/framework/messages/f1a7a748fc394b6daaa136eda6b487649e10ec62.php.php:19
+msgid "Click here to unsubscribe"
+msgstr "إضغط هنا لإلغاء الإشتراك"
+
+#: ../storage/framework/messages/8732cb9e4417d236cbec0d8fa105bb4546124b45.php.php:29
+#: ../storage/framework/messages/8732cb9e4417d236cbec0d8fa105bb4546124b45.php.php:30
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:386
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:387
+msgid "All Orders"
+msgstr "كل الطلبات"
+
+#: ../storage/framework/messages/8732cb9e4417d236cbec0d8fa105bb4546124b45.php.php:31
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:388
+msgid "Add Orders"
+msgstr "إضافة طلبات"
+
+#: ../storage/framework/messages/88f4e25c8ff5d43b283206c62559b4d75bb16326.php.php:34
+msgid "Delete This Record ?"
+msgstr "حذف هذا السجل"
+
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:5
+msgid "edit category"
+msgstr "تعديل القسم"
+
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:98
+#: ../storage/framework/messages/89e264ec2f22771f937b876340238aa77bc6955d.php.php:99
+msgid "Edit Category"
+msgstr "تعديل القسم"
+
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:5
+msgid "create new currency"
+msgstr "إنشاء عملة جديدة"
+
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:13
+msgid "create currency"
+msgstr "إنشاء عملة"
+
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:70
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:74
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:68
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:72
+msgid "Rate"
+msgstr "التقييم"
+
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:76
+#: ../storage/framework/messages/aa098a1ff20049036a188c648290f6d83dbf0547.php.php:74
+msgid "Rate Value"
+msgstr "قيمة التقييم"
+
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:100
+#: ../storage/framework/messages/8dc8e6d9d330872b4528d43327314f6b34239b9f.php.php:101
+msgid "Create Currency"
+msgstr "إنشاء عملة"
+
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:5
+msgid "edit Product"
+msgstr "تعديل منتج"
+
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:9
+msgid "General"
+msgstr "عام"
+
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:13
+msgid "Codes"
+msgstr "الأكواد"
+
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:17
+msgid "Images"
+msgstr "الصور"
+
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:21
+msgid "System Requirements"
+msgstr "متطلبات النظام"
+
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:25
+msgid "Other Data"
+msgstr "بيانات أخري"
+
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:323
+msgid "Click here to upload files or drag and drop files here"
+msgstr "انقر هنا لتحميل الملفات أو سحب وإسقاط الملفات هنا"
+
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:547
+#: ../storage/framework/messages/905d7c3c3dfda9b07da02b75fea45060762b56d0.php.php:548
+msgid "Edit product"
+msgstr "تعديل المنتج"
+
+#: ../storage/framework/messages/94db98e6471d7e2c00ab1c80520bdb9cc5e274bb.php.php:22
+#: ../storage/framework/messages/94db98e6471d7e2c00ab1c80520bdb9cc5e274bb.php.php:23
+msgid "All Categories"
+msgstr "كل الأقسام"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:5
+msgid "Create Product"
+msgstr "إنشاء منتج"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:13
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:97
+msgid "Main Information"
+msgstr "البيانات الأساسية"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:50
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:167
+msgid "Select Category"
+msgstr "إختيار قسم"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:58
+msgid "Select a Category"
+msgstr "إختيار قسم"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:69
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:198
+msgid "Quantity & Price"
+msgstr "الكمية والسعر"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:92
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:221
+msgid "Developers & Publishers"
+msgstr "المطورين والناشرين"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:104
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:233
+msgid "Publishers"
+msgstr "الناشرون"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:110
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:52
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:239
+msgid "Release Date"
+msgstr "تاريخ الإصدار"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:116
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:245
+msgid "Available On"
+msgstr "متاح على"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:122
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:251
+msgid "Work On"
+msgstr "يعمل علي"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:147
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:276
+msgid "Platforms"
+msgstr "المنصات"
+
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:176
+#: ../storage/framework/messages/9825b21c76b1e44606990740bb42b98ef619d6c2.php.php:177
+msgid "Create product"
+msgstr "إنشاء منتج"
+
+#: ../storage/framework/messages/98db4c502cb6b73f1a210da462669568510ae291.php.php:67
+#: ../storage/framework/messages/98db4c502cb6b73f1a210da462669568510ae291.php.php:110
+#: ../storage/framework/messages/98db4c502cb6b73f1a210da462669568510ae291.php.php:111
+#: ../storage/framework/messages/98db4c502cb6b73f1a210da462669568510ae291.php.php:112
+msgid "Add Role"
+msgstr "إضافة صلاحية"
+
+#: ../storage/framework/messages/9cec9973bdec336f5101fe0cbbf1befef92e15d1.php.php:3
+msgid "Edit System Requirements"
+msgstr "تعديل متطلبات النظام"
+
+#: ../storage/framework/messages/9cec9973bdec336f5101fe0cbbf1befef92e15d1.php.php:23
+msgid "No System Requirements"
+msgstr "لا يوجد متطلبات للنظام"
+
+#: ../storage/framework/messages/9cec9973bdec336f5101fe0cbbf1befef92e15d1.php.php:51
+#: ../storage/framework/messages/9cec9973bdec336f5101fe0cbbf1befef92e15d1.php.php:53
+msgid "Requirements"
+msgstr "المتطلبات"
+
+#: ../storage/framework/messages/9dfec73b8773860693a0ab4a5f220da25aa25b75.php.php:56
+msgid "Choose the card information"
+msgstr "اختر معلومات البطاقة"
+
+#: ../storage/framework/messages/9dfec73b8773860693a0ab4a5f220da25aa25b75.php.php:59
+#: ../storage/framework/messages/9dfec73b8773860693a0ab4a5f220da25aa25b75.php.php:115
+#: ../storage/framework/messages/9dfec73b8773860693a0ab4a5f220da25aa25b75.php.php:138
+#: ../storage/framework/messages/9dfec73b8773860693a0ab4a5f220da25aa25b75.php.php:197
+#: ../storage/framework/messages/9dfec73b8773860693a0ab4a5f220da25aa25b75.php.php:217
+msgid "Choose"
+msgstr "أختر"
+
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:237
+#: ../storage/framework/messages/a3194213cbde8c614094ba2b8d7cff20c3bd1bac.php.php:238
+msgid "All Game Details"
+msgstr "كل تفاصيل اللعبة"
+
+#: ../storage/framework/messages/a867db773a5c76341b0effaae3f208f79b51657b.php.php:22
+#: ../storage/framework/messages/a867db773a5c76341b0effaae3f208f79b51657b.php.php:23
+msgid "All Blog"
+msgstr "كل المدونات"
+
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:13
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:125
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:126
+msgid "Order Reports"
+msgstr "تقارير الطلب"
+
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:64
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:9
+#: ../storage/framework/messages/dbf9a9bdea790dffb11a6b2e7faa52fb20f00553.php.php:44
+msgid "Order Number"
+msgstr "رقم الطلب"
+
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:65
+msgid "No. Orders"
+msgstr "رقم الطلبات"
+
+#: ../storage/framework/messages/a936af6fa309bdddb593d9542e35e1d221e2caad.php.php:66
+msgid "No. Products"
+msgstr "رقم المنتجات"
+
+#: ../storage/framework/messages/a94c6d8b571580c1f4169f1b4b899ab8c06f69d5.php.php:65
+#: Http/Controllers/Front/WelcomeController.php:65
+msgid "Subscribed  successfully"
+msgstr "تم الإشتراك بنجاح"
+
+#: ../storage/framework/messages/a94c6d8b571580c1f4169f1b4b899ab8c06f69d5.php.php:77
+#: Http/Controllers/Front/WelcomeController.php:77
+msgid "Successfully unsubscribed"
+msgstr "تم إلغاء الإشتراك بنجاح"
+
+#: ../storage/framework/messages/b0105135a9d662e35dc07d67555d33a0fa1d5d4b.php.php:6
+msgid "admin Reset Password"
+msgstr "إعادة تعيين الرقم السري للادمن"
+
+#: ../storage/framework/messages/b0105135a9d662e35dc07d67555d33a0fa1d5d4b.php.php:72
+msgid "Your New Password"
+msgstr "رقمك السري الجديد"
+
+#: ../storage/framework/messages/b0105135a9d662e35dc07d67555d33a0fa1d5d4b.php.php:76
+msgid "Confirm Your Password"
+msgstr "تأكيد كلمة المرور"
+
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:5
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:14
+msgid "edit slider"
+msgstr "تعديل السلايدر"
+
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:118
+#: ../storage/framework/messages/b07a3ce3fb9a9ea2968ef470987322dfa5a5ca0a.php.php:119
+msgid "Edit Slider"
+msgstr "تعديل السلايدر"
+
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:8
+msgid "Payment Receipt"
+msgstr "إيصال الدفع"
+
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:15
+msgid "User Order Details"
+msgstr "تفاصيل طلب العميل"
+
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:27
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:33
+msgid "Order Date"
+msgstr "تاريخ الطلب"
+
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:45
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:44
+msgid "Order Details"
+msgstr "تفاصيل الطلب"
+
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:52
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:36
+#: ../storage/framework/messages/dbf9a9bdea790dffb11a6b2e7faa52fb20f00553.php.php:45
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:253
+msgid "Product"
+msgstr "المنتج"
+
+#: ../storage/framework/messages/b08fb3b66a85624d1326d82a4b011f7a76cb447f.php.php:88
+msgid "confirm"
+msgstr "تأكيد"
+
+#: ../storage/framework/messages/b0fc5728dcc7c02c6624555dd817209045108e8d.php.php:12
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+#: ../storage/framework/messages/b0fc5728dcc7c02c6624555dd817209045108e8d.php.php:22
+#: ../storage/framework/messages/d7baa6b2d9a55e95dcd3c163e08054c7a2ddac55.php.php:82
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:97
+msgid "Pay"
+msgstr "دفع"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:17
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:204
+msgid "Main Settings"
+msgstr "الإعدادات الرئيسية"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:42
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:44
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:229
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:231
+msgid "Address"
+msgstr "العنوان"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:71
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:73
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:258
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:260
+msgid "Work Time"
+msgstr "وقت العمل"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:80
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:267
+msgid "Add Multiple Phone Numbers"
+msgstr "إضافة أرقام هواتف متعددة"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:86
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:273
+msgid "Phone"
+msgstr "الهاتف"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:98
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:286
+msgid "Social Links"
+msgstr "روابط التواصل الإجتماعي"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:105
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:296
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:316
+msgid "Social Title"
+msgstr "عنوان التواصل"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:110
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:301
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:321
+msgid "Social Link"
+msgstr "لينك التواصل"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:123
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:335
+msgid "Upload Site Logo"
+msgstr "تحميل لوجو للموقع"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:128
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:340
+msgid "Main Logo"
+msgstr "لوجو الرئيسية"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:135
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:346
+msgid "Footer Logo"
+msgstr "لوجو الفوتر"
+
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:446
+#: ../storage/framework/messages/b4a094e15171eafdceaf2f2d9f9ae53cfe21643e.php.php:447
+msgid "All Setting"
+msgstr "كل الإعدادات"
+
+#: ../storage/framework/messages/b6c61a848495833dc8cbca684ec307d84f3adc76.php.php:53
+#: Http/Controllers/Admin/Setting/ContentManagementController.php:53
+msgid "Sort Up"
+msgstr "ترتيب لأعلى "
+
+#: ../storage/framework/messages/b6c61a848495833dc8cbca684ec307d84f3adc76.php.php:55
+#: Http/Controllers/Admin/Setting/ContentManagementController.php:55
+msgid "Sort Down"
+msgstr "ترتيب لأسفل"
+
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:3
+msgid "Edit Languages"
+msgstr "تعديل اللغات"
+
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:21
+msgid "No Languages"
+msgstr "لا يوجد لغات"
+
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:34
+msgid "Select Language"
+msgstr "إختيار لغة"
+
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:75
+msgid "Edit Game Details"
+msgstr "تعديل تفاصيل اللعبة"
+
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:93
+msgid "No Game Details"
+msgstr "لا يوجد تفاصيل للعبة"
+
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:106
+msgid "Select Game Details"
+msgstr "إختيار تفاصيل للعبة"
+
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:148
+msgid "Edit Genre"
+msgstr "تعديل النوع"
+
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:166
+msgid "No Genres"
+msgstr "لا يوجد أنواع"
+
+#: ../storage/framework/messages/b9072c43cf749a711c375ba9913b1d0897bde60e.php.php:179
+msgid "Select Genre"
+msgstr "إختيار نوع"
+
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:21
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:46
+msgid "Password Confirmation"
+msgstr "تأكيد كلمة المرور"
+
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:63
+msgid "Do you want to receive e-mail offers?"
+msgstr "هل ترغب في تلقي عروض علي البريد الإلكتروني؟"
+
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:66
+msgid "Subscription"
+msgstr "الإشتراك"
+
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:68
+msgid ""
+"When you press the subscribe button, you are at least 16 years old You agree "
+"to the Terms and Conditions and Privacy Policy"
+msgstr ""
+"عندما تضغط على زر الاشتراك ، لا يقل عمرك عن 16 عامًا ، توافق على الشروط "
+"والأحكام وسياسة الخصوصية"
+
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:72
+msgid "do you have an account?! Sign in here"
+msgstr "هل لديك حساب؟! تسجيل الدخول هنا"
+
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:88
+#, php-format
+msgid "Your password must contain at least (%s) uppercase letter."
+msgstr "يجب أن تحتوي كلمة المرور الخاصة بك على حرف واحد كبيرًا علي الأقل."
+
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:100
+#, php-format
+msgid "Your password must contain at least (%s) lowercase letter."
+msgstr "يجب أن تحتوي كلمة مرورك على حرف واحد على الأقل ."
+
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:112
+#, php-format
+msgid "Your password must contain at least (%s) number."
+msgstr "يجب أن تحتوي كلمة مرورك على رقم واحد على الأقل."
+
+#: ../storage/framework/messages/bc5ea7d5bf6e67ce102155dcdfae5a76e1ca6b90.php.php:124
+#, php-format
+msgid "Your password must contain at least (%s) special characters."
+msgstr "يجب أن تحتوي كلمة المرور الخاصة بك على حرف واحد علي الأقل أحرف خاصة."
+
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:6
+msgid "add new Home Page Section"
+msgstr "إضافة قسم جديد للصفحة الرئيسية"
+
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:83
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:72
+msgid "Select Product"
+msgstr "إختيار منتج"
+
+#: ../storage/framework/messages/bcaaeb380d9ecd8533e3cab0f0dab3c29728c101.php.php:91
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:80
+msgid "Select a Product"
+msgstr "إختيار منتج"
+
+#: ../storage/framework/messages/bd76026acf78b17e30c1f6548052c4c44f99c425.php.php:2
+msgid "Reset Account Password"
+msgstr "إعادة تعيين كلمة مرور الحساب"
+
+#: ../storage/framework/messages/bd76026acf78b17e30c1f6548052c4c44f99c425.php.php:8
+msgid "Reset Your Password"
+msgstr "إعادة تعيين كلمة السر"
+
+#: ../storage/framework/messages/bd76026acf78b17e30c1f6548052c4c44f99c425.php.php:12
+msgid "Or"
+msgstr "او"
+
+#: ../storage/framework/messages/bd76026acf78b17e30c1f6548052c4c44f99c425.php.php:13
+msgid "Copy This Link"
+msgstr "نسخ هذا الرابط"
+
+#: ../storage/framework/messages/bd76026acf78b17e30c1f6548052c4c44f99c425.php.php:16
+msgid "Thanks,"
+msgstr "شكرا،"
+
+#: ../storage/framework/messages/bf8fc21db61a305798b838adc37472ba6b182480.php.php:5
+#: ../storage/framework/messages/bf8fc21db61a305798b838adc37472ba6b182480.php.php:13
+msgid "edit tags"
+msgstr "تعديل التاج"
+
+#: ../storage/framework/messages/bf8fc21db61a305798b838adc37472ba6b182480.php.php:78
+#: ../storage/framework/messages/bf8fc21db61a305798b838adc37472ba6b182480.php.php:79
+msgid "Edit Tag"
+msgstr "تعديل التاج"
+
+#: ../storage/framework/messages/c004e8197f24c458b1e83f87b7936e4c8b14b932.php.php:2
+msgid "Search Here"
+msgstr "ابحث هنا"
+
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:8
+msgid "Order details"
+msgstr "تفاصيل الطلب"
+
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:12
+msgid "OrderId"
+msgstr "رقم الطلب"
+
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:18
+msgid "Order information"
+msgstr "تفصيل الطلب"
+
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:19
+msgid "Id"
+msgstr "الرقم"
+
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:24
+msgid "Contact information"
+msgstr "تفاصيل الرسالة"
+
+#: ../storage/framework/messages/c01493a8627a2163ab2a8d3f535d5624cb2fa39b.php.php:31
+msgid "Order items"
+msgstr "عناصر الطلب"
+
+#: ../storage/framework/messages/c2fcc83e923dbb62a1e0633ab49ffe4431610d95.php.php:22
+#: ../storage/framework/messages/c2fcc83e923dbb62a1e0633ab49ffe4431610d95.php.php:23
+msgid "All Tags"
+msgstr "كل الشعارات"
+
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:5
+msgid "edit blog"
+msgstr "تعديل المدونة"
+
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:211
+#: ../storage/framework/messages/c3f788d65dfeaa47ad0eb0d04e71d2b66642ad96.php.php:212
+msgid "Edit Blog"
+msgstr "تعديل المدونة"
+
+#: ../storage/framework/messages/c81c0360f2f5da9dee38a3423a10a4b08ce2f423.php.php:30
+msgid "from"
+msgstr "من"
+
+#: ../storage/framework/messages/c81c0360f2f5da9dee38a3423a10a4b08ce2f423.php.php:57
+#: ../storage/framework/messages/c81c0360f2f5da9dee38a3423a10a4b08ce2f423.php.php:99
+msgid "Browse more"
+msgstr "تصفح المزيد"
+
+#: ../storage/framework/messages/c81c0360f2f5da9dee38a3423a10a4b08ce2f423.php.php:106
+msgid "Newsletter"
+msgstr "النشرة الإخبارية"
+
+#: ../storage/framework/messages/c81c0360f2f5da9dee38a3423a10a4b08ce2f423.php.php:107
+msgid "Subscribe To receive the latest offers"
+msgstr "اشترك لتلقي أحدث العروض"
+
+#: ../storage/framework/messages/c81c0360f2f5da9dee38a3423a10a4b08ce2f423.php.php:117
+msgid "Subscribe Now"
+msgstr "اشترك الآن"
+
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:8
+msgid "create new permission"
+msgstr "إنشاء صلاحية جديدة"
+
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:19
+msgid "Permission List"
+msgstr "قائمة الصلاحيات"
+
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:32
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:66
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:164
+msgid "Permission Name"
+msgstr "اسم الصلاحية"
+
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:33
+msgid "created_at"
+msgstr "تاريخ الإنشاء"
+
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:34
+msgid "updated_at"
+msgstr "تاريخ التعديل"
+
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:35
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:36
+msgid "Controll"
+msgstr "التحكم"
+
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:52
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:102
+msgid "Permission Edit"
+msgstr "تعديل الصلاحية"
+
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:225
+#: ../storage/framework/messages/ca6d42f132a076c55f344e7b19863e4eed9907a8.php.php:226
+msgid "All Permissions"
+msgstr "كل الصلاحيات"
+
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:8
+msgid "Personal Profile"
+msgstr "الملف الشخصي"
+
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:25
+msgid "Preferred language"
+msgstr "اللغة المفضلة"
+
+#: ../storage/framework/messages/cc506d70d128894273e404fdb9710aaf8d26e563.php.php:78
+msgid "Update"
+msgstr "تحديث"
+
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:13
+msgid "All Contents"
+msgstr "كل الرسائل"
+
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:36
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:183
+msgid "Add Content"
+msgstr "إضافة محتوى"
+
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:141
+msgid "Column"
+msgstr "عمود"
+
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:149
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:104
+msgid "Column1"
+msgstr "عمود1"
+
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:157
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:109
+msgid "Column2"
+msgstr "عمود2"
+
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:161
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:114
+msgid "Column3"
+msgstr "عمود3"
+
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:165
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:119
+msgid "Column4"
+msgstr "عمود4"
+
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:243
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:244
+#: ../storage/framework/messages/cf2078de16fd187742ea00bd3d5e36b0f8857ab6.php.php:245
+msgid "Content Edit "
+msgstr "تعديل المحتوي"
+
+#: ../storage/framework/messages/cfe7f5075714a5cde772a80cc0f8cd440332407f.php.php:21
+#: ../storage/framework/messages/cfe7f5075714a5cde772a80cc0f8cd440332407f.php.php:22
+msgid "All Currency"
+msgstr "كل العملات"
+
+#: ../storage/framework/messages/d7baa6b2d9a55e95dcd3c163e08054c7a2ddac55.php.php:21
+msgid "Cardholder's Name"
+msgstr "اسم حامل البطاقة"
+
+#: ../storage/framework/messages/d7baa6b2d9a55e95dcd3c163e08054c7a2ddac55.php.php:31
+msgid "Card Number"
+msgstr "رقم البطاقة"
+
+#: ../storage/framework/messages/d7baa6b2d9a55e95dcd3c163e08054c7a2ddac55.php.php:41
+msgid "Month"
+msgstr "شهر"
+
+#: ../storage/framework/messages/d7baa6b2d9a55e95dcd3c163e08054c7a2ddac55.php.php:51
+msgid "Year"
+msgstr "سنة"
+
+#: ../storage/framework/messages/d7baa6b2d9a55e95dcd3c163e08054c7a2ddac55.php.php:61
+msgid "CVC / CVV"
+msgstr ""
+
+#: ../storage/framework/messages/dbf9a9bdea790dffb11a6b2e7faa52fb20f00553.php.php:38
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:247
+msgid "Products Details"
+msgstr "تفاصيل المنتج"
+
+#: ../storage/framework/messages/dbf9a9bdea790dffb11a6b2e7faa52fb20f00553.php.php:47
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:255
+msgid "Unit Price"
+msgstr "سعر الوحدة"
+
+#: ../storage/framework/messages/dbf9a9bdea790dffb11a6b2e7faa52fb20f00553.php.php:107
+msgid " Customer Orders Details"
+msgstr "تفاصيل طلبات العميل"
+
+#: ../storage/framework/messages/dbf9a9bdea790dffb11a6b2e7faa52fb20f00553.php.php:108
+msgid "Customer Orders Details"
+msgstr "تفاصيل طلبات العميل"
+
+#: ../storage/framework/messages/df454c0b861d3588d34081812c2f026ad104d909.php.php:66
+#: ../storage/framework/messages/df454c0b861d3588d34081812c2f026ad104d909.php.php:74
+#: Http/Controllers/Auth/LoginController.php:66
+#: Http/Controllers/Auth/LoginController.php:74
+msgid "Your credentials doesn`t match our service"
+msgstr "بيانات الدخول الخاصة بك لا تتطابق مع خدماتنا"
+
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:54
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:152
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:153
+#: ../storage/framework/messages/e09dcee10e01b5f6e7193bb5e378f6f4347652ab.php.php:154
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:54
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:203
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:204
+#: ../storage/framework/messages/f72141a1995aaa4011c9ffd77eff312a724cbb85.php.php:205
+msgid "Edit Admin"
+msgstr "تعديل الادمن"
+
+#: ../storage/framework/messages/e1236d13805fb059d38ed169f86bc97fb5e1ca12.php.php:8
+msgid "Subscribe"
+msgstr "الإشتراك"
+
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:7
+msgid "create new role"
+msgstr "إنشاء صلاحية جديدة"
+
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:18
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:71
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:72
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:73
+msgid "All Roles"
+msgstr "الصلاحيات"
+
+#: ../storage/framework/messages/e851d0e41840b694b8aeeebb4aacd744ece4209c.php.php:35
+msgid "Updated At"
+msgstr "تاريخ التحديث"
+
+#: ../storage/framework/messages/e89b8a25239aef171552bccbda7bbab364ee94dd.php.php:5
+msgid "create new tags"
+msgstr "إنشاء تاج جديد"
+
+#: ../storage/framework/messages/e89b8a25239aef171552bccbda7bbab364ee94dd.php.php:13
+msgid "create tags"
+msgstr "إنشاء تاج"
+
+#: ../storage/framework/messages/e89b8a25239aef171552bccbda7bbab364ee94dd.php.php:61
+#: ../storage/framework/messages/e89b8a25239aef171552bccbda7bbab364ee94dd.php.php:62
+msgid "Create Tag"
+msgstr "إنشاء تاج"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:65
+msgid "Customer Details"
+msgstr "تفاصيل العميل"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:89
+msgid "No Mobile"
+msgstr "لا يوجد هاتف"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:101
+msgid "Order Status"
+msgstr "حالة الطلب"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:103
+msgid "wait"
+msgstr "منتظر"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:104
+msgid "refused"
+msgstr "مرفوض"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:105
+msgid "accepted"
+msgstr "مقبول"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:106
+msgid "delivered"
+msgstr "تم التوصيل"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:111
+msgid "Send Codes"
+msgstr "إرسال الأكواد"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:137
+msgid "Bank Details"
+msgstr "تفاصيل البنك"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:188
+msgid "Payment Details"
+msgstr "تفاصيل الدفع"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:324
+msgid "Order status successfully modified"
+msgstr "تم تعديل حالة الطلب بنجاح"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:332
+msgid "The status of the request is not expedited"
+msgstr "حالة الطلب غير متوقعة"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:361
+msgid "Code Sent Successfully"
+msgstr "تم إرسال الكود بنجاح"
+
+#: ../storage/framework/messages/e8e0c5a01795714d144feab74f3b04f5a71f069c.php.php:369
+msgid "Error Sending Code"
+msgstr "خطأ في إرسال الكود"
+
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:4
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:7
+msgid "create new content"
+msgstr "إنشاء محتوي جديد"
+
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:105
+msgid "content column1 here..."
+msgstr "محتوي العمود1 هنا"
+
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:110
+msgid "content column2 here..."
+msgstr "محتوي العمود2 هنا"
+
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:115
+msgid "content column3 here..."
+msgstr "محتوي العمود3 هنا"
+
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:120
+msgid "content column4 here..."
+msgstr "محتوي العمود4 هنا"
+
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:181
+#: ../storage/framework/messages/e9554055c711e9c3dc88463298d9a5706ca07f7d.php.php:182
+msgid "Add Content "
+msgstr "إضافة محتوي"
+
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:7
+msgid "Payment Methods"
+msgstr "طرق الدفع"
+
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:14
+msgid "Choose a payment method"
+msgstr "اختر طريقة الدفع"
+
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:18
+msgid "By The Bank"
+msgstr "عن طريق البنك"
+
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:22
+msgid "Electronic Payment"
+msgstr "الدفع الإلكتروني"
+
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:68
+msgid "Holder name"
+msgstr "اسم الحامل"
+
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:78
+msgid "Bank Transactions number"
+msgstr "رقم المعاملات المصرفية"
+
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:107
+msgid "No Banks"
+msgstr "لا يوجد بنوك"
+
+#: ../storage/framework/messages/ea49521499345248fcc5e9ca3229e1569f1a9604.php.php:145
+msgid "No Online Payment"
+msgstr "لا يوجد الدفع عبر الإنترنت"
+
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:7
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:118
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:119
+#: ../storage/framework/messages/ea8d23db05c97890de81f6c64ae61cd538390580.php.php:120
+msgid "Edit Home Page Section"
+msgstr "تعديل قسم للصفحة الرئيسية"
+
+#: ../storage/framework/messages/ed29b1d2f1b65ab0466a4c0d080dfae7532195e6.php.php:17
+msgid "Blogs"
+msgstr "المدونات"
+
+#: ../storage/framework/messages/ed29b1d2f1b65ab0466a4c0d080dfae7532195e6.php.php:43
+msgid "NewsLetters"
+msgstr "آخر الأخبار"
+
+#: ../storage/framework/messages/ed29b1d2f1b65ab0466a4c0d080dfae7532195e6.php.php:74
+msgid "Product Category"
+msgstr "أقسام المنتجات"
+
+#: ../storage/framework/messages/ed29b1d2f1b65ab0466a4c0d080dfae7532195e6.php.php:107
+msgid "Ratings"
+msgstr "التقييمات"
+
+#: ../storage/framework/messages/ed29b1d2f1b65ab0466a4c0d080dfae7532195e6.php.php:143
+msgid "Bank Transfer"
+msgstr "المعاملات المصرفية"
+
+#: ../storage/framework/messages/eee1b64b700080b4790a27258a619461c1f00493.php.php:5
+#: ../storage/framework/messages/eee1b64b700080b4790a27258a619461c1f00493.php.php:13
+msgid "edit blog category"
+msgstr "تعديل قسم للمدونة"
+
+#: ../storage/framework/messages/eee1b64b700080b4790a27258a619461c1f00493.php.php:125
+#: ../storage/framework/messages/eee1b64b700080b4790a27258a619461c1f00493.php.php:126
+msgid "Edit Blog Categories"
+msgstr "تعديل قسم للمدونة"
+
+#: ../storage/framework/messages/f1a7a748fc394b6daaa136eda6b487649e10ec62.php.php:16
+msgid "Thanks for subscribe"
+msgstr "شكرا لإشتراكك"
+
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:3
+msgid "Edit Info"
+msgstr "تعديل البيانات"
+
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:30
+msgid "Developer"
+msgstr "المطور"
+
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:40
+msgid "Region"
+msgstr "المنطقة"
+
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:44
+msgid "Platform"
+msgstr "المنصة"
+
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:147
+msgid "Main Image"
+msgstr "الصورة الرئيسية"
+
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:154
+msgid "video"
+msgstr "الفديو"
+
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:156
+msgid "Youtube Link"
+msgstr "لينك اليوتيوب"
+
+#: ../storage/framework/messages/f4323352d0c3d090831f8fb054e21bbcb03b7321.php.php:185
+msgid "Related Products"
+msgstr "منتجات ذات صله"
+
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:16
+msgid "Content List"
+msgstr "قائمة المحتويات"
+
+#: ../storage/framework/messages/f49e4345114ffa1165ae33f32a9d377a4164a8b9.php.php:41
+msgid "Columns"
+msgstr "الأعمدة"
+
+#: ../storage/framework/messages/f6e4fce582768c7bb6fe6b823eb772c5c2ba7429.php.php:69
+#: Http/Controllers/Front/UserController.php:69
+msgid "Your Profile Updated Successfully"
+msgstr "تم تعديل الملف الشخصي بنجاح"
+
+#: ../storage/framework/messages/f88e976bf37a2a07bf0045da4f0e8bbe2a3f09fb.php.php:21
+#: ../storage/framework/messages/f88e976bf37a2a07bf0045da4f0e8bbe2a3f09fb.php.php:22
+msgid "All Sliders"
+msgstr "كل السلايدر"
+
+#: ../storage/framework/messages/fe4a43aa0398247de450526987262efc37375c85.php.php:32
+#: Http/Controllers/Front/ForgetPassController.php:32
+msgid "link Sent"
+msgstr "تم إرسال اللينك"
+
+#: ../storage/framework/messages/fe4a43aa0398247de450526987262efc37375c85.php.php:34
+#: Http/Controllers/Front/ForgetPassController.php:34
+msgid "Try Again"
+msgstr "حاول مرة أخري"
+
+#: ../storage/framework/messages/fe4a43aa0398247de450526987262efc37375c85.php.php:53
+#: Http/Controllers/Front/ForgetPassController.php:53
+msgid "user.password"
+msgstr "كلمة مرور المستخدم"
+
+#: ../storage/framework/messages/fe4a43aa0398247de450526987262efc37375c85.php.php:54
+#: Http/Controllers/Front/ForgetPassController.php:54
+msgid "user.password_Confirm"
+msgstr "تأكيد كلمة المرور"
+
+#: ../storage/framework/messages/ff1e68912a3581b87634e368e0d68aa74e8bbc90.php.php:20
+msgid "Back to website"
+msgstr "الرجوع للموقع"
+
+#: ../storage/framework/messages/ff1e68912a3581b87634e368e0d68aa74e8bbc90.php.php:24
+msgid "Welcome"
+msgstr "أهلا بك"
+
+#~ msgid "CVC"
+#~ msgstr "CVC"
+
+#~ msgid "add new admin"
+#~ msgstr "إنشاء ادمن جديد"
+
+#~ msgid "No image"
+#~ msgstr "لا يوجد صوره"
+
+#~ msgid "all record"
+#~ msgstr "كل السجلات"
+
+#~ msgid "create new Bank"
+#~ msgstr "إنشاء بنك جديد"
+
+#~ msgid "id"
+#~ msgstr "الرقم"
+
+#~ msgid "edit/delete"
+#~ msgstr "تعديل/حذف"
+
+#~ msgid "no data"
+#~ msgstr "لايوجد بيانات"
+
+#~ msgid "create new category"
+#~ msgstr "إنشاء قسم جديد"
+
+#~ msgid "description"
+#~ msgstr "الوصف"
+
+#~ msgid "parent"
+#~ msgstr "الرئيسي"
+
+#~ msgid "No Icon"
+#~ msgstr "لا يوجد أيقونة"
+
+#~ msgid "create new country"
+#~ msgstr "إنشاء دولة جديد"
+
+#~ msgid "logo"
+#~ msgstr "اللوجو"
+
+#~ msgid "country"
+#~ msgstr "الدولة"
+
+#~ msgid "create new game details"
+#~ msgstr "إنشاء تفاصيل جديدة للعبة"
+
+#~ msgid "create new language"
+#~ msgstr "إنشاء لغة جديد"
+
+#~ msgid "created at"
+#~ msgstr "تاريخ الإنشاء"
+
+#~ msgid "create new genre"
+#~ msgstr "إنشاء نوع جديد"
+
+#~ msgid "Not Sent"
+#~ msgstr "لم يتم الإرسال"
+
+#~ msgid "Sent"
+#~ msgstr "إرسال"
+
+#~ msgid "all records"
+#~ msgstr "كل السجلات"
+
+#~ msgid "Customer"
+#~ msgstr "العميل"
+
+#~ msgid "Status "
+#~ msgstr "الحالة"
+
+#~ msgid "Code Status"
+#~ msgstr "حالة الكود"
+
+#~ msgid "Edit/Delete"
+#~ msgstr "تعديل/حذف"
+
+#~ msgid "create new platform"
+#~ msgstr "إنشاء منصة جديدة"
+
+#~ msgid "create new product"
+#~ msgstr "إنشاء منتج جديد"
+
+#~ msgid "No Title belongs to this language"
+#~ msgstr "لا يوجد عنوان ينتمي إلى هذه اللغة"
+
+#~ msgid "add new HomePage Section"
+#~ msgstr "إضافة قسم جديد للصفحة الرئيسية"
+
+#~ msgid "order"
+#~ msgstr "الطلب"
+
+#~ msgid "No flag"
+#~ msgstr "لا يوجد علم"
+
+#~ msgid "Not Published"
+#~ msgstr "لم يتم النشر"
+
+#~ msgid "create new work on"
+#~ msgstr "إنشاء منطقة عمل جديدة"
+
+#~ msgid "Yes"
+#~ msgstr "نعم "
+
+#~ msgid "No"
+#~ msgstr "لا"
+
+#~ msgid "create new blog"
+#~ msgstr "إنشاء مدونة جديدة"
+
+#~ msgid "create new tag"
+#~ msgstr "إنشاء تاج جديد"
+
+#~ msgid "Tags"
+#~ msgstr "الشعارات"
+
+#~ msgid "Category"
+#~ msgstr "القسم"
+
+#~ msgid "Translation"
+#~ msgstr "الترجمة"

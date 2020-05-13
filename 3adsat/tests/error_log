@@ -1,0 +1,2 @@
+[12-Nov-2019 15:56:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/qeyeq/public_html/beta/tests/TestCase.php on line 7
+[13-Nov-2019 17:24:52 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/qeyeq/public_html/beta/tests/TestCase.php on line 7
